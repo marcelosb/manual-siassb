@@ -111,6 +111,8 @@ Feito o agendamento do usuário, haverá o redirecionamento para a tela de impre
 
 ![image info](../../static/img/secretary/schedule/usuario_agendado.jpg)
 
+### Imprimindo o comprovante de agendamento
+
 Ao clicar em "Gerar comprovante de agendamento", o sistema irá abrir o comprovante em uma nova aba.
 
 ![image info](../../static/img/secretary/schedule/comprovante_de_agendamento.jpg)
@@ -142,4 +144,89 @@ Como mostrado na imagem acima, existe um usuário agendado para a data 25/11/202
 Para ver mais informações do agendamento, basta clicar em cima do nome do usuário.
 
 ![image info](../../static/img/secretary/schedule/dados_usuario_agendado.jpg)
+
+### Alterando o status do agendamento
+
+Ao clicar no nome do usuário uma janela modal será aberta, caso queria mudar o status do atendimento, basta selecionar o novo status e clicar em "Alterar".
+
+:::info Importante
+Os tipos de status são:
+- **Agendado** (usuário agendado para uma data futura)
+- **Atendimento realizado** (usuário compareceu ao local e foi atendido)
+- **Remarcado** (usuário solicitou uma remarcação de seu agendamento)
+- **Não aguardou o atendimento** (usuário por algum motivo/imprevisto, decidiu não aguardar o atendimento)
+- **Não compareceu** (usuário não compareceu na data do seu atendimento)
+- **Cancelado** (operação realizada pelo profissional ou pelo sistema de forma automática)
+:::
+
+Além disso, outros dados do usuário também podem ser alterados. Feito a alteração, o status do agendamento irá mudar, conforme imagem abaixo:
+
+![image info](../../static/img/secretary/schedule/atendimento_realizado.jpg)
+
+## Buscar agendamento
+
+Para realizar ums busca por um determinado agendamento, basta clicar em **Secretaria -> Agendamentos -> Buscar agendamento**, o sistema irá mostra uma nova tela, conforme a imagem abaixo:
+
+![image info](../../static/img/secretary/schedule/buscar_agendamento.jpg)
+
+A busca pode ser realizada pelo nome do usuário, CPF, unidade de atendimento, data do agendamento, responsável pelo atendimento e status.
+
+:::tip Dica
+O nome do usuário pode ser pesquisado em partes, ou seja, no lugar de digitar MARIA DA SILVA, pode ser digitado apenas MARIA que o sistema vai encontrar todas as MARIA's e retornar o reultado
+:::
+
+:::note Nota
+Não é necessário realizar a busca por todos os campos, basta preencher um determinado campo que o sistema faz a busca normalmente.
+:::
+
+Ao clicar no botão de **Buscar** e a pesquisa encontrar algum resultado conforme os parâmetros informados, o sistema vai exibir a seguinte página:
+
+![image info](../../static/img/secretary/schedule/buscar_registros.jpg)
+
+O sistema vai exibir uma tabela com vários registros, com as colunas de nome do usuário, CPF, data de registro e atendenteserviços que serão prestados, status, data e hora, ao clicar no nome do usuário, o sistema vai mostrar 4 abas:
+
+1. Resumo
+2. Editar dados
+3. Editar status do agendamento
+4. Ver comprovante de agendamento
+
+### Aba resumo
+
+![image info](../../static/img/secretary/schedule/busca_resumo.jpg)
+
+Na aba resumo é onde são exibidas as informações relevantes do agendamento, como Nome do usuário, CPF, serviços que serão prestados, Programa/Unidade, data e hora do agendamento, Status, responsável pelo atendimento e observações.
+
+### Aba editar dados
+
+Já na aba de editar dados, o profissional poderá alterar os dados daquele agendamento em específico, realizando as alterações pertinentes e depois basta clica no botão "Alterar agendamento".
+
+![image info](../../static/img/secretary/schedule/busca_editar_dados.jpg)
+
+### Aba status do agendamento
+
+Na aba de status do agendamento, o profissional poderá alterar o status daquele agendamento em específico, como também inserir o motivo e depois basta clica no botão "Alterar status".
+
+![image info](../../static/img/secretary/schedule/aba_status_agendamento.jpg)
+
+### Aba ver comprovante de agendamento
+
+Ao clicar em ver comprovante de agendamento, será aberta uma nova aba no navegador para impressão, conforme já mencionado [aqui](#imprimindo-o-comprovante-de-agendamento)
+
+## Ver relatórios nominais
+
+Para realizar ums busca por um relatório nominal, basta clicar em **Secretaria -> Agendamentos -> Ver relatórios nominais**, o sistema irá mostra uma nova tela, conforme a imagem abaixo:
+
+![image info](../../static/img/secretary/schedule/relatorios_nominais.jpg)
+
+Os relatórios nominais nos dão a possibilidade de identificarmos quem foram os usuários que foram agendados. Para isso, deve-se inserir uma data inicial e uma data final, selecionar um tipo de filtro de status, e selecionar as colunas que deseja visualizar. Para assim, obtermos o relatório, conforme a imagem abaixo.
+
+![image info](../../static/img/secretary/schedule/agendamentos_relatorio_nominal.jpg)
+
+Assim, os registros realizados na triagem podem ser impressos, salvos no formato PDF. Além disso, os dados podem ser salvos clicando no botão "Exportar dados", os dados serão baixados no formato CSV.
+
+:::tip Dica
+A grande vantagem de exportar os dados no formato CSV é o fato dele possibilitar a importação e exportação de arquivos de uma linguagem que vários aplicativos podem ler. Aplicativos como o Microsoft Excel, Google Planilhas e LibreOffice Calc podem facilmente ler esse tipo de arquivo, dessa forma os dados podem ser manipulados de várias formas diferentes, sejam para fins de pesquisas e análises de dados ou até mesmo para apoiar os gestores municipais nas suas tomadas de decisões.
+:::
+
+Além disso, os dados exportados no formato CSV também podem ser importados para outros sistemas próprios da gestão municipal.
 
