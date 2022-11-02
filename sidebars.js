@@ -48,18 +48,11 @@
 // };
 
 module.exports = {
-  mySidebar: [
-    {
-      type: 'category',
-      label: 'Introdução',
-      items: [
-        {
-          type: 'category',
-          label: 'Category test',
-          items: ['tutorial-basics/introduction'],
-        },
-      ],
-    },
+  secretarySidebar: [
+    'secretary/index',
+    'secretary/triage',
+    'secretary/fiche',
+    'secretary/schedule',
   ],
 
   crasSidebar: [

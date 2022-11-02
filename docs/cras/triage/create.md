@@ -101,5 +101,3 @@ Além disso, existe o opção de gerar relatório analítico, basta clicar no bo
 ![image info](../../../static/img/cras/triagem/grafico_relatorio.jpg)
 
 O mesmo pode ser impresso ou salvo no formato PDF.
-
-Isso é um link [TESTE](http://localhost:3000/my-markdown-page).

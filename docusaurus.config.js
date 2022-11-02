@@ -9,7 +9,7 @@ const config = {
   title: 'Manual de uso do SIASSB',
   tagline: 'Sistema Integrado da Assistência Social',
   url: 'https://marcelosb.github.io/',
-  baseUrl: '/manual-siassb',
+  baseUrl: '/manual-siassb/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
@@ -81,7 +81,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tutorial-basics/introduction',
+            docId: 'secretary/index',
             position: 'left',
             label: 'Secretaria',
           },

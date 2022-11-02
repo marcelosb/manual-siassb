@@ -101,6 +101,12 @@ Dentre as funcionalidades no sistema, podemos citar:
 - Imprimir folha resumo
 - Imprimir relatório social
 
+O formulário de inscrição em benefícios eventuais está divido nos seguintes blocos:
+
+1. Identificação e controle
+2. Membros da família
+3. Anexos
+
 ## Encaminhamentos
 
 Funcionalidade utilizada pelos profissionais da assistência social para realizar encaminhamentos entre os equipamentos ou para outras unidades externas. Possibilidade de gerar o documento impresso para realizar a contra-referência.
@@ -111,7 +117,7 @@ Quando os encaminhamentos são realizados entre as unidades da assistência soci
 
 ## Solicitação de visita domiciliar
 
-As solicitações de visitas domiciliares são realizadas através dos assistentes sociais. As solicitações são registradas no sistema e podem ser facilmente buscadas.
+As solicitações de visitas domiciliares são realizadas através dos profossionais da assistência social. As solicitações são registradas no sistema e podem ser facilmente buscadas.
 
 Funcionalidades no sistema:
 
