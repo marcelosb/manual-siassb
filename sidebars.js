@@ -53,6 +53,8 @@ module.exports = {
     'secretary/triage',
     'secretary/fiche',
     'secretary/schedule',
+    'secretary/report-social',
+    'secretary/habitation',
   ],
 
   crasSidebar: [
