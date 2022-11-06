@@ -11,11 +11,9 @@ Os programas de Habitação de Interesse Social têm como objetivo viabilizar à
 Vale ressaltar que o pré-cadastro se trata apenas de um levantamento sobre a situação habitacional atual em que se encontra o município, portanto, não caracterizando qualquer contemplação.
 :::
 
-O relatório social é um documento específico do Assistente Social. Esse material é produzido após o profissional realizar a coleta de informações e dados relativos ao trabalho de intervenção da questão social. O relatório social serve para o assistente utilizar na produção de um parecer ou laudo social.
-
 ## Pré-cadastro em blocos
 
-O pré-cadastro é dividido em oito blocos.
+Para registrar o pré-cadastro, deve-se ir em **Secretaria -> Habitação -> Realizar pré-cadastro**, a seguinte tela será exibida. O pré-cadastro é dividido em oito blocos.
 
 1. [`Identificação`](#identificação)
 2. [`Composição familiar`](#composição-familiar)
@@ -164,146 +162,159 @@ Para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continua
 
 ### Informações da edificação
 
-Neste bloco, deve ser selecionado o tipo de benefício, se é um benefício do tipo Auxílio Brasil ou Benefício Eventual, conforme a imagem abaixo.
+Neste bloco, serão apresentadas informações de edificação, conforme a imagem abaixo.
 
 ![Tipo de benefício auxílio](../../static/img/secretary/habitation/bloco_edificacao_01.jpg)
 ![Ed](../../static/img/secretary/habitation/bloco_edificacao_02.jpg)
 ![Tipo de benefício eventual](../../static/img/secretary/habitation/bloco_edificacao_03.jpg)
 
+Conforme a imagem acima, o bloco de edificação é dividido em 10 sub-blocos.
+
+#### Sub-bloco 01
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-01.jpg)
+
+É voltado para saber se existem mais de uma família morando na casa, caso sim, automaticamente o sistema preenche o campo "Quantas?*" com o valor 1, no campo abaixo ainda é perguntado se é por opção da família  ou por necessidade.
+
+#### Sub-bloco 02
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-01.jpg)
+
+É perguntado se o entrevistado é o proprietário do terreno, se tem a escritura e se é o proprietário da casa.
+
+#### Sub-bloco 03
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-03.jpg)
+
+Caso seja o proprietário da casa (item 5.04), os items do campo 5.05 serão todos desabilitados.
+
+#### Sub-bloco 04
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-04.jpg)
+
+Pergunta como a casa foi construída:
+
+1. Recursos próprios
+2. Financiamento
+3. Recursos de programas habitacionais
+4. Outros
+
+Se a casa foi construída com outros recursos, informar qual.
+
+#### Sub-bloco 05
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-05.jpg)
+
+pergunta se existe mais uma casa ou anexo habitado por outra família neste terreno, e se é por opção da família ou por necessidade.
+
+#### Sub-bloco 06
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-06.jpg)
+
+Pergunta qual o material de construção da casa:
+
+1. Alvenaria/Tijolos
+2. Madeira
+3. Taipa
+4. Mista
+5. Outros
+
+Caso a casa foi construída com outro material, informar qual.
+
+#### Sub-bloco 07
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-07.jpg)
+
+Pergunta sobre o estado de conservação da casa:
+
+1. Novo/Ótimo
+2. Normal
+3. Ruim (necessita de reforma)
+4. Precária (inadequada para habitação)
+
+E no próximo campo, informar o número de quartos da casa, deve ser informado um número inteiro.
+
+#### Sub-bloco 08
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-08.jpg)
+
+Pergunta se há pessoas da família que precisam dormir na sala ou cozinha por falta de quartos, e se há algum cômodo onde dormem três pessoas, ou mais, todos os dias.
+
+#### Sub-bloco 09
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-09.jpg)
+
+Pergunta se a casa possui banheiro, caso não, o campo "Quantos" é preenchido automaticamente com o valor 0, e o campo banheiro é dentro de casa é desabilidatado. 
+
+#### Sub-bloco 10
+
+![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-10.jpg)
+
+É para assinalar se a área onde a casa encontra-se esta sujeita a uma ou mais das situações abaixo, esta resposta aceita múltiplas seleções. Caso casa não esteja em nenhuma das áreas informadas, pode proseguir para o próximo bloco pois este campo não é obrigatório.
+
 Após o preenchimento de todos os campos, para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continuar".
 
 ### Infraestrutura existente
 
+O bloco de infraestrutura existente é dividido em 4 sub-blocos:
+
+1. [`Energia elétrica`](#energia-elétrica)
+2. [`Água canalizada`](#água-canalizada)
+3. [`Esgoto da casa`](#esgoto-da-casa)
+4. [`Lixo doméstico`](#lixo-doméstico)
+
 ![Tipo de benefício auxílio](../../static/img/secretary/habitation/infra_01.jpg)
 ![Ed](../../static/img/secretary/habitation/infra_02.jpg)
 
+#### Energia elétrica
 
-Por fim, basta clicar no botão "Finalizar relatório" que o sistema irá redirecionar para a seguinte página.
+Pergunta se a casa possui energia elétrica, caso sim, deve ser informada a fonte de energia elétrica (rede, elétrica sem medidor ou vela).
+
+#### Água canalizada
+
+Pergunta se a casa possui água com canalização interna, caso sim, deve ser informada qual a fonte da água (rede, poço ou nascente).
+
+#### Esgoto da casa
+
+Pergunta qual o destino do esgoto da casa:
+
+1. Rede coletora de esgoto
+2. Fossa/Filtro
+3. Fossa/Filtro/Semidouro
+4. Fossa negra (buraco)
+5. Céu aberto/Rio
+6. Outro
+
+Se outro, deve ser informado qual é o destino do esgoto da casa.
+
+#### Lixo doméstico
+
+Pergunta qual é o destino do lixo doméstico:
+
+1. Coleta da prefeitura
+2. Enterra
+3. Queima
+4. Separa para reciclagem
+5. Céu aberto
+6. Outro
+
+Se outro, deve ser informado qual é o destino do lixo doméstico.
+
+Após o preenchimento de todos os campos, para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continuar".
 
 ### Observações técnicas
 
-Para buscar um relatório social, deve ir em **Secretaria -> Relatórios socias -> Buscar**, a seguinte tela será exibida.
+No campo de observações técnicas devem ser escrita toda a observação realizada pelo assistente social durante o atendimento, após isso deve ser seleiconado o técnico responsável pelo atendimento e por fim informar a data do atendimento.
 
 ![Consultar relatório social](../../static/img/secretary/habitation/observacoes.jpg)
 
-Após selecionado os parâmetros de busca, deve-se clicar no botão "Buscar".
+Após o preenchimento de todos os campos, para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continuar".
 
 ### Anexos
 
-![Consultar relatório social](../../static/img/secretary/habitation/anexos.jpg)
-
-## Sucesso
-
-![Consultar relatório social](../../static/img/secretary/habitation/sucesso.jpg)
-
-### Visualizando registros
-
-Caso a pesquisa seja bem sucedida, o sistema irá redirecionar para a página de registros, conforme a imagem abaixo.
-
-![Consultar relatório social](../../static/img/secretary/habitation/anexos.jpg)
-
-Os registros são exibidos com as seguintes colunas: nome do usuário, CPF, parentesco, data de registro, atendente, e ações.
-
-### Aba dados da família
-
-Na aba de dados da família é mostrado um resumo dos dados cadastrais do relatório social, além disso também possui a opção de gerar uma folha reusmo (caso a família necessite) e de gerar o relatório social para impressão.
-
-![Aba resumo](../../static/img/secretary/report-social/aba_resumo.jpg)
-![Aba resumo composição familiar](../../static/img/secretary/report-social/aba_resumo_componentes.jpg)
-
-### Aba identificação e controle
-
-Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
-
-![Aba identificação sub-bloco identificação](../../static/img/secretary/report-social/aba_identificao_controle.jpg)
-![Aba identificação sub-bloco endereço](../../static/img/secretary/report-social/aba_identificao_controle_endereco.jpg)
-
-Realizada todas as modificações, basta clicar no botão "Editar".
-
-### Aba componentes da família
-
-![Aba identificação sub-bloco identificação](../../static/img/secretary/report-social/aba_componentes_da_familia.jpg)
-
-O processo de registro, visualização, alteração e exclusão dos dados das pessoas deve ser seguido, corforme o [`bloco de membros da família`](#bloco-de-membros-da-família).
-
-### Aba anexos
-
-O processo de anexo dos documentos da família devem ser seguidos, corforme o [`bloco de anexos`](#bloco-de-anexos).
-
-### Aba família
-
-Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
-
-![Aba família](../../static/img/secretary/report-social/aba_familia.jpg)
-
-Realizada todas as modificações, basta clicar no botão "Editar".
-
-### Aba benefício
-
-Na aba de benefício os dados só podem ser visualizados, com isso, não existem alterações de dados nessa aba, veja na imagem abaixo.
-
-![Aba benefício](../../static/img/secretary/report-social/aba_beneficio.jpg)
-
-### Aba despesas
-
-Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
-
-![Aba despesas](../../static/img/secretary/report-social/aba_despesas.jpg)
-
-Realizada todas as modificações, basta clicar no botão "Editar".
-
-### Aba motivo da visita/Atendimento
-
-Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
-
-![Aba motivo da visita/Atendimento](../../static/img/secretary/report-social/aba_observacoes.jpg)
-
-Realizada todas as modificações, basta clicar no botão "Editar".
-
-## Ver relatórios nominais
-
-Para ver um relatório nominal, deve-se ir em **Secretaria -> Relatórios socias -> Ver relatórios nominais**, a seguinte tela será exibida.
-
-![Ver realtórios nominais](../../static/img/secretary/report-social/ver_relatorios_nominais.jpg)
-
-Para buscar por um relatório nominal, primeiramente selecionar a data de inicial e a data final, depois selecionar os campos que deseja visualizar, será aberta uma nova aba conforme a pesquisa informada, veja na imagem abaixo.
-
-![Ver realtórios nominais registros](../../static/img/secretary/report-social/relatorio_nominal_registros.jpg)
-
-A página pode ser impressa ou salva no formato PDF. Clicando no botão "Exporta dados", os dados serão exportados no formato CSV.
-
-:::tip Dica
-A grande vantagem de exportar os dados no formato CSV é o fato dele possibilitar a importação e exportação de arquivos de uma linguagem que vários aplicativos podem ler. Aplicativos como o Microsoft Excel, Google Planilhas e LibreOffice Calc podem facilmente ler esse tipo de arquivo, dessa forma os dados podem ser manipulados de várias formas diferentes, sejam para fins de pesquisas e análises de dados ou até mesmo para apoiar os gestores municipais nas suas tomadas de decisões.
-:::
-
-Além disso, os dados exportados no formato CSV também podem ser importados para outros sistemas próprios da gestão municipal.
-
-## Ver gráficos/relatórios quantitativos
-
-Para ver gráficos dos relatórios sociais, deve-se ir em **Secretaria -> Relatórios socias -> Ver relatórios gráficos/relatórios quantitativos**, a seguinte tela será exibida.
-
-![Ver realtórios quantitativos](../../static/img/secretary/report-social/ver_graficos.jpg)
-
-Informar sempre uma data inicial e uma data final e depois clicar no botão "Gerar gráficos", se a busca encontrar algum registro, a tela será renderizada com os seguintes gráficos.
-
-![gráfico coleta de dados](../../static/img/secretary/report-social/grafico_coleta_de_dados.jpg)
-![gráfico bpc](../../static/img/secretary/report-social/grafico_bpc.jpg)
-![gráfico programas sociais](../../static/img/secretary/report-social/grafico_programas_sociais.jpg)
-![gráfico recebe ajuda](../../static/img/secretary/report-social/grafico_recebe_ajuda.jpg)
-![gráfico produção dos técnicos](../../static/img/secretary/report-social/grafico_producao_dos_tecnicos.jpg)
-
-Além disso, no fim da página existe a possibilidade de gerar um relatório analítido dos dados gerados pelos gráficos. Clicando em "Gerar relatório", o sistem vai exibir uma nova página, veja na imagem abaixo.
-
-![Ver relatório analítico](../../static/img/secretary/report-social/relatorio_analitico.jpg)
-
-
-
-
-bloco anexos
-
 Neste bloco devem ser anexados os documentos da família, veja na imagem abaixo.
 
-![Bloco de anexos](../../static/img/secretary/report-social/bloco_anexos.jpg)
+![Consultar relatório social](../../static/img/secretary/habitation/anexos.jpg)
 
 Antes de iniciar o processo de anexo de documentos, recomendamos que a documentação seja escaneada e convertida para o formato PDF.
 
@@ -312,3 +323,165 @@ Com toda a documentação no formato PDF, basta clicar em escolher arquivos e de
 :::caution Atenção
 A funcionalidade de anexar documentos não é obrigatória! Caso o técnico observou que não há a necessidade de anexar documentos da família, deve pular para o próximo bloco, clicando no botão "Continuar".
 :::
+
+Por fim, basta clicar no botão "Finalizar pré-cadastro" que o sistema irá redirecionar para a seguinte página.
+
+![Consultar relatório social](../../static/img/secretary/habitation/sucesso.jpg)
+
+#### Imprimindo o pré-cadastro habitacional
+
+Clicando em "gerar documento para impressão", será aberta uma nova aba com o formulário pronto para ser impresso, conforme a imagem abaixo.
+
+![Consultar relatório social](../../static/img/secretary/habitation/impressao-01.jpg)
+![Consultar relatório social](../../static/img/secretary/habitation/impressao-02.jpg)
+![Consultar relatório social](../../static/img/secretary/habitation/impressao-03.jpg)
+
+
+## Buscar pré-cadastro habitacional
+
+Para buscar o pré-cadastro, deve-se ir em **Secretaria -> Habitação -> Buscar pré-cadastro**, a seguinte tela será exibida. 
+
+![Consultar relatório social](../../static/img/secretary/habitation/buscar_pre_cadastro.jpg)
+
+Após selecionado os parâmetros de busca, deve-se clicar no botão "Buscar".
+
+### Visualizando registros
+
+Caso a pesquisa seja bem sucedida, o sistema irá redirecionar para a página de registros, conforme a imagem abaixo.
+
+![Consultar relatório social](../../static/img/secretary/habitation/busca_registros_pre_cadastro.jpg)
+
+Na opção de ações temos o ícone de visualizar os dados, basta clicar que o sistema irá redirecionar para uma nova página contendo as seguintes abas: 
+
+- Resumo
+- Identificação
+- Composição familiar
+- Gastos mensais
+- Informações gerais da família
+- Informações de edificação
+- Infra-estrutura existente
+- Observações técnicas
+- Anexos
+- Imprimir folha resumo
+- Imprimir formulário
+
+### Aba resumo
+
+![Aba resumo](../../static/img/secretary/habitation/aba_resumo.jpg)
+
+Na aba de dados da família é mostrado um resumo dos dados cadastrais do relatório social.
+
+### Aba identificação
+
+Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
+
+![Aba resumo](../../static/img/secretary/habitation/aba_identificacao_01.jpg)
+![Aba resumo](../../static/img/secretary/habitation/aba_identificacao_02.jpg)
+
+Realizada todas as modificações, basta clicar no botão "Editar".
+
+### Aba Composição familiar
+
+![Aba resumo](../../static/img/secretary/habitation/aba_composicao_familiar.jpg)
+
+O processo de registro, visualização, alteração e exclusão dos dados das pessoas deve ser seguido, corforme o [`bloco de composição familiar`](#composição-familiar).
+
+### Aba gastos mensais
+
+Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
+
+![Aba despesas](../../static/img/secretary/habitation/aba_gastos_mensais.jpg)
+
+Realizada todas as modificações, basta clicar no botão "Editar".
+
+### Aba informações gerais da família
+
+Nesta aba, o assistente social poderá realizar a alteração dos dados, conforme a imagem abaixo.
+
+![Aba família](../../static/img/secretary/habitation/aba_informacoes_gerais_da_familia.jpg)
+
+Realizada todas as modificações, basta clicar no botão "Editar".
+
+### Aba informações de edificação
+
+Nesta aba, o assistente social poderá realizar a alteração dos dados de edificação, conforme a imagem abaixo.
+
+![Aba benefício](../../static/img/secretary/habitation/aba_informacoes_de_edificacao_01.jpg)
+![Aba benefício](../../static/img/secretary/habitation/aba_informacoes_de_edificacao_02.jpg)
+![Aba benefício](../../static/img/secretary/habitation/aba_informacoes_de_edificacao_03.jpg)
+
+### Aba infra-estrutura existente
+
+Nesta aba, o assistente social poderá realizar a alteração dos dados relacionados a infra-estrutura existente, conforme a imagem abaixo.
+
+![Aba motivo da visita/Atendimento](../../static/img/secretary/habitation/aba_infra_existente_01.jpg)
+![Aba motivo da visita/Atendimento](../../static/img/secretary/habitation/aba_infra_existente_02.jpg)
+
+Realizada todas as modificações, basta clicar no botão "Editar".
+
+### Aba observações técnicas
+
+Nesta aba, o assistente social poderá realizar a alteração dos dados relacionados a infra-estrutura existente, conforme a imagem abaixo.
+
+![Aba motivo da visita/Atendimento](../../static/img/secretary/habitation/aba_observacoes_tecnicas.jpg)
+
+### Aba anexos
+
+O processo de anexo dos documentos da família devem ser seguidos, conforme o [`bloco de anexos`](#bloco-de-anexos).
+
+![Aba motivo da visita/Atendimento](../../static/img/secretary/habitation/aba_anexos.jpg)
+
+### Aba imprimir folha resumo
+
+Ao clicar em Imprimir folha resumo, o sistema irá abrir uma nova aba, conforme a imagem abaixo.
+
+![Aba motivo da visita/Atendimento](../../static/img/secretary/habitation/folha_resumo_01.jpg)
+![Aba motivo da visita/Atendimento](../../static/img/secretary/habitation/folha_resumo_02.jpg)
+
+A página pode ser impressa ou salva no formato PDF.
+
+### Aba imprimir formulário
+
+A aba de imprimir formuário é a mesma utilizada quando o pré-cadastro é realizado. [veja aqui](#imprimindo-o-pré-cadastro-habitacional) 
+
+## Ver relatórios nominais
+
+Para ver um relatório nominal, deve-se ir em **Secretaria -> Habitação -> Ver relatórios nominais**, a seguinte tela será exibida.
+
+![Ver realtórios nominais](../../static/img/secretary/habitation/ver_relatorios_nominais_01.jpg)
+![Ver realtórios nominais](../../static/img/secretary/habitation/ver_relatorios_nominais_02.jpg)
+
+Para buscar por um relatório nominal, primeiramente deve selecionar a data de inicial e a data final, depois selecionar os filtros, marcar os campos que deseja visualizar, e por fim clicar no botão "Gerar relatório", será aberta uma nova aba conforme a pesquisa informada, veja na imagem abaixo.
+
+![Ver realtórios nominais registros](../../static/img/secretary/habitation/relatorio_nominal_registros.jpg)
+
+A página pode ser impressa ou salva no formato PDF.
+
+## Ver gráficos/relatórios quantitativos
+
+Para ver gráficos dos pré-cadastros realizados, deve-se ir em **Secretaria -> Habitação -> Ver gráficos/relatórios quantitativos**, a seguinte tela será exibida.
+
+![Ver realtórios quantitativos](../../static/img/secretary/habitation/ver_graficos.jpg)
+
+Informar sempre uma data inicial e uma data final e depois clicar no botão "Gerar gráficos", se a busca encontrar algum registro, a tela será renderizada com os seguintes gráficos.
+
+![gráfico coleta de dados](../../static/img/secretary/habitation/grafico_localidade.jpg)
+![gráfico bpc](../../static/img/secretary/habitation/grafico_bairros.jpg)
+![gráfico programas sociais](../../static/img/secretary/habitation/grafico_mora_de_casa_alugada.jpg)
+![gráfico recebe ajuda](../../static/img/secretary/habitation/grafico_faixa_de_renda.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_programas_sociais.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_mais_de_uma_familia_na_casa.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_material_de_construcao_da_casa.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_estado_de_conservacao_da_casa.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_casa_possui_banheiro.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_casa_possui_energia_eletrica.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_casa_possui_agua_com_canalizacao_interna.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_destino_do_esgoto.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_destino_do_lixo.jpg)
+![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_producao_dos_tecnicos.jpg)
+
+Além disso, no fim da página existe a possibilidade de gerar um relatório analítico dos dados gerados pelos gráficos. Clicando em "Gerar relatório", o sistem vai exibir uma nova página, veja na imagem abaixo.
+
+![Ver relatório analítico](../../static/img/secretary/habitation/relatorio_analitico_01.jpg)
+![Ver relatório analítico](../../static/img/secretary/habitation/relatorio_analitico_02.jpg)
+![Ver relatório analítico](../../static/img/secretary/habitation/relatorio_analitico_03.jpg)
