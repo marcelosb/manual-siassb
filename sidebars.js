@@ -55,6 +55,7 @@ module.exports = {
     'secretary/schedule',
     'secretary/report-social',
     'secretary/habitation',
+    'secretary/sporadic',
   ],
 
   crasSidebar: [
