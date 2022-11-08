@@ -56,6 +56,8 @@ module.exports = {
     'secretary/report-social',
     'secretary/habitation',
     'secretary/sporadic',
+    'secretary/benefit-eventual',
+    'secretary/cadastro-unico',
   ],
 
   crasSidebar: [
