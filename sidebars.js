@@ -58,6 +58,7 @@ module.exports = {
     'secretary/sporadic',
     'secretary/benefit-eventual',
     'secretary/cadastro-unico',
+    'secretary/solicitation-visit',
   ],
 
   crasSidebar: [

@@ -153,8 +153,8 @@ A busca pode ser realizada pelo nome do usuário, CPF, data de nascimento, grau 
 O nome do usuário pode ser pesquisado em partes, ou seja, no lugar de digitar MARIA DA SILVA, pode ser digitado apenas MARIA que o sistema vai encontrar todas as MARIA's e retornar o resultado 
 :::
 
-:::note 
-Nota Não é necessário realizar a busca por todos os campos, basta preencher um determinado campo que o sistema faz a busca normalmente. 
+:::note Nota 
+Não é necessário realizar a busca por todos os campos, basta preencher um determinado campo que o sistema faz a busca normalmente. 
 :::
 
 Ao clicar no botão de buscar e a pesquisa encontrar algum resultado conforme os parâmetros informados, o sistema vai exibir a seguinte página:

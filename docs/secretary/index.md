@@ -181,7 +181,7 @@ Dentre as funcionalidades apresentadas no sistema, podemos citar:
 
 ## Solicitação de visita domiciliar
 
-As solicitações de visitas domiciliares são realizadas através dos profossionais da assistência social. As solicitações são registradas no sistema e podem ser facilmente buscadas.
+As solicitações de visitas domiciliares são realizadas através dos profissionais da assistência social. As solicitações são registradas no sistema e podem ser facilmente buscadas.
 
 Funcionalidades no sistema:
 
