@@ -142,3 +142,197 @@ Para visualizar as abas, registrar novas visitas e realizar edições, basta cli
 
 ![Consultar relatório social](../../static/img/modules/solicitation-visit/abas.jpg)
 
+A página posusi as seguintes abas:
+
+- Aba resumo
+- Aba Editar solicitação de visita
+- Aba Registra visita domiciliar
+- Imprimir solicitação de visita
+
+### Aba resumo 
+
+Conforme a imagem acima, a aba resumo possui várias informações importantes, detre elas podemos citar
+Responsável Familiar, Data de nascimento, CPF do responsável familiar, NIS, Motivo da visita, Nº de pessoas da família, Data do atendimento, Situação da visita e por fim a observação.
+
+:::caution Atenção
+É importante sempre verificar a situação da visita e ficar alerta a menagem que está no cabeçalho da página.
+:::
+
+### Aba Editar solicitação de visita
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/edita_solicitacao_de_visita_domiciliar_01.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/edita_solicitacao_de_visita_domiciliar_02.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+### Aba Registrar visita domiciliar
+
+Ao clicar na aba de registrar visita domiciliar, a imagem abaixo será exibida.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/registrar_visita_domiciliar.jpg)
+
+O formulário de registro de visita domiciliar, possui os seguintes campos:
+
+- Relatório da visita (descrição)
+- Situação da visita domiciliar, que possui os seguintes status:
+    - Resolvido na unidade de atendimento
+    - Resolvida na visita domiciliar
+    - Visita realizada e família não encontrada
+    - Rsolvido em outra unidade de atendimento
+- Data da visita
+- Entrevistador(a)
+
+:::info Importante
+O relatório da visita deve ser escrito se possível de forma formal e deve ser informado tudo o que foi realizada na visita.
+:::
+
+Preenchido todos os campos, basta clicar no botão "Registrar".
+
+Após o registro da visita domiciliar, perceba que o status na aba de resumo mudou, antes estava status pendente para Resolvido na visita domiciliar, e perceba que também foi mostrado um alerta na de Visita domiciliar registrada com sucesso, veja na imagem abaixo.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/registrar_visita_sucesso.jpg)
+
+### Aba visitas realizadas
+
+Após o cadastro da visita domiciliar, esta aba foi exibida, perceba que ela estava oculta, assim o profisisonal poderá visualizar todas as visitas já realizadas.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/aba_visitas_realizadas.jpg)
+
+A aba de visitas domiciliares está dividida 
+
+### Visualizar visita domiicliar
+
+Ao clicar no ícone de visualizar, uma janela modal será aberta com os dados da visita.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/visualizar_visita_domiciliar.jpg)
+
+### Editar visita domiciliar
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/editar_visita_domiciliar.jpg)
+
+Caso exista a necessidade de editar algum dado, realizada todas as mudanças, deve-se clicar no botão "Editar".
+
+### Imprimir visita domiciliar
+
+Ainda na aba de visita domicilair, caso haja a necessidade de imprimir o documento da visita domiciliar, basta clicar no botão de "Imprimir", o sistema irá abrir uma nova aba com a página pronta pra ser impressa.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/imprimir_visita_domiciliar.jpg)
+
+### Imprimir solicitação de visita domiciliar
+
+Caso o profissional tenha esquecido de imprimir ou perdeu o documento da solicitação de visita domiciliar, o documento pode ser impresso novamente, além disso, é extremamente importante que esse documento seja levado para a visita domiciliar.
+
+:::caution Atenção
+A [impressão da solicitação da visita](#visualizar-solicitação-de-visita-domiciliar) não é igual a impressão da visita domiciliar!
+:::
+
+## Ver relatórios nominais
+
+Para ver um relatório nominal, deve-se ir em **Secretaria -> Solicitação de visita domiciliar -> Ver relatórios nominais**, a seguinte tela será exibida.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/relatorios_nominais_01.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/relatorios_nominais_01.jpg)
+
+Para buscar por um relatório nominal, primeiramente selecionar a data de inicial e a data final,depois os filtros e por fim os os campos que deseja visualizar, será aberta uma nova aba conforme a pesquisa informada, veja na imagem abaixo.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/ver_relatorios_nominais_registros.jpg)
+
+:::caution Atenção
+A data inicial sempre deve ser menor que a data final, recomendamos que o período selecionado seja de no máximo um ano!
+:::
+
+## Ver gráficos/relatórios quantitativos
+
+Para ver gráficos das solicitações de visitas domiciliares, deve-se ir em **Secretaria -> Solicitação de visita domiciliar -> Ver relatórios gráficos/relatórios quantitativos**, a seguinte tela será exibida.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/buscar_graficos.jpg)
+
+Primeiramente deve selecionar a data inicial e a data final e depois marcar as unidades que deseja ver os gráficos.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/grafico_01.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/grafico_02.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/grafico_03.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/grafico_04.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/grafico_05.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/grafico_06.jpg)
+
+Além disso, no fim da página existe a possibilidade de gerar um relatório analítido dos dados gerados pelos gráficos. Clicando em "Gerar relatório", o sistema vai exibir uma nova página, veja na imagem abaixo.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/relatorio_analitico_01.jpg)
+![Consultar relatório social](../../static/img/modules/solicitation-visit/relatorio_analitico_02.jpg)
+
+## Formas de acesso da família (recurso)
+
+As formas de acesso da família é um recurso que pertence ao cadastro da solicitação de visita domiciliar. para ver todas as formas de acesso, basta ir em **Secretaria -> Solicitação de visita domiciliar -> Forma de acesso da família (recurso)**, a seguinte tela será exibida.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/formas_de_acesso_todas.jpg)
+
+Como podemos observar, temos as opções de cadastrar, visualizar e editar uma forma de acesso existente.
+
+### Cadastrar nova formas de acesso da família
+
+Para cadastrar basta clicar no botão de cadastrar que o sistema irá redirecionar para a tela de cadastro.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/formas_de_acesso_cadastrar.jpg)
+
+O campo nome é obrigatório, já o campo descrição é opcional, após o preenchimento basta clicar no botão "Cadastrar".
+
+### Ver forma de acesso da família
+
+Para ver uma forma de acesso, basta selecionar o registro e clicar no ícone de visualizar, o sistema irá redirecionar para a tela de forma de acesso.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/formas_de_acesso_visualizar.jpg)
+
+:::note Note
+Estes dados são apenas para visualizar, assim não é possível realizar a editação dos mesmos.
+:::
+
+### Editar forma de acesso da família
+
+Para editar um determinado registro, basta clicar no ícone do lápis que o sistema irá redirecionar para a tela de edição.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/formas_de_acesso_editar.jpg)
+
+O campo nome e o status (ativo ou inativo) são obrigatórios, já o campo descrição é opcional, após o preenchimento basta clicar no botão "Editar".
+
+:::info Atenção
+Se o status for selecionado como inativo, a forma de acesso não será mais apresentada na página de realizar a solicitação da visita domiciliar.
+:::
+
+## Motivos (recurso)
+
+Os motivos é um recurso que pertence ao cadastro da solicitação de visita domiciliar. para ver todos os motivos, basta ir em **Secretaria -> Solicitação de visita domiciliar -> Motivos (recurso)**, a seguinte tela será exibida.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/motivos_registros.jpg)
+
+Como podemos observar, temos as opções de cadastrar, visualizar e editar um motivo existente.
+
+### Cadastrar novo motivo da visita
+
+Para cadastrar basta clicar no botão de cadastrar que o sistema irá redirecionar para a tela de cadastro.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/motivo_cadastrar.jpg)
+
+O campo nome é obrigatório, já o campo descrição é opcional, após o preenchimento basta clicar no botão "Cadastrar".
+
+### Ver motivo da visita
+
+Para ver um motivo de visita, basta selecionar o registro e clicar no ícone de visualizar, o sistema irá redirecionar para a tela de forma de acesso.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/motivo_visualizar.jpg)
+
+:::note Nota
+Estes dados são apenas para visualizar, assim não é possível realizar a edição dos mesmos.
+:::
+
+### Editar motivo da visita
+
+Para editar um determinado registro, basta clicar no ícone do lápis que o sistema irá redirecionar para a tela de edição.
+
+![Consultar relatório social](../../static/img/modules/solicitation-visit/motivo_editar.jpg)
+
+O campo nome e o status (ativo ou inativo) são obrigatórios, já o campo descrição é opcional, após o preenchimento basta clicar no botão "Editar".
+
+:::info Atenção
+Se o status for selecionado como inativo, o motivo da visita não será mais apresentado na página de realizar a solicitação da visita domiciliar.
+:::
