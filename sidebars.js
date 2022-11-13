@@ -60,6 +60,7 @@ module.exports = {
     'secretary/cadastro-unico',
     'secretary/solicitation-visit',
     'secretary/denunciation',
+    'secretary/forwarding',
   ],
 
   crasSidebar: [
