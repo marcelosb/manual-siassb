@@ -59,10 +59,11 @@ module.exports = {
     'secretary/benefit-eventual',
     'secretary/cadastro-unico',
     'secretary/solicitation-visit',
+    'secretary/denunciation',
   ],
 
   crasSidebar: [
-
+    
     'cras/index',
     'cras/triage/create',
     
