@@ -11,7 +11,7 @@ A Secretaria Municipal de Assistência Social tem como finalidade formular, coor
 2. Executar ações de integração nas comunidades carentes;
 3. Promover a proteção à família, à infância, à velhice e à maternidade;
 4. Motivar o desenvolvimento de programas e atividades que propiciem oportunidades de incremento de renda direcionados, particularmente, à população de baixa renda;
-5. planejar e executar a política de assistência social no Município em consonância com a Lei Orgânica da Assistência Social;
+5. Planejar e executar a política de assistência social no Município em consonância com a Lei Orgânica da Assistência Social;
 6. Cooperar com as entidades que atuam na área de assistência social no âmbito municipal;
 
 A secretaria possui os seguintes módulos:
@@ -32,11 +32,9 @@ A secretaria possui os seguintes módulos:
 
 ### Atendimentos diários (Triagem)
 
-São todos os atendimentos que são feitos na recepção da secreataria. É o primeiro contato do usuário com o profissional da assistência social. Cabe ao recepcionista responder perguntas gerais e/ou direcionar as perguntas para outros profissionais qualificados.
+São todos os atendimentos realizados na recepção da secretaria. É o primeiro contato do usuário com o profissional da assistência social. Cabe ao recepcionista responder perguntas gerais e/ou direcionar as perguntas para outros profissionais qualificados.
 
-O recepcionista é a pessoa que tem de estar a par de toda a situação e atividades realizadas em seu local de atendimento.
-
-As principais funcionalidades são:
+O recepcionista é o profissional que tem de estar a par de toda a situação e atividades realizadas em seu local de atendimento. As principais funcionalidades são:
 
 - Registrar atendimento
 - Consultar atendimento
@@ -63,12 +61,14 @@ A funcionalidade de distribuição de fichas é caracterizado por um sub-sistema
 12. Ver gráficos ou relatórios quantitativos
 
 :::info Importante
-O painel é composto de midias que podem ser configuradas conforme a necessidade do órgão gestor, além de possuir recurso sonoro de *beep* e de aúdio chamando o número da senha, assim facilitando as chamadas dos usuários que serão atendidos.
+O painel é composto de mídias que podem ser configuradas conforme a necessidade do órgão gestor, além de possuir recurso sonoro de *beep* e de aúdio chamando o número da senha, assim facilitando as chamadas dos usuários que serão atendidos.
 :::
 
 ## Agendamentos
 
-Há uma série de benefícios decorrentes da utilização dos agendamentos, onde podemos citar, mais agilidade no atendimento, redução do número de faltas, mais facilidade para novos cadastros e melhor gestão de atendimentos.
+O usuário pergunta ao profissional da recepção quais são as datas e os horários disponíveis para agendamento, o profissional verifica os dias e os horários vagos e realiza a marcação em minutos. Com isso, o usuário não tem que lidar com filas ou telefones ocupados.
+
+Há uma série de benefícios decorrentes da utilização dos agendamentos, onde podemos citar, mais agilidade no atendimento, redução do número de faltas, horário otimizado e melhor gestão de atendimentos.
 
 As principais funcionalidades no sistema são:
 
@@ -93,7 +93,7 @@ Dentre as funcionalidades no sistema, podemos citar:
 - Ver relatórios de pessoas
 - Ver gráficos/relatórios quantitativos
 
-Além disso, o relatório social está divido nos seguintes blocos: 
+Além disso, o formulário do relatório social está divido nos seguintes blocos: 
 
 1. Identificação e controle
 2. Membro da família
@@ -105,7 +105,7 @@ Além disso, o relatório social está divido nos seguintes blocos:
 
 ## Habitação
 
-Os programas de Habitação de Interesse Social têm como objetivo viabilizar à população de baixa renda o acesso à moradia adequada e regular, bem como aos serviços públicos, reduzindo a desigualdade social e promovendo a ocupação urbana planejada. A ferramenta de habitação desenvolvida no sistema se refere a um pré-cadastro habitacional.
+Os programas de Habitação de Interesse Social têm como objetivo viabilizar à população de baixa renda o acesso à moradia adequada e regular, bem como aos serviços públicos, reduzindo a desigualdade social e promovendo a ocupação urbana planejada.
 
 :::info Importante
 Vale ressaltar que o pré-cadastro se trata apenas de um levantamento sobre a situação habitacional atual em que se encontra o município, portanto, não caracterizando qualquer contemplação.
@@ -118,7 +118,7 @@ As principais funcionalidades são:
 -  Ver relatórios nominais
 -  Ver relatórios quantitativos
 
-Além disso, o pré-cadastro habitacional é composto dos seguintes blocos: 
+Além disso, o formulário de pré-cadastro habitacional é composto dos seguintes blocos: 
 
 1. Identificação
 2. Composição familiar
@@ -147,7 +147,7 @@ famílias em virtude de nascimento, morte, situações de vulnerabilidade tempor
 Dentre as funcionalidades no sistema, podemos citar:
 
 - Cadastro da família
-- Edição de dados
+- Buscar família
 - Concessão de novo benefício eventual
 - Prorrogar concessão de benefícios
 - Remover prorrogação de benefícios
@@ -183,7 +183,7 @@ Dentre as funcionalidades apresentadas no sistema, podemos citar:
 
 As solicitações de visitas domiciliares são realizadas através dos profissionais da assistência social. As solicitações são registradas no sistema e podem ser facilmente buscadas.
 
-Funcionalidades no sistema:
+As solicitações possuem as seguintes funcionalidades:
 
 - Registrar nova solicitação
 - Editar solicitação
@@ -196,9 +196,9 @@ Funcionalidades no sistema:
 
 ## Denúncia
 
-A funcionalidade de denúncia pode ser utilizada de forma anônima ou identificada, onde podem ser cadastradas qualquer tipo de denúncia.
+É o ato verbal pelo qual alguém leva ao conhecimento da autoridade competente um fato contrário à lei, à ordem pública ou a algum regulamento e suscetível de punição. No âmbito da secretaria de assistência social, as denúncias podem ser relacionadas aos usuários que recebem benefícios de forma indevida, trabalho infantil, violência contra as mulheres, idosos, crianças e adolescentes, dentre outros problemas.
 
-Principais funcionalidades:
+No sistema, a denúncia pode ser registrada de forma anônima ou identificada, as principais funcionalidades são:
 
 - Cadastrar
 - Buscar
@@ -207,19 +207,17 @@ Principais funcionalidades:
 
 ## Encaminhamentos
 
-Funcionalidade utilizada pelos profissionais da assistência social para realizar encaminhamentos entre os equipamentos ou para outras unidades externas. Possibilidade de gerar o documento impresso para realizar a contra-referência.
+Funcionalidade utilizada pelos profissionais da assistência social para realizar encaminhamentos entre os equipamentos da assistência ou para outras unidades externas (INSS, Caixa Econômica Federal, Escolas, Casa da Cidadania, Receita Federal, dentre outras).
 
 :::info Importante
-Quando os encaminhamentos são realizados entre as unidades da assistência social, o sistema exibe um **alerta** notificando toda a equipe que tem condições de realizar aquele tipo de atendimento, o alerta é exibido na tela inicial da aplicação, além disso a aplicação registra todo o histórico das notificações de encaminhamentos.
+Quando os encaminhamentos são realizados entre as unidades da assistência social, o sistema exibe um **alerta** notificando toda a equipe da unidade, o alerta é exibido na tela inicial do sistema, além disso é registrado todo o histórico das notificações de encaminhamentos.
 :::
 
 ## Atualização escolar
 
 A família beneficiária do Programa Auxílio Brasil (PAB) cujos filhos mudaram de escola ou em casos onde a frequência escolar está abaixo da estabelecida pelo programa, precisam atualizar os dados cadastrais no CadÚnico. Caso contrário, poderão ter o seu benefício bloqueado.
 
-Para ter direito ao Auxílio Brasil, a família deve atender aos critérios estabelecidos pelo programa, além disso é preciso cumprir compromissos nas áreas de educação e saúde.
-
-Com o objetivo de notificar ao setor da educação, foram desenvolvidas as seguintes funcionalidades:
+Para ter direito ao Auxílio Brasil, a família deve atender aos critérios estabelecidos pelo programa, além disso é preciso cumprir compromissos nas áreas de educação e saúde. Com o objetivo de notificar o setor da educação, foram desenvolvidas as seguintes funcionalidades:
 
 - Cadastrar aluno
 - Buscar aluno
@@ -229,10 +227,13 @@ Com o objetivo de notificar ao setor da educação, foram desenvolvidas as segui
 
 ## Relatórios de atividades mensais
 
-São todas as atividades realizadas pela equipe durante o mês. Por exemplo: palestras, oficinas, reuniões, quantidade de atendimentos do mês, etc.
+Os relatórios de atividades mensais fazem parte da rotina de muitos profissionais que atuam no serviço público, sobretudo os de nível técnico. Eles podem servir para o órgão gestor dar os próximos passos em um projeto social ou como forma de acompanhar o trabalho de seus profissionais.
 
-Funcionalidades:
+Esses documentos podem ter diferentes funções, desde serem decisivos para a tomada de decisões pelo gestor executivo ou apenas serem uma forma de acompanhar a produtividade da equipe durante o mês. 
 
-- Ver todos os relatórios
+O relatório reúne de forma organizada e detalhada o desenvolvimento de um trabalho realizado pela equipe em determinado mês.
+Por exemplo: palestras, oficinas, reuniões, quantidade de atendimentos do mês, dentre outras ações/eventos. As funcionalidades disponibilizadas no sistema são:
+
 - Cadastrar
+- Ver todos os relatórios
 - Consultar relatórios por período
