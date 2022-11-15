@@ -1,6 +1,8 @@
 
 # Introdução
 
+A gestão do Sistema de Informação no SUAS é um dos desafios colocados pela PNAS/2004, pois se revela em uma nova lógica de concepção, planejamento e gestão da Política de Assistência Social. Desse modo, nasce o SIASSB. 
+
 O SIASSB é um *software* que interliga as unidades de atendimento (também chamados de pontos de atendimento) da secretaria de assistência social no âmbito do Município.
 
 :::info Importante

@@ -63,6 +63,7 @@ module.exports = {
     'secretary/forwarding',
     'secretary/update-school',
     'secretary/report-activity-monthly',
+    'secretary/my-attendance',
   ],
 
   crasSidebar: [
