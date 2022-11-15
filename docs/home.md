@@ -1,17 +1,23 @@
 
 # Introdução
 
-O SIASSB é um *software* que interliga as unidades de atendimento (também chamados de pontos de atendimento) da secretaria de assistência social.
+O SIASSB é um *software* que interliga as unidades de atendimento (também chamados de pontos de atendimento) da secretaria de assistência social no âmbito do Município.
 
 :::info Importante
 Os pontos de atendimento são espaços (cômodos) que pertencem a um determinado equipamento.
 
-Exemplo: No CRAS existe a recepção e a sala dos assistentes socias, logo, são caracterizados como dois pontos de atendimento que podem ser chamados de **RECEPÇÃO CRAS** e **ASS. CRAS** (ASS - Assistência Social).
+Exemplo: No CRAS existe a recepção e a sala dos assistentes socias, logo, são caracterizados como dois pontos de atendimento que podem ser chamados de **RECEPÇÃO CRAS I** e **ASSISTÊNCIA SOCIAL CRAS I**.
 :::
 
-O principal objetivo do sistema é organizar os dados de forma sistemática, como também melhorar a rotina de trabalho dos profissionais da assistência social. Além disso, o sistema registra informações referentes aos atendimentos dos usuários que buscam pelos serviços prestados na secretaria.
+O principal objetivo do sistema é organizar os dados de forma sistemática, como também melhorar a rotina de trabalho dos profissionais da assistência social. Além disso, o sistema registra informações referentes aos atendimentos realizados com os usuários (público alvo da política de assistência social).
 
-Os módulos disponíveis da aplicação são:
+:::tip Usuários
+A Norma Operacional Básica do Sistema Único de Assistência Social - NOB SUAS (BRASIL,
+2010) - define os usuários como indivíduos ou famílias em situação de vulnerabilidade social decorrente
+da pobreza, com precário ou nulo acesso aos serviços públicos, com fragilização de vínculos de pertencimento e sociabilidade e/ou qualquer outra situação de vulnerabilidade e risco social residentes nos territórios de abrangência dos Centros de Referência de Assistência Social – CRAS.
+:::
+
+O sistema é modular, ou seja, é formado por um conjunto de funcionalidades organizadas por categorias de acesso. Os módulos disponíveis na aplicação são:
 
 - **Buscar histórico**
 - **Secretaria**
@@ -28,17 +34,23 @@ Os dados utilizados no manual do sistema, são **dados fictícios** utilizados a
 
 ## Processo de login
 
-Antes de acessar o sistema, é necessário realizar o cadastro prévio do profissional. O cadastro é realizado pelo Administrador do sistema.
+Antes de acessar o sistema, é necessário realizar o cadastro prévio do profissional. O cadastro é feito pelo Administrador do sistema.
 
 :::info Importante
-O Administrador do sistema é um tipo de perfil que tem acesso a todas as funcionalidades do sistema.
+O Administrador do sistema é um tipo de perfil que tem acesso a todas as funcionalidades da aplicação.
 :::
 
 O acesso ao sistema se dá única e exclusivamente por meio de **CPF** e **SENHA**. Estes são de seu uso pessoal e intransferível, devendo, portanto, o profissional tomar todas as medidas necessárias para manter em sigilo as referidas informações.
 
 ![login](../static/img/home/login.jpg)
 
-Antes de iniciarmos o processo de primeiro acesso ao sistema, é importante entendermos o conceito de [**autenticação**](#autenticação) e [**autorização**](#autorização). O uso destas duas técnicas nos proporciona uma maior segurança aos recursos do sistema.
+Antes de iniciarmos o primeiro acesso ao sistema, é importante entendermos o conceito de [**autenticação**](#autenticação) e [**autorização**](#autorização) que são utilizados pela aplicação. Estes recursos foram criados e tiveram como base o Sistema de Autenticação e Autorização (SAA) instituído pela [Portaria SNAS nº 15, de 17 de dezembro de 2010](http://blog.mds.gov.br/redesuas/portaria-no-15-de-17-de-dezembro-de-2010/).
+
+O SAA é responsável pela gestão do acesso à Rede SUAS e de outros aplicativos que vierem a ser
+alocados sob o seu gerenciamento. Trata-se da implantação de uma Política de senhas para os Sistemas da
+Rede SUAS, por meio de login e senhas individualizados e vinculados ao nome e ao CPF, de acordo com o
+perfil selecionado pelo gestor. O objetivo é aumentar a segurança e o melhor gerenciamento dos processos
+de admissão de usuários e atribuição de perfis.
 
 ### Autenticação
 
@@ -52,7 +64,15 @@ A senha do profissional é criptografada no banco de dados, trazendo ainda mais 
 Exemplo: se sua senha for **minhasenha0906** ela será criptografada e salva no banco de dados como **$tyOiuasY09%bm3Piury89+sdsdYT**, assim não tem como saber que sua senha é **minhasenha0906**.
 :::
 
-Desta forma, ao logar-se no sistema, o profissional está passando por um processo de autenticação. No entando, não é apenas este procedimento que autentica um profissional, além disso o sistema faz mais duas verificações, checa se o profissional está ativo e também se o horário de funcionamento da unidade condiz com o horário atual de login no sistema.
+No entanto, não é apenas este procedimento que autentica um profissional, além disso o sistema faz mais duas verificações de segurança, checa se o profissional está ativo e também se o horário de funcionamento da unidade condiz com o horário atual de login no sistema.
+
+Além disso, caso o usuário erre a senha por 5 vezes consecutivas, o seu sistema de login será bloqueado durante 1 minuto e exibirá a seguinte imagem. 
+
+![muitas requisições](../static/img/home/erro_muitas_requisicoes.jpg)
+
+Este é outro importante recurso de segurança, que bloqueia a aplicação temporariamente contra acessos indevidos, além de ser uma proteção contra ataques de força bruta (pessoas má intencionadas que tentam entrar na aplicação através de robôs utilizando diversas combinações de senhas e de CPF's).
+
+Desta forma, ao logar-se no sistema, o profissional estará passando por um rigoroso processo de autenticação.
 
 ### Autorização
 
@@ -66,11 +86,11 @@ Após realizar a autenticação no sistema, a recepcionista terá acesso apenas 
 
 ## Primeiro acesso ao sistema
 
-Após concluir os processos de autenticação e autorização, será realizado o primeiro acesso ao sistema, o profissional deve concordar com os termos de uso, primeiramente realizar toda a leitura do termo e depois clicar no botão "Li e concordo".
+Concluído os processos de autenticação e autorização, será realizado o primeiro acesso ao sistema, o profissional deve concordar com os termos de uso, obedecendo a [Lei 13.709 – Lei Geral de Proteção de Dados (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), que visa proteger a privacidade dos dados do usuário.
 
 ![primeiro acesso](../static/img/home/primeiro_acesso.jpg)
 
-Após concordar com os termos de uso, o usuário será redirecionado para a tela inicial do sistema.
+Após realizada toda a leitura, concordado com os termos de uso e clicado no botão "Li e concordo", o profissional será redirecionado para a tela inicial do sistema.
 
 ![painel de controle](../static/img/home/dash.jpg)
 

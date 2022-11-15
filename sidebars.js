@@ -62,6 +62,7 @@ module.exports = {
     'secretary/denunciation',
     'secretary/forwarding',
     'secretary/update-school',
+    'secretary/report-activity-monthly',
   ],
 
   crasSidebar: [

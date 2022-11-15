@@ -236,4 +236,4 @@ Por exemplo: palestras, oficinas, reuniões, quantidade de atendimentos do mês,
 
 - Cadastrar
 - Ver todos os relatórios
-- Consultar relatórios por período
+- Buscar relatórios por período
