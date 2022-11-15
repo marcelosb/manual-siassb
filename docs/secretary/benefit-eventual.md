@@ -10,7 +10,7 @@ famílias em virtude de nascimento, morte, situações de vulnerabilidade tempor
 
 Dentre as funcionalidades no sistema, podemos citar:
 
-- Cadastro da família
+- [Cadastro da família](#cadastrar-nova-família)
 - Edição de dados
 - Concessão de novo benefício eventual
 - Prorrogar concessão de benefícios
@@ -54,9 +54,11 @@ Os seguintes campos serão apresentados:
 - Data de entrega
 - Observação
 
-No sub-bloco de endereço serão informadas dados relacionados ao endereço da família. Com relação ao campo número, caso o domicílio informado não possua número, o profissional pode informar o texto "S/N", "SN" ou deixar o campo em branco.
+No sub-bloco de endereço serão informados dados relacionados ao endereço da família. Com relação ao campo número, caso o domicílio informado não possua número, o profissional pode informar o texto "S/N", "SN" ou deixar o campo em branco.
 
-:::caution Importante Caso a família possua mais de um telefone para contato, os mesmos podem ser informados no mesmo campo. :::
+:::caution Importante 
+Caso a família possua mais de um telefone para contato, os mesmos podem ser informados no mesmo campo. 
+:::
 
 Já no sub-bloco de identificação serão informadas dados relacionados ao responsável pela unidade familiar.
 
@@ -89,7 +91,7 @@ Após a inclusão do primeiro membro da família, o bloco da lista de membros se
 
 No sub-bloco de membros da família, serão listados todos os dados dos membros da família. Onde será possível realizações as operações de visualizar, alterar e excluir os dados dos membros da família.
 
-Clicando no ícone do olho, será aberta uma janela modal, onde você poderá visualizar os dados da pessoa em específico, conforme a imagem abaixo.
+Clicando no ícone do "olho", será aberta uma janela modal, onde você poderá visualizar os dados da pessoa em específico, conforme a imagem abaixo.
 
 ![Visualizar membro da família](../../static/img/modules/benefit-eventual/membros_da_familia_visualizar.jpg)
 
@@ -98,7 +100,7 @@ Clicando no ícone do lapís, será aberta uma janela modal onde você poderá e
 ![Editar membro da família](../../static/img/modules/benefit-eventual/membros_da_familia_editar.jpg)
 
 :::caution Atenção 
-Sempre atentar para a renda mensa, utilizar apenas números inteiros, caso não possua renda preencher com valor 0 ou deixar em branco. 
+Sempre atentar para a renda mensal, utilizar apenas números inteiros, caso não possua renda preencher com valor 0 ou deixar em branco. 
 :::
 
 Clicando no ícone da lixeira, será aberta uma janela modal, onde você poderá excluir uma pessoa da família, conforme a imagem abaixo.
@@ -123,8 +125,8 @@ Antes de iniciar o processo de anexo de documentos, recomendamos que a documenta
 
 Com toda a documentação no formato PDF, basta clicar em escolher arquivos e depois clicar no botão "Carregar documentos".
 
-:::caution 
-Atenção A funcionalidade de anexar documentos não é obrigatória! Caso o técnico observou que não há a necessidade de anexar documentos da família, deve ignorar este campo.
+:::caution Atenção 
+A funcionalidade de anexar documentos não é obrigatória! Caso o técnico observou que não há a necessidade de anexar documentos da família, deve ignorar este campo.
 :::
 
 Por fim, basta clicar no botão "Finalizar atendimento" que o sistema irá redirecionar para a seguinte página.
@@ -150,7 +152,7 @@ Para buscar por um benefício eventual, deve-se ir em **Secretaria -> Benefício
 A busca pode ser realizada pelo nome do usuário, CPF, data de nascimento, grau de parentesco, unidade de atendimento, tipo, modalidade, bairro ou responsável pelo atendimento.
 
 :::tip Dica 
-O nome do usuário pode ser pesquisado em partes, ou seja, no lugar de digitar MARIA DA SILVA, pode ser digitado apenas MARIA que o sistema vai encontrar todas as MARIA's e retornar o resultado 
+O nome do usuário pode ser pesquisado em partes, ou seja, no lugar de digitar MARIA DA SILVA, pode ser digitado apenas MARIA que o sistema vai encontrar todas as MARIA's e retornar o resultado. 
 :::
 
 :::note Nota 
@@ -198,12 +200,12 @@ Na aba resumo constam informações relevantes da concessão do benefício e dad
 
 #### Aba conceder novo benefício
 
-Quando o assistente social for conceder um novo benefício eventual para a família deve utilizar esta aba, mas antes deve conferir se a família está apta a receber, indo na aba resumo existe u campo chamado Quantidade de benefícios que faltam serem concedidos, se o valor for marcado com 0, é porque a família não está apta a receber mais benefícios eventuais, caso contrário a família poderá ser contemplada com novos benefícios.
+Quando o assistente social for conceder um novo benefício eventual para a família, deve-se utilizar esta aba, mas antes deve conferir se a família está apta a receber, na aba resumo existe um campo chamado quantidade de benefícios que faltam serem concedidos, se o valor for marcado com 0, é porque a família não está apta a receber mais benefícios eventuais, caso contrário a família poderá ser contemplada com novos benefícios.
 
 ![Aba conceder novo benefício](../../static/img/modules/benefit-eventual/aba_conceder_novo_benficio.jpg)
 
 :::caution Atenção
-Os campo marcados com * são de preenchimento obrigatório
+Os campo marcados com * são de preenchimento obrigatórios.
 :::
 
 :::info Importante
@@ -214,7 +216,7 @@ Após o preenchimento de todos os campos, basta clicar no botão "Conceder".
 
 #### Aba prorrogar concessão de benefícios
 
-Conforme a observação realizada pelo assistente social, caso houver a necessidade de prorrogar o período de concessão do benefício eventual, o mesmo pode ser estendido por até no máximo 48 meses.
+Conforme a observação realizada pelo assistente social, se houver a necessidade de prorrogar o período de concessão do benefício eventual, o mesmo pode ser estendido por até 48 meses.
 
 ![Aba prorrogar concessão de benefícios](../../static/img/modules/benefit-eventual/aba_prorrogar_concessao_de_benficios.jpg)
 
@@ -254,7 +256,7 @@ Na aba de histórico de concessões, o assistente social poderá visualizar os s
 
 ##### Ver requerimento
 
-Clicando no ícone da folha de papel (ver requerimento), o sistem irá abrir uma nova página, sendo o mesmo requerimento mostrado [nessa página](#gerando-requerimento)
+Clicando no ícone da folha de papel (ver requerimento), o sistema irá abrir uma nova página, sendo o mesmo requerimento mostrado [nessa página](#gerando-requerimento).
 
 #### Aba editar endereço
 
@@ -278,7 +280,7 @@ O processo de visualizar, editar e excluir uma pessoa da família deve ser segui
 
 ![Aba outros benefícios](../../static/img/modules/benefit-eventual/aba_outros_beneficios.jpg)
 
-Aba onde serão exibidos outros benefícios, onde existe a possibilidade do usuário ter direito.
+Aba onde serão exibidos outros benefícios.
 
 :::info Importante
 É importante que nestes casos, o assistente social oriente ao usuário dessa possibilidade da família ter direito à outros benefícios.
@@ -300,9 +302,9 @@ Para ver um relatório nominal, deve-se ir em **Secretaria -> Benefícios sociai
 
 ![Ver relatórios nominais](../../static/img/modules/benefit-eventual/ver_relatorios_nominais.jpg)
 
-Para buscar por um relatório nominal, primeiramente selecionar a data de inicial e a data final, depois selecionar os campos que deseja visualizar, será aberta uma nova aba conforme a pesquisa informada, veja na imagem abaixo.
+Para buscar por um relatório nominal, primeiramente deve-se selecionar a data de inicial e a data final, depois selecionar os campos que deseja visualizar, será aberta uma nova aba conforme a pesquisa informada, veja na imagem abaixo.
 
-:::caution
+:::caution Atenção
 A data inicial sempre deve ser menor que a data final, recomendamos que o período selecionado seja de no máximo um ano!
 :::
 
@@ -314,7 +316,7 @@ Para ver gráficos dos benefícios eventuais, deve-se ir em **Secretaria -> Bene
 
 ![Ver relatórios quantitativos](../../static/img/modules/benefit-eventual/ver_relatorios_quantitativos.jpg)
 
-Primeiramente deve ser informado sempre uma data inicial e uma data final, selecionar a undiade de atendimento (admite múltipla seleção) e depois clicar no botão "Gerar gráficos", se a busca encontrar algum registro, a tela será renderizada com os seguintes gráficos.
+Primeiramente deve ser informado sempre uma data inicial e uma data final, selecionar a unidade de atendimento (admite múltipla seleção) e depois clicar no botão "Gerar gráficos", se a busca encontrar algum registro, a tela será renderizada com os seguintes gráficos.
 
 ![Gráfico benefício concedido](../../static/img/modules/benefit-eventual/grafico_01.jpg)
 ![Gráfico modalidade da concessão](../../static/img/modules/benefit-eventual/grafico_02.jpg)

@@ -28,14 +28,14 @@ O bloco de identificação e controle é dividido em dois sub-blocos:
 - [`Endereço`](#endereço)
 
 :::info Importante
-Todos os campos que possuem asteríscos (*) são de preenchimento obrigatório
+Todos os campos que possuem asteríscos (*) são de preenchimento obrigatório.
 :::
 
 #### Identificação
 
 ![Identificação](../../static/img/secretary/report-social/identificacao.jpg)
 
-No sub-bloco de identificação serão informadas dados relacionados ao responsável pela unidade familiar.
+No sub-bloco de identificação serão informados dados relacionados ao responsável pela unidade familiar.
 
 :::caution Atenção
 O campo de renda mensal deve ser preenchido apenas com valores inteiros, caso o responsável familiar não possua renda, é recomendado inserir o valor 0 ou deixar o campo em branco.
@@ -88,7 +88,7 @@ Clicando no ícone do lapís, será aberta uma janela modal onde você poderá e
 ![Membros da família editar](../../static/img/secretary/report-social/editar_pessoa.jpg)
 
 :::caution Atenção
-Sempre atentar para a renda mensa, utilizar apenas números inteiros, caso não possua renda preencher com valor 0 ou deixar em branco.
+Sempre atentar para a renda mensal, utilizar apenas números inteiros, caso não possua renda, preencher com valor 0 ou deixar em branco.
 :::
 
 Clicando no ícone da lixeira, será aberta uma janela modal, onde você poderá excluir uma pessoa da família, conforme a imagem abaixo.
@@ -119,9 +119,9 @@ A funcionalidade de anexar documentos não é obrigatória! Caso o técnico obse
 
 ### Bloco da família
 
-Neste bloco, serão mostrados campos relacionados a família. O campo Nº de deficientes deve ser preenchido com números inteiros, caso a família não tenha nenhum deficiênte em sua composição familiar é recomendado preencher este campo com o valor 0 ou deixar vazio. Caso existem membros com deficiência, informar o Tipo de deficiência.
+Neste bloco, serão mostrados campos relacionados a família. O campo Nº de deficientes deve ser preenchido com números inteiros, caso a família não tenha nenhum deficiente em sua composição familiar, é recomendado preencher este campo com o valor 0 ou deixar vazio. Caso existem membros com deficiência, informar o tipo.
 
-No sub-bloco de programas socias, caso a família participa de algum programa, seja a nível nacional, estadual ou a nível municipal, deve ser marcado com sim, e selecionar os programas que a família participa ou é beneficiado
+No sub-bloco de programas socias, caso a família participe de algum programa, seja a nível nacional, estadual ou a nível municipal, deve ser marcado com "Sim", e selecionar os programas que a família participa ou é beneficiado.
 
 Caso a família receba alguma ajuda financeira, o valor da ajuda deve ser um valor do tipo inteiro.
 
@@ -146,10 +146,10 @@ Caso o tipo de benefício, seja benefício eventual, será exibida uma nova tela
 ![Tipo de benefício eventual](../../static/img/secretary/report-social/bloco_tipo_de_benficio_eventual.jpg)
 
 :::info Importante
-O perído de concessão é relacionado a quantidade de meses que o benefício será concedido.
+O período de concessão é relacionado a quantidade de meses que o benefício será concedido.
 :::
 
-Após o preenchimento de todos os campos, para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continuar".
+Após o preenchimento de todos os campos, basta prosseguir para o próximo bloco, clicando no botão "Salvar e continuar".
 
 ### Bloco de despesas
 
@@ -166,7 +166,9 @@ Neste bloco devem ser registradas as seguintes despesas, conforme a imagem abaix
 - Saúde (despesa mensal que a família possui com medicamentos)
 
 :::caution Atenção
-Todos os campos, onde existe despesa comprovada, devem ser preenchidos com números inteiros. Por exemplo: se o valor da energia elétrica for R$ 86,54 no sistema deve ser inserido o valor de 86.
+Todos os campos, onde existe despesa comprovada, devem ser preenchidos com números inteiros. 
+
+Por exemplo: se o valor da energia elétrica for R$ 86,54 deve ser inserido o valor de 86.
 :::
 
 :::info Importante
@@ -177,11 +179,11 @@ Relizada tadas as alterações necessárias, o próximo passo é clicar no botã
 
 ### Bloco de observações técnicas
 
-É o bloco final para finalizar o relatório social feito pelo assistente social, veja na imagem abaixo.
+É o bloco final para finalizar o relatório feito pelo assistente social, veja na imagem abaixo.
 
 ![Observações técnicas](../../static/img/secretary/report-social/bloco_observacoes.jpg)
 
-No campo de motivo da visia/atendimento podem ser selecionadas mais de uma opção, caso não existe a opção a ser selecionada, basta marcar a opção outros e informar o motivo no campo a frente.
+No campo de motivo da visia/atendimento podem ser selecionadas mais de uma opção, caso não exista a opção a ser selecionada, basta marcar a opção outros e informar o motivo no campo a frente.
 
 Já no campo de observações técnicas devem ser escrita toda a observação realizada pelo assistente social durante o atendimento.
 
@@ -189,7 +191,7 @@ Por fim, basta clicar no botão "Finalizar relatório" que o sistema irá redire
 
 ![Relatório social sucesso](../../static/img/secretary/report-social/relatorio_social_sucesso.jpg)
 
-Com isso, o atendimento foi finalizado e o assistente social, poderá realizar a impressão do relatório social. Além disso o sistema exibe alertas sobre a possibilidade da família que foi atendida ter direito a outros benefícios sociais.
+Com isso, o atendimento foi finalizado e o assistente social poderá realizar a impressão do relatório social. Além disso o sistema exibe alertas sobre a possibilidade da família que foi atendida ter direito a outros benefícios sociais.
 
 ## Consultar relatório social
 
@@ -254,7 +256,7 @@ Realizada todas as modificações, basta clicar no botão "Editar".
 
 ### Aba benefício
 
-Na aba de benefício os dados só podem ser visualizados, com isso, não existem alterações de dados nessa aba, veja na imagem abaixo.
+Na aba de benefício, os dados só podem ser visualizados, com isso, não existem alterações de dados nessa aba, veja na imagem abaixo.
 
 ![Aba benefício](../../static/img/secretary/report-social/aba_beneficio.jpg)
 
@@ -309,5 +311,3 @@ Informar sempre uma data inicial e uma data final e depois clicar no botão "Ger
 Além disso, no fim da página existe a possibilidade de gerar um relatório analítido dos dados gerados pelos gráficos. Clicando em "Gerar relatório", o sistem vai exibir uma nova página, veja na imagem abaixo.
 
 ![Ver relatório analítico](../../static/img/secretary/report-social/relatorio_analitico.jpg)
-
-

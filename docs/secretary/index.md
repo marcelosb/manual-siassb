@@ -66,7 +66,7 @@ O painel é composto de mídias que podem ser configuradas conforme a necessidad
 
 ## Agendamentos
 
-O usuário pergunta ao profissional da recepção quais são as datas e os horários disponíveis para agendamento, o profissional verifica os dias e os horários vagos e realiza a marcação em minutos. Com isso, o usuário não tem que lidar com filas ou telefones ocupados.
+Funciona da seguinte forma, o usuário pergunta ao profissional da recepção quais são as datas e os horários disponíveis para agendamento, o profissional verifica os dias e os horários vagos e realiza a marcação em minutos. Com isso, o usuário não tem que lidar com filas ou telefones ocupados.
 
 Há uma série de benefícios decorrentes da utilização dos agendamentos, onde podemos citar, mais agilidade no atendimento, redução do número de faltas, horário otimizado e melhor gestão de atendimentos.
 

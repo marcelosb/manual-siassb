@@ -9,10 +9,10 @@ A funcionalidade de denúncia pode ser utilizada de forma anônima ou identifica
 
 Principais funcionalidades:
 
-- Cadastrar
-- Buscar
-- Ver relatórios nominais
-- Ver relatórios quantitativos/gráficos
+- [Cadastrar](#registrar-denúncia)
+- [Buscar](#buscar-denúncia)
+- [Ver relatórios nominais](#)
+- [Ver relatórios quantitativos/gráficos](#)
 
 ## Registrar denúncia
 
@@ -22,7 +22,7 @@ Para registar uma nova denúncia, deve-se ir em **Secretaria -> Denúncia -> Cad
 ![Consultar relatório social](../../static/img/modules/denunciation/registrar_denuncia_02.jpg)
 ![Consultar relatório social](../../static/img/modules/denunciation/registrar_denuncia_03.jpg)
 
-O formulário de denúncia posssui os seguintes campos:
+O formulário de denúncia possui os seguintes campos:
 
 - Unidade de atendimento (unidade que está sendo realizado o atendimento)
 - Motivo da denúncia (motivo)
@@ -39,7 +39,7 @@ Bloco do denunciante
 - Telefone(s) para contato
 
 :::note Reforçando
-O bloco de denunciante será desabilitado se o tipo de denúncia for maracada com oanÔnima.
+O bloco de denunciante será desabilitado se o tipo de denúncia for maracada como anônima.
 :::
 
 Bloco de denunciado/agressor(a)
@@ -51,8 +51,8 @@ Bloco de denunciado/agressor(a)
 - Ponto de referência 
 - Bairro
 
-Se hou a existência de vitíma (sim ou não)
-Se sim, o bloco de dados da vitima será habiltado.
+Se houve a existência de vitíma (sim ou não)
+Se sim, o bloco de dados da vitima será habilitado.
 
 Bloco de dados da vitima
 
@@ -63,11 +63,11 @@ Bloco de dados da vitima
 - Ponto de referência
 - Bairro
 
-Campo de observações realizadas durante o atendimento
-Agente comunitário de saúde
-Data de registro
-Hora
-Entrevistador
+- Campo de observações realizadas durante o atendimento
+- Agente comunitário de saúde
+- Data de registro
+- Hora
+- Entrevistador
 
 Após o preenchimnetos de todos os campos, basta clicar no botão de "Registrar denúncia"
 
@@ -75,14 +75,14 @@ Após o preenchimnetos de todos os campos, basta clicar no botão de "Registrar 
 
 ## Buscar denúncia
 
-Para registar uma nova denúncia, deve-se ir em **Secretaria -> Denúncia -> Cadastrar**, a seguinte tela será exibida.
+Para buscar uma nova denúncia, deve-se ir em **Secretaria -> Denúncia -> Buscar**, a seguinte tela será exibida.
 
 ![Consultar relatório social](../../static/img/modules/denunciation/buscar.jpg)
 
 A busca pode ser realizada pela unidade de atendimento, motivo da denúncia, entrevistador(a), tipo de denúncia, ou pelos dados do agressor: nome, sexo, apelido e bairro.
 
 :::tip Dica
-O nome do agressor pode ser pesquisado em partes, ou seja, no lugar de digitar JOAO DA SILVA, pode ser digitado apenas JOAO que o sistema vai encontrar todas os JOAO's e retornar o resultado
+O nome do(a) agressor(a) pode ser pesquisado em partes, ou seja, no lugar de digitar JOAO DA SILVA, pode ser digitado apenas JOAO que o sistema vai encontrar todas os JOAO's e retornar o resultado.
 :::
 
 :::note Nota 
@@ -104,7 +104,7 @@ A busca acima realizada foi utilizando o parâmetro nome unidade de atendimento 
 
 ### Visualizar dados da denúncia
 
-Para visualizar os dados, basta clicar no ícone do olho, que o sistema irá redirecionar para a seguinte página.
+Para visualizar os dados, basta clicar no ícone do "olho", que o sistema irá redirecionar para a seguinte página.
 
 ![Consultar relatório social](../../static/img/modules/denunciation/visualizar_denuncia_01.jpg)
 ![Consultar relatório social](../../static/img/modules/denunciation/visualizar_denuncia_02.jpg)
@@ -140,7 +140,7 @@ O campo nome é obrigatório, já o campo descrição é opcional, após o preen
 
 ### Ver motivo de denúncia
 
-Para ver um motivo de visita, basta selecionar o registro e clicar no ícone de visualizar, o sistema irá redirecionar para a tela de forma de acesso.
+Para ver um motivo de denúncia, basta selecionar o registro e clicar no ícone de visualizar, o sistema irá redirecionar para a tela de forma de acesso.
 
 ![Consultar relatório social](../../static/img/modules/denunciation/motivo_visualizar.jpg)
 
@@ -148,7 +148,7 @@ Para ver um motivo de visita, basta selecionar o registro e clicar no ícone de 
 Estes dados são apenas para visualizar, assim não é possível realizar a edição dos mesmos.
 :::
 
-### Editar motivo da visita
+### Editar motivo de denúncia
 
 Para editar um determinado registro, basta clicar no ícone do lápis que o sistema irá redirecionar para a tela de edição.
 

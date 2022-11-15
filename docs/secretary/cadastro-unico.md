@@ -56,7 +56,7 @@ Para buscar por um relatório nominal, primeiramente selecionar a data de inicia
 
 ![Ver relatórios de Família/Domicílios](../../static/img/modules/cadastro-unico/relatorio_nominais_familias_registros.jpg)
 
-:::caution
+:::caution Atenção
 A data inicial sempre deve ser menor que a data final, recomendamos que o período selecionado seja de no máximo um ano!
 :::
 
@@ -83,7 +83,7 @@ Para ver os gráficos de domicilios/familias, deve-se ir em **Secretaria -> Cada
 Caso não seja visualizado os gráficos, é porque não existem dados importados da base de dados do CadÚnico, devendo realizar a importaçã dos mesmos
 :::
 
-A imagem abaixo exibe este erro
+A imagem abaixo exibe este erro.
 
 ![Erro gráficos](../../static/img/modules/cadastro-unico/erro_graficos.jpg)
 
@@ -105,10 +105,10 @@ A imagem abaixo exibe este erro
 Para ver os gráficos de pessoas, deve-se ir em **Secretaria -> Cadastro Único -> Ver gráficos de pessoas**, a seguinte tela será exibida.
 
 :::caution Atenção
-Caso não seja visualizado os gráficos, é porque não existem dados importados da base de dados do CadÚnico, devendo realizar a importação dos mesmos
+Caso não seja visualizado os gráficos, é porque não existem dados importados da base de dados do CadÚnico, devendo realizar a importação dos mesmos.
 :::
 
-A imagem abaixo exibe este erro
+A imagem abaixo exibe este erro.
 
 ![Erro gráficos](../../static/img/modules/cadastro-unico/erro_graficos.jpg)
 
@@ -125,10 +125,10 @@ A imagem abaixo exibe este erro
 ## Ver mapa da vulnerabilidade social
 
 :::caution Atenção
-Caso não seja visualizado o mapa, é porque não existem dados importados da base de dados do CadÚnico, devendo realizar a importação dos mesmos
+Caso não seja visualizado o mapa, é porque não existem dados importados da base de dados do CadÚnico, devendo realizar a importação dos mesmos.
 :::
 
-A imagem abaixo exibe este erro
+A imagem abaixo exibe este erro.
 
 ![Erro gráficos](../../static/img/modules/cadastro-unico/erro_graficos.jpg)
 
@@ -136,4 +136,4 @@ A imagem abaixo exibe este erro
 
 ![Mapa da vulnerabilidade social](../../static/img/modules/cadastro-unico/mapa.jpg)
 
-Conforme a imagem acima o mapa é dividido em bairros, onde os mesmos são compostos por pessoas, famílias - F e famílias em extrema pobreza - FEP, com isso é realizado o cálculo  ((FEP/F) * 100) e encontramos o vulnerabilidade social por bairro.
+Conforme a imagem acima o mapa é dividido em bairros, onde os mesmos são compostos por pessoas, famílias - F e famílias em extrema pobreza - FEP, com isso é realizado o cálculo  ((FEP/F) * 100) e encontramos a vulnerabilidade social por bairro.

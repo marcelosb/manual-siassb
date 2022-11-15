@@ -30,7 +30,7 @@ Os seguintes campos serão apresentados:
 - Observações (não obrigatório)
 
 :::info Importante
-Todos os campos que possuem * (asterísco) são de preenchimento obrigatório
+Todos os campos que possuem * (asterísco) são de preenchimento obrigatório.
 :::
 
 Preenchido todos os campos, clicar no botão "Registrar".
@@ -52,22 +52,22 @@ Para realizar uma busca por um atendimento esporádico, deve-se ir em **Secretar
 A busca pode ser realizada pelo nome do usuário, CPF, data do atendimento, serviço prestado, unidade de atendimento ou pelo nome do técnico responsável.
 
 :::tip DICA! O NOME DO USUÁRIO PODE SER BUSCADO POR PARTES.
-Por exemplo: imagina que a busca é para retornar o usuário MARIA FRANCISCA. Logo, no ato da busca basta digitar MARIA que o sistema vai retornar todas as Marias
+Por exemplo: imagina que a busca é para retornar o usuário MARIA FRANCISCA. Logo, no ato da busca basta digitar MARIA que o sistema vai retornar todas as Marias.
 :::
 
-Realizada a busca, conforme os parâmetros informador pelo profissional, será exibida uma tela com todos os registros encontrados.
+Realizada a busca, conforme os parâmetros informados pelo profissional, será exibida uma tela com todos os registros encontrados.
 
 ![Exibindo registros esporádicos](../../static/img/modules/sporadic/busca_registros.jpg)
 
 É apresentada uma tabela com todos os registros encontrados, contendo os seguintes campos:
-Nome do usuário, CPF, serviços prestados, undiade de atendimento, registrado em e ações.
+Nome do usuário, CPF, serviços prestados, unidade de atendimento, registrado em e ações.
 
 Caso o profissional necessite visualizar as informações de um determinado registro, basta clicar no ícone de visualizar, conforme a imagem abaixo.
 
 ![Ver relatório esporádico](../../static/img/modules/sporadic/ver_registros.jpg)
 
 :::info Importante
-Os dados acima mostrados são apenas para fins de visualização
+Os dados acima mostrados são apenas para fins de visualização.
 :::
 
 Caso o profissional necessite editar os dados de um determinado registro, basta clicar no ícone de lápis, conforme a imagem abaixo.
@@ -93,7 +93,7 @@ A data inicial sempre deve ser menor que a data final, recomendamos que o perío
 A página pode ser impressa ou salva no formato PDF. Clicando no botão "Exporta dados", os dados serão exportados no formato CSV.
 
 :::tip Dica
-A grande vantagem de exportar os dados no formato CSV é o fato dele possibilitar a importação e exportação de arquivos de uma linguagem que vários aplicativos podem ler. Aplicativos como o Microsoft Excel, Google Planilhas e LibreOffice Calc podem facilmente ler esse tipo de arquivo, dessa forma os dados podem ser manipulados de várias formas diferentes, sejam para fins de pesquisas e análises de dados ou até mesmo para apoiar os gestores municipais nas suas tomadas de decisões. 
+A grande vantagem de exportar os dados no formato CSV é o fato dele possibilitar a importação e exportação de arquivos de uma linguagem que vários aplicativos podem ler. Aplicativos como o *Microsoft Excel*, *Google Planilhas* e *LibreOffice Calc* podem facilmente ler esse tipo de arquivo, dessa forma os dados podem ser manipulados de várias formas diferentes, sejam para fins de pesquisas e análises de dados ou até mesmo para apoiar os gestores municipais nas suas tomadas de decisões. 
 :::
 
 Além disso, os dados exportados no formato CSV também podem ser importados para outros sistemas próprios da gestão municipal.
@@ -104,7 +104,7 @@ Para ver gráficos dos atendimentos esporádicos, deve-se ir em **Secretaria -> 
 
 ![Buscar por relatórios quantitativos](../../static/img/modules/sporadic/ver_relatorios_graficos.jpg)
 
-Primeiramente deve ser informado sempre uma data inicial e uma data final, selecionar a undiade de atendimento e depois clicar no botão "Gerar gráficos", se a busca encontrar algum registro, a tela será renderizada com os seguintes gráficos.
+Primeiramente deve ser informado sempre uma data inicial e uma data final, selecionar a unidade de atendimento e depois clicar no botão "Gerar gráficos", se a busca encontrar algum registro, a tela será renderizada com os seguintes gráficos.
 
 ![gráfico serviço prestado](../../static/img/modules/sporadic/grafico_01.jpg)
 ![gráfico unidades de atendimento](../../static/img/modules/sporadic/grafico_02.jpg)

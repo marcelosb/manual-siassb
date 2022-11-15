@@ -61,6 +61,7 @@ module.exports = {
     'secretary/solicitation-visit',
     'secretary/denunciation',
     'secretary/forwarding',
+    'secretary/update-school',
   ],
 
   crasSidebar: [

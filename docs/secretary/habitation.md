@@ -33,7 +33,7 @@ O bloco de identificação e controle é dividido em dois sub-blocos:
 - [`Endereço`](#endereço)
 
 :::info Importante
-Todos os campos que possuem asteríscos (*) são de preenchimento obrigatório
+Todos os campos que possuem asteríscos (*) são de preenchimento obrigatório.
 :::
 
 #### Identificação
@@ -72,7 +72,7 @@ Por padrão, ao acessar o bloco de membros da família, o mesmo já vem com o re
 ![Cadastrar nova pessoa](../../static/img/secretary/habitation/composicao_familiar_cadastrar_pessoa.jpg)
 
 Ao preencher o campo data de nascimento, automaticamente o sistema calcula a quantidade de anos da pessoa.
- 
+
 :::caution Atenção
 O campo de renda mensal deve ser preenchido apenas com valores inteiros, caso a pessoa não possua renda, é recomendado inserir o valor 0 ou deixar o campo em branco.
 :::
@@ -93,7 +93,7 @@ Clicando no ícone do lapís, será aberta uma janela modal onde você poderá e
 ![Membros da família editar](../../static/img/secretary/habitation/composicao_familiar_editar_pessoa.jpg)
 
 :::caution Atenção
-Sempre atentar para a renda mensa, utilizar apenas números inteiros, caso não possua renda preencher com valor 0 ou deixar em branco.
+Sempre atentar para a renda mensal, utilizar apenas números inteiros, caso não possua renda preencher com valor 0 ou deixar em branco.
 :::
 
 Clicando no ícone da lixeira, será aberta uma janela modal, onde você poderá excluir uma pessoa da família, conforme a imagem abaixo.
@@ -123,14 +123,14 @@ Neste bloco devem ser registradas as seguintes despesas, conforme a imagem abaix
 - Saúde (despesa mensal que a família possui com medicamentos)
 
 :::caution Atenção
-Todos os campos, onde existe despesa comprovada, devem ser preenchidos com números inteiros. Por exemplo: se o valor da energia elétrica for R$ 86,54 no sistema deve ser inserido o valor de 86.
+Todos os campos, onde existe despesa comprovada, devem ser preenchidos com números inteiros. Por exemplo: se o valor da energia elétrica for R$ 86,54 deve ser inserido o valor de 86.
 :::
 
 :::info Importante
 Caso a família não possua despesas em alguns dos campos informados acima, é recomendado preencher estes campos com o valor 0 ou deixar vazio.
 :::
 
-Relizada tadas as alterações necessárias, o próximo passo é clicar no botão "Salvar e continuar".
+Relizada todas as alterações necessárias, o próximo passo é clicar no botão "Salvar e continuar".
 
 ### Informações gerais da família
 
@@ -144,7 +144,7 @@ Por padrão, todos os campos (com exceção do campo de deficientes) já são au
 
 #### Sub-bloco renda
 
-Por padrão, todos os campos já são auto-preenchidos, isso se da através de cálculos realizados no bloco de Composição familiar. O sistema automaticamente cálcula e exibe a faixa de renda da família que estão dividas em:
+Por padrão, todos os campos já são auto-preenchidos, isso se da através de cálculos realizados no bloco de composição familiar. O sistema automaticamente cálcula e exibe a faixa de renda da família, que estão divididas em:
 
 - Faixa 1 (de 0 a 1 salário mínimo)
 - Faixa 2 (de 1 a 3 salários mínimos)
@@ -156,9 +156,9 @@ O campo de renda mensal da família também é calculado automaticamente atravé
 
 #### Sub-bloco programas sociais
 
-No sub-bloco de programas socias, caso a família participa de algum programa, seja a nível nacional, estadual ou a nível municipal, deve ser marcado com sim, e informar os programas que a família participa ou é beneficiado. 
+No sub-bloco de programas socias, caso a família participe de algum programa, seja a nível nacional, estadual ou a nível municipal, deve ser marcado com sim, e informar os programas que a família participa ou é beneficiado. 
 
-Para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continuar".
+Para prosseguir com o próximo bloco, basta clicar no botão "Salvar e continuar".
 
 ### Informações da edificação
 
@@ -174,7 +174,7 @@ Conforme a imagem acima, o bloco de edificação é dividido em 10 sub-blocos.
 
 ![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-01.jpg)
 
-É voltado para saber se existem mais de uma família morando na casa, caso sim, automaticamente o sistema preenche o campo "Quantas?*" com o valor 1, no campo abaixo ainda é perguntado se é por opção da família  ou por necessidade.
+É voltado para saber se existem mais de uma família morando na casa, caso sim, automaticamente o sistema preenche o campo "Quantas?*" com o valor 1, no campo abaixo ainda é perguntado se é por opção da família ou por necessidade.
 
 #### Sub-bloco 02
 
@@ -205,7 +205,7 @@ Se a casa foi construída com outros recursos, informar qual.
 
 ![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-05.jpg)
 
-pergunta se existe mais uma casa ou anexo habitado por outra família neste terreno, e se é por opção da família ou por necessidade.
+Pergunta se existe mais uma casa ou anexo habitado por outra família neste terreno, e se é por opção da família ou por necessidade.
 
 #### Sub-bloco 06
 
@@ -219,7 +219,7 @@ Pergunta qual o material de construção da casa:
 4. Mista
 5. Outros
 
-Caso a casa foi construída com outro material, informar qual.
+Caso a moradia foi construída com outro material, informar qual.
 
 #### Sub-bloco 07
 
@@ -244,13 +244,13 @@ Pergunta se há pessoas da família que precisam dormir na sala ou cozinha por f
 
 ![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-09.jpg)
 
-Pergunta se a casa possui banheiro, caso não, o campo "Quantos" é preenchido automaticamente com o valor 0, e o campo banheiro é dentro de casa é desabilidatado. 
+Pergunta se a casa possui banheiro, caso não, o campo "Quantos" é preenchido automaticamente com o valor 0, e o campo banheiro é dentro de casa é desabilitado. 
 
 #### Sub-bloco 10
 
 ![Tipo de benefício eventual](../../static/img/secretary/habitation/sub-bloco-10.jpg)
 
-É para assinalar se a área onde a casa encontra-se esta sujeita a uma ou mais das situações abaixo, esta resposta aceita múltiplas seleções. Caso casa não esteja em nenhuma das áreas informadas, pode proseguir para o próximo bloco pois este campo não é obrigatório.
+É para assinalar se a área onde a casa encontra-se está sujeita a uma ou mais das situações abaixo, esta resposta aceita múltiplas seleções. Caso a casa não esteja em nenhuma das áreas informadas, pode prosseguir para o próximo bloco pois este campo não é obrigatório.
 
 Após o preenchimento de todos os campos, para prosseguir para o próximo bloco, basta clicar no botão "Salvar e continuar".
 
@@ -304,7 +304,7 @@ Após o preenchimento de todos os campos, para prosseguir para o próximo bloco,
 
 ### Observações técnicas
 
-No campo de observações técnicas devem ser escrita toda a observação realizada pelo assistente social durante o atendimento, após isso deve ser seleiconado o técnico responsável pelo atendimento e por fim informar a data do atendimento.
+No campo de observações técnicas deve ser escrita toda a observação realizada pelo assistente social durante o atendimento, após isso deve ser selecionado o técnico responsável pelo atendimento e por fim informar a data do atendimento.
 
 ![Consultar relatório social](../../static/img/secretary/habitation/observacoes.jpg)
 
@@ -330,7 +330,7 @@ Por fim, basta clicar no botão "Finalizar pré-cadastro" que o sistema irá red
 
 #### Imprimindo o pré-cadastro habitacional
 
-Clicando em "gerar documento para impressão", será aberta uma nova aba com o formulário pronto para ser impresso, conforme a imagem abaixo.
+Clicando em "Gerar documento para impressão", será aberta uma nova aba com o formulário pronto para ser impresso, conforme a imagem abaixo.
 
 ![Consultar relatório social](../../static/img/secretary/habitation/impressao-01.jpg)
 ![Consultar relatório social](../../static/img/secretary/habitation/impressao-02.jpg)
@@ -480,7 +480,7 @@ Informar sempre uma data inicial e uma data final e depois clicar no botão "Ger
 ![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_destino_do_lixo.jpg)
 ![gráfico produção dos técnicos](../../static/img/secretary/habitation/grafico_producao_dos_tecnicos.jpg)
 
-Além disso, no fim da página existe a possibilidade de gerar um relatório analítico dos dados gerados pelos gráficos. Clicando em "Gerar relatório", o sistem vai exibir uma nova página, veja na imagem abaixo.
+Além disso, no fim da página existe a possibilidade de gerar um relatório analítico dos dados gerados pelos gráficos. Clicando em "Gerar relatório", o sistema vai exibir uma nova página, veja na imagem abaixo.
 
 ![Ver relatório analítico](../../static/img/secretary/habitation/relatorio_analitico_01.jpg)
 ![Ver relatório analítico](../../static/img/secretary/habitation/relatorio_analitico_02.jpg)

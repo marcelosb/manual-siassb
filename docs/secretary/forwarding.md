@@ -44,7 +44,7 @@ Após o preenchimento de todos os campos, basta clicar no botão "Encaminhar".
 Quando o encaminhamento é realizado para uma unidade externa (INSS, Casa da Cidadania, Caixa Econômica Federal, Cartório Eleitoral, Receita Federal, etc.), a ficha de encaminhamento **DEVE** ser impressa e entregue para o usuário. 
 
 :::caution Atenção
-A unidade de destino deve devolver ao usuário a ficha de Contra-referência, devidamente preenchida, para posterior apresentação no serviço de origem.
+A unidade de destino deve devolver ao usuário a ficha de contra-referência, devidamente preenchida, para posterior apresentação no serviço de origem.
 :::
 
 ### Encaminhando para outra unidade da assistência social
@@ -53,26 +53,26 @@ Quando o encaminhamento é realizado para uma unidade que pertence a secretaria 
 
 ![Consultar relatório social](../../static/img/modules/forwarding/alerta.jpg)
 
-Conforme a imagem acima, a usuária SILVANA FEITOSA RAMALHO foi encaminhada do CREAS para o CRAS, quando o técnico logou no sistema, recebeu o alerta. O alerta é composto da mensagem juntamente com dois botões de leia mais e marcar como lida.
+Conforme a imagem acima, a usuária SILVANA FEITOSA RAMALHO foi encaminhada do CREAS para o CRAS, quando o técnico logou no sistema, recebeu o alerta. O alerta é composto da mensagem juntamente com dois botões de "leia mais" e "marcar como lida".
 
 #### Visualizando o alerta de encaminhamento 
 
-Clicando no botão leia mais, o sistema irá redirecionar para a tela do encaminhamento.
+Clicando no botão "leia mais", o sistema irá redirecionar para a tela do encaminhamento.
 
 ![Consultar relatório social](../../static/img/modules/forwarding/alerta_encaminhamento_view_01.jpg)
 ![Consultar relatório social](../../static/img/modules/forwarding/alerta_encaminhamento_view_02.jpg)
 
-Perceba que existe um botão chamado contra-referencia, caso o usuário já esteja no local de atendimento, basta clicar no botão de contra-referência, o sistema irá carregar a seguinte página.
+Perceba que existe um botão chamado "contra-referência", caso o usuário já esteja no local de atendimento, basta clicar no botão de contra-referência, o sistema irá carregar a seguinte página.
 
 ![Consultar relatório social](../../static/img/modules/forwarding/registrar_contra_referencia.jpg)
 
-Para registrar a contra-referência, deve-se o campo de anotações, selecionar o profissional que está realizado o atendimento e a data da contra-referência, após o preechimento dos campos, basta clicar no botão "Registrar contra-referência".
+Para registrar a contra-referência, deve-se ir no campo de anotações, selecionar o profissional que está realizado o atendimento, e selecionar a data da contra-referência, após o preechimento dos campos, basta clicar no botão "Registrar contra-referência".
 
 #### Marcar alerta como lido
 
 Registrada a contra-referência, basta ir na tela inicial do sistema, ir no alerta e clicar no botão "Marcar como lida", ao clicar nesta opção o alerta irá desaparecer da tela inicial.
 
-Caso o profissional queira rever o alerta novamente, basta ir na barra de menu superior do sistema, ir no lado direito e clicar no ícone do sino que a aplicação irá redirecionar para a seguinte tela:
+Caso o profissional queira rever o alerta novamente, basta ir na barra de menu superior do sistema, ir no lado direito e clicar no ícone do "sino" que a aplicação irá redirecionar para a seguinte tela:
 
 ![Consultar relatório social](../../static/img/modules/forwarding/notificacoes.jpg)
 
@@ -103,7 +103,7 @@ Para buscar por um encaminhamento existente, deve-se ir em **Secretaria -> Encam
 A busca pode ser realizada pelo nome do usuário, CPF, bairro, unidade de origem, responsável pelo atendimento e a área para a qual está sendo realizado o encaminhamento.
 
 :::tip Dica
-O nome do usuário pode ser pesquisado em partes, ou seja, no lugar de digitar MARIA DA SILVA, pode ser digitado apenas MARIA que o sistema vai encontrar todas as MARIA's e retornar o resultado
+O nome do usuário pode ser pesquisado em partes, ou seja, no lugar de digitar MARIA DA SILVA, pode ser digitado apenas MARIA que o sistema vai encontrar todas as MARIA's e retornar o resultado.
 :::
 
 :::note Nota 
@@ -130,7 +130,7 @@ Em ações existem 3 opções:
 
 ### Imprimindo a ficha de encaminhamento
 
-Caso haja a necessidade de re-imprimir a ficha de encaminhamento, basta clicar no ícone de impressão, que o sistema irá abrir uma nova aba. [Veja o passo a passo](#imprimindo-a-ficha-de-encaminhamento).
+Caso haja a necessidade de "re-imprimir" a ficha de encaminhamento, basta clicar no ícone de impressão, que o sistema irá abrir uma nova aba. [Veja o passo a passo](#imprimindo-a-ficha-de-encaminhamento).
 
 ### Editando o encaminhamento
 
