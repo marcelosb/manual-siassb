@@ -69,7 +69,8 @@ module.exports = {
   crasSidebar: [
     
     'cras/index',
-    'cras/triage/create',
+    'cras/triage',
+    'cras/prontuary-suas',
     
 
       // {

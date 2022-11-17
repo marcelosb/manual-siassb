@@ -5,23 +5,28 @@ slug: beneficios-eventuais
 
 # Benefícios eventuais
 
-Os benefícios eventuais são de caráter suplementar e provisório, prestados aos cidadãos e às
-famílias em virtude de nascimento, morte, situações de vulnerabilidade temporária e de calamidade pública.
+Os Benefícios Eventuais são assegurados pelo art. 22 da [Lei nº 8.742, de 07 de dezembro de 1993, Lei Orgânica de Assistência Social - LOAS](https://www.planalto.gov.br/ccivil_03/LEIS/L8742.htm#art22.), alterada pela Lei nº 12.435, de 06 de julho de 2011, e integram organicamente as garantias do Sistema Único de Assistência Social – SUAS.
+
+Os Benefícios Eventuais são um tipo de proteção social que se caracteriza por sua
+oferta de natureza temporária para prevenir e enfrentar situações provisórias de
+vulnerabilidade decorrentes ou agravadas por nascimentos, mortes, vulnerabilidades
+temporárias e calamidades.
 
 Dentre as funcionalidades no sistema, podemos citar:
 
-- [Cadastro da família](#cadastrar-nova-família)
-- Edição de dados
-- Concessão de novo benefício eventual
-- Prorrogar concessão de benefícios
-- Remover prorrogação de benefícios
-- Anexar arquivos
-- Histórico de concessões
-- Editar endereço
-- Cadastrar nova pessoa
-- Ver composição familiar
-- Imprimir folha resumo
-- Imprimir relatório social
+- [`Cadastro da família`](#cadastrar-nova-família)
+- [`Buscar família`](#buscar-família)
+- [`Concessão de novo benefício eventual`](#aba-conceder-novo-benefício)
+- [`Prorrogar concessão de benefícios`](#aba-prorrogar-concessão-de-benefícios)
+- [`Anexar arquivos`](#aba-anexos)
+- [`Histórico de concessões`](#aba-histórico-de-concessões)
+- [`Editar endereço`](#aba-editar-endereço)
+- [`Cadastrar nova pessoa`](#aba-cadastrar-nova-pessoa)
+- [`Ver composição familiar`](#aba-membros-da-família)
+- [`Imprimir folha resumo`](#aba-imprimir-folha-resumo)
+- [`Imprimir relatório social`](#aba-imprimir-relatório-social)
+- [`Ver relatórios nominais`](#ver-relatórios-nominais)
+- [`Ver relatórios quantitativos`](#ver-gráficosrelatórios-quantitativos)
 
 ## Cadastrar nova família
 
@@ -192,13 +197,13 @@ A Página é dividida em 12 abas:
 11. Imprimir folha resumo
 12. Imprimir relatório social
 
-#### Aba resumo
+### Aba resumo
 
 Na aba resumo constam informações relevantes da concessão do benefício e dados relacionados a composição familiar.
 
 ![Aba resumo](../../static/img/modules/benefit-eventual/aba_resumo.jpg)
 
-#### Aba conceder novo benefício
+### Aba conceder novo benefício
 
 Quando o assistente social for conceder um novo benefício eventual para a família, deve-se utilizar esta aba, mas antes deve conferir se a família está apta a receber, na aba resumo existe um campo chamado quantidade de benefícios que faltam serem concedidos, se o valor for marcado com 0, é porque a família não está apta a receber mais benefícios eventuais, caso contrário a família poderá ser contemplada com novos benefícios.
 
@@ -214,7 +219,7 @@ Fique atento ao campo "Nome do responsável familiar/recebedor*", caso quem este
 
 Após o preenchimento de todos os campos, basta clicar no botão "Conceder".
 
-#### Aba prorrogar concessão de benefícios
+####Aba prorrogar concessão de benefícios
 
 Conforme a observação realizada pelo assistente social, se houver a necessidade de prorrogar o período de concessão do benefício eventual, o mesmo pode ser estendido por até 48 meses.
 
@@ -226,7 +231,7 @@ O benefício eventual não pode ser caracterizado por um benefício concedido po
 
 Após a seleção da quantidade de meses, basta clicar no botão "Estender".
 
-#### Aba remover prorrogação de benefícios
+### Aba remover prorrogação de benefícios
 
 ![Aba remover prorrogação de benefícios](../../static/img/modules/benefit-eventual/aba_remover_prorrogacao_concessao_de_beneficios.jpg)
 
@@ -238,11 +243,11 @@ Ao remover a prorrogação de benefícios, automaticamente a família terá o se
 
 Feita a operação de remoção e caso queira continuar concedendo novos benefícios, deve ir na aba [prorrogar concessão de benefícios](#aba-prorrogar-concessão-de-benefícios).
 
-#### Aba anexos
+### Aba anexos
 
 O processo de anexo dos documentos da família deve ser seguido, corforme o [bloco de anexos](#anexos).
 
-#### Aba histórico de concessões
+### Aba histórico de concessões
 
 Na aba de histórico de concessões, o assistente social poderá visualizar os seguintes dados:
 
@@ -254,29 +259,29 @@ Na aba de histórico de concessões, o assistente social poderá visualizar os s
 - Data (data da concessão no formato dd/mm/aaaa)
 - Ações (ver requerimento e editar dados do histórico)
 
-##### Ver requerimento
+#### Ver requerimento
 
 Clicando no ícone da folha de papel (ver requerimento), o sistema irá abrir uma nova página, sendo o mesmo requerimento mostrado [nessa página](#gerando-requerimento).
 
-#### Aba editar endereço
+### Aba editar endereço
 
 ![Aba editar endereço](../../static/img/modules/benefit-eventual/aba_editar_endereco.jpg)
 
 O processo de editar endereço da família deve ser seguido, corforme o [bloco de identificão](#identificação-e-controle).
 
-#### Aba cadastrar nova pessoa
+### Aba cadastrar nova pessoa
 
 ![Aba cadastrar nova pessoa](../../static/img/modules/benefit-eventual/aba_cadastrar_nova_pessoa.jpg)
 
 O processo de cadastrar nova pessoa da família deve ser seguido, corforme o [bloco de membros da família](#cadastrar-pessoa), feita todas as operações, basta clicar no botão "Cadastrar".
 
-#### Aba membros da família
+### Aba membros da família
 
 ![Aba membros da família](../../static/img/modules/benefit-eventual/aba_membros_da_familia.jpg)
 
 O processo de visualizar, editar e excluir uma pessoa da família deve ser seguido, corforme o [lista de membros da família](#lista-de-membros-da-família).
 
-#### Aba outros benefícios
+### Aba outros benefícios
 
 ![Aba outros benefícios](../../static/img/modules/benefit-eventual/aba_outros_beneficios.jpg)
 
@@ -286,13 +291,13 @@ Aba onde serão exibidos outros benefícios.
 É importante que nestes casos, o assistente social oriente ao usuário dessa possibilidade da família ter direito à outros benefícios.
 :::
 
-#### Aba imprimir folha resumo
+### Aba imprimir folha resumo
 
 Ao clicar na aba de imprimir folha resumo, o sistema irá abrir uma nova aba, conforme a imagem abaixo.
 
 ![Aba imprimir folha resumo](../../static/img/modules/benefit-eventual/folha_resumo.jpg)
 
-#### Aba imprimir relatório social
+### Aba imprimir relatório social
 
 O processo de imprimir relatório social deve ser seguido, corforme o [bloco da impressão de relatório social](#gerando-relatório-social).
 

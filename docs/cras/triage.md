@@ -1,7 +1,5 @@
 ---
-sidebar_position: 1
-id: create
-title: Triagem
+title: Atendimentos diários
 slug: triagem
 ---
 
@@ -16,11 +14,11 @@ O objetivo principal da triagem é agilizar o atendimento, fazendo com que os t�
 
 Após o processo de login no sistema, para registrar um atendimento na recepção, basta clicar na unidade CRAS -> Atendimentos diários -> Registrar atendimento diário, conforme a imagem abaixo:
 
-![image info](../../../static/img/cras/triagem/menu-triagem.jpg)
+![image info](../../static/img/cras/triagem/menu-triagem.jpg)
 
 Com isso, a recepcionista será redirecionada para a tela de registro diário de atendimentos.
 
-![image info](../../../static/img/cras/triagem/cadastro.jpg)
+![image info](../../static/img/cras/triagem/cadastro.jpg)
 
 O formulário de registro diário de atendimentos é composto pelos seguintes campos:
 
@@ -40,7 +38,7 @@ Os campos com * são obrigatórios
 
 Para identificar os atendimentos que foram registrados na recepção, siga os passos: CRAS -> Atendimentos diários -> Consultar atendimento diário
 
-![image info](../../../static/img/cras/triagem/buscar.jpg)
+![image info](../../static/img/cras/triagem/buscar.jpg)
 
 A busca pode ser realizada atráves do nome do usuário, CPF do usuário, Data de registro, Responsável pelo atendimento ou Unidade de atendimento.
 
@@ -52,7 +50,7 @@ Logo, no ato da busca basta digitar MARIA que o sistema vai retornar todas as Ma
 
 Realizada a busca, conforme as necessidades do profissional, será exibida uma tela com todos os registros encontrados.
 
-![image info](../../../static/img/cras/triagem/registros.jpg)
+![image info](../../static/img/cras/triagem/registros.jpg)
 
 Caso necessite ver mais dados de um registro em específico, basta clicar no ícone do olho, botão arendodado na cor azul;
 
@@ -60,19 +58,19 @@ Caso necessite ver mais dados de um registro em específico, basta clicar no íc
 
 Clicado sobre o botão azul arredondado (ícone do olho) você será redirecionado para a aba de dados do atendimento, será apresentado o resumo do registro, inclusive, qual o profissional que registrou o atendimento. Nesta visualização, é possível acessar o registro completo da triagem.
 
-![image info](../../../static/img/cras/triagem/ver.jpg)
+![image info](../../static/img/cras/triagem/ver.jpg)
 
 ## Editar atendimento diário
 
 Na aba ao lado, existe a funcionalidade de editar os dados do atendimento diário, caso o profissional verificou que houve alguma inconsistência nos dados, os mesmos podem ser alterados nesta aba.
 
-![image info](../../../static/img/cras/triagem/editar.jpg)
+![image info](../../static/img/cras/triagem/editar.jpg)
 
 ## Visualizando relatórios nominais
 
 Os relatórios nominais nos dão a possibilidade de identificarmos quem foram os usuários que passaram pela triagem da recepção. Para isso, deve-se inserir uma data inicial e uma data final para obtermos o relatório de forma mais detalhada.
 
-![image info](../../../static/img/cras/triagem/relatorio_nominal.jpg)
+![image info](../../static/img/cras/triagem/relatorio_nominal.jpg)
 
 :::caution atenção
 A data inicial sempre deve ser menor que a data final, recomendamos que o período selecionado seja de no máximo um ano!
@@ -80,7 +78,7 @@ A data inicial sempre deve ser menor que a data final, recomendamos que o perío
 
 Com a selelação correta da data inicial e data final, os registros serão exibidos numa nova aba.
 
-![image info](../../../static/img/cras/triagem/relatorios_nominais_registros.jpg)
+![image info](../../static/img/cras/triagem/relatorios_nominais_registros.jpg)
 
 Assim, os registros realizados na triagem podem ser impressos, ou salvos no formato PDF.
 
@@ -88,16 +86,16 @@ Assim, os registros realizados na triagem podem ser impressos, ou salvos no form
 
 Os gráficos são um forma de visualizar os dados de uma forma quantitativa, para iniciar o processo de geração de gráficos, o acesso se dá através do CRAS -> Atendimentos diários -> Ver gráficos/relatórios quantitativos.
 
-![image info](../../../static/img/cras/triagem/buscar_graficos.jpg)
+![image info](../../static/img/cras/triagem/buscar_graficos.jpg)
 
 Para gerar gráficos, é necessário selecionar a data inicial e a data final, como também as unidades de atendimento, podendo ser selecionadas mais de uma unidade, por fim basta clicar em gerar gráficos, o modelo dos gráficos é do tipo pizza.
 
-![image info](../../../static/img/cras/triagem/grafico_servico_prestado.jpg)
-![image info](../../../static/img/cras/triagem/grafico_forma_de_acesso.jpg)
-![image info](../../../static/img/cras/triagem/grafico_unidade.jpg)
+![image info](../../static/img/cras/triagem/grafico_servico_prestado.jpg)
+![image info](../../static/img/cras/triagem/grafico_forma_de_acesso.jpg)
+![image info](../../static/img/cras/triagem/grafico_unidade.jpg)
 
 Além disso, existe o opção de gerar relatório analítico, basta clicar no botão azul chamado "gerar relatório", será exebido um relatório em formato de tabelas numa nova aba.
 
-![image info](../../../static/img/cras/triagem/grafico_relatorio.jpg)
+![image info](../../static/img/cras/triagem/grafico_relatorio.jpg)
 
 O mesmo pode ser impresso ou salvo no formato PDF.
