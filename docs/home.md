@@ -58,7 +58,7 @@ de admissão de usuários e atribuição de perfis.
 
 A autenticação verifica a identidade digital do profissional da assistência social, ou seja, é o processo de verificação de uma identidade. Em termos mais simples, é quando o profissional prova de fato quem ele é.
 
-O sistema faz a primeira checagem através do CPF e a da senha do profissional.
+O sistema faz a primeira checagem através do CPF e da senha do profissional.
 
 :::info Importante
 A senha do profissional é criptografada no banco de dados, trazendo ainda mais segurança ao processo de login.
@@ -72,7 +72,7 @@ Além disso, caso o usuário erre a senha por 5 vezes consecutivas, o seu sistem
 
 ![muitas requisições](../static/img/home/erro_muitas_requisicoes.jpg)
 
-Este é outro importante recurso de segurança, que bloqueia a aplicação temporariamente contra acessos indevidos, além de ser uma proteção contra ataques de força bruta (pessoas má intencionadas que tentam entrar na aplicação através de robôs utilizando diversas combinações de senhas e de CPF's).
+Este é outro importante recurso de segurança, que bloqueia a aplicação temporariamente contra acessos indevidos, servindo como uma proteção contra ataques de força bruta (pessoas má intencionadas que tentam entrar na aplicação através de robôs utilizando diversas combinações de senhas e de CPF's).
 
 Desta forma, ao logar-se no sistema, o profissional estará passando por um rigoroso processo de autenticação.
 

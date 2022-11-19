@@ -823,3 +823,50 @@ Neste quadro devem ser inseridas apenas as pessoas da família que possuem condi
 Perceba que ainda não existem condições de trabalho e renda registradas para essa família, então deve-se clicar no botão **"Registrar condição"**, assim será exibida uma janela modal, conforme a imagem abaixo.
 
 ![registrar trabalho e renda](../../static/img/modules/prontuary-suas/registrar_condicao_de_trabalho.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Possui carteira de trabalho:** Marque nesse campo se a pessoa da família possui ou não Carteira de Trabalho e
+Previdência Social (CTPS). Essa informação deve ser armazenada para cada membro da família que for registrado nesse quadro.
+
+**Condição de ocupação:** Para o registro nesse item, é necessário utilizar os códigos numéricos que constam
+na lista de Códigos da Condição de Ocupação:
+
+0 - Não trabalha  
+1 - Trabalhador por conta própria (bico, autônomo)  
+2 - Trabalhador temporário em área rural  
+3 - Empregado sem carteira de trabalho assinada  
+4 - Empregado com carteira de trabalho assinada  
+5 - Trabalhador doméstico sem carteira de trabalho assinada  
+6 - Trabalhador doméstico com carteira de trabalho assinada  
+7 - Trabalhador não remunerado  
+8 - Militar ou servidor público  
+9 - Empregador  
+10 - Estagiário  
+11 - Aprendiz (tem condição legal)  
+
+:::danger Muita atenção
+Crianças e adolescentes menores de 16 anos que esteja trabalhando, mas não se encontre na condição de aprendiz não devem ser registrados neste formulário. Esta situação caracteriza **trabalho infantil!**
+:::
+
+**Possui qualificação profissional:** Marque nesse item se as pessoas da família possuem ou
+não qualificação profissional. Essa informação deve ser registrada para cada membro da família que for apontado nesse quadro.
+
+**Caso sim, qual:** Nas ocasiões em que for registrado que as pessoa da família possuam alguma qualificação profissional, é necessário historiar e descrever todas as qualificações declaradas.
+
+**Data da anotação:** Nesse campo deve ser registrada a data da anotação referente às condições de trabalho e renda da família acompanhada e deve constar o dia, o mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+**Renda mensal (R$):** Informe nesse campo a renda mensal de cada pessoa. Essa informação é fundamental para identificar pessoas elegíveis aos programas de transferência de renda e ou benefícios assistenciais, mas que ainda não foram contempladas.
+
+A renda deve ser informada somente com números inteiros, caso o valor seja 89,90 deve-se arredondar para 89, se o membro da família não trabalha e não possui nenhum outro tipo de renda, deve-se informar o valor 0.
+
+:::caution Atenção
+Para o registro de renda mensal não devem ser considerados os recursos provenientes de programas de transferência de renda como BPC ou PAB, por exemplo. 
+:::
+
+Preenchido todo os campos, o próximo passo é clicar no botão "Registrar".
+
+![registrar trabalho e renda sucesso](../../static/img/modules/prontuary-suas/registrar_condicao_de_trabalho_sucesso.jpg)
+
+Perceba que o sistema agora exibiu os dados do histórico das condições de, e mais dois sub-blocos de outras fontes de renda e observações.
+

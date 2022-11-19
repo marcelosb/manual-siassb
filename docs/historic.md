@@ -33,7 +33,7 @@ Ao realizar a busca pelo CPF do usuário e a pesquisa conseguiu retornar algum r
 
 Conforme a imagem acima, em cada bloco da linha do tempo, existe um botão chamado "Visualizar", clicando em visualizar, o técnico da unidade saberá como foi realizado aquele atendimento em específico e que informações foram declaradas.
 
-Assim, com o acesso ao histórico de forma mais detalhda, facilitará o trabalho do técnico, ajudando na otimização de tarefas e proporcionando um melhor atendimento ao usuário final.
+Assim, com o acesso ao histórico de forma mais detalhada, facilitará o trabalho do técnico, ajudando na otimização de tarefas e proporcionando um melhor atendimento ao usuário final.
 
 :::caution Atenção
 A linha de tempo só é gerada para os usuários que possuem **CPF** registrado no sistema! É extremamente importante que os usuários no ato do atendimento estejam munidos deste documento, pois é através dele que é gerada a linha do tempo e a unificação dos dados do usuário.
