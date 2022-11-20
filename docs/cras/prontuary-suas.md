@@ -413,7 +413,7 @@ Após o preenchimento dos campos necessários, basta clicar no botão "Salvar".
 
 #### Observações
 
-Para registrar uma nova obervação, basta selecionar a aba e preencher os campo, veja na imagem abaixo.
+Para registrar uma nova obervação, basta selecionar a aba e preencher os campos, veja na imagem abaixo.
 
 ![observações](../../static/img/modules/prontuary-suas/composicao_familiar_observacao.jpg)
 
@@ -451,7 +451,7 @@ Abaixo segue o passo a passo para o registro das informações, conforme a image
 
 ![bloco habitação](../../static/img/modules/prontuary-suas/bloco_habitacao.jpg)
 
-Perceba que Ainda não existem condições habitacionais registradas para essa família, então deve-se clicar no botão **"Registrar condição habitacional"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+Perceba que ainda não existem condições habitacionais registradas para essa família, então deve-se clicar no botão **"Registrar condição habitacional"**, assim será exibida uma janela modal, conforme a imagem abaixo.
 
 ![modal habitação registro topo](../../static/img/modules/prontuary-suas/modal_habitacao_add_01.jpg)
 ![modal habitação registro rodapé](../../static/img/modules/prontuary-suas/modal_habitacao_add_02.jpg)
@@ -964,4 +964,289 @@ Caso haja a necessidade de alterar os dados das anotações, basta clicar no íc
 Realizada todas as ações no bloco de Condições de trabalho e rendimentos da família, basta clicar no botão "Continuar".
 
 ### Condições de saúde da família
+
+> "Os níveis de saúde expressam a organização social e econômica do País, tendo a saúde como determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico, o meio ambiente, a renda, a educação, a atividade física, o transporte, o lazer e o acesso aos bens e serviços essenciais” (Art. 3º da Lei nº 12.864/2013).
+
+Considerando o Art. 2º da LOAS que aponta a defesa de direitos como um dos objetivos da Assistência Social, esse bloco do Prontuário foi elaborado para subsidiar e qualificar o serviço ofertado as famílias que estão em acompanhamento familiar do PAIF e do PAEFI, considerando o direito constitucional de acesso a saúde.
+
+Abaixo segue o passo a passo para o registro das informações:
+
+![bloco de saúde](../../static/img/modules/prontuary-suas/bloco_saude.jpg)
+
+Perceba que ainda não existem condições de saúde registradas para essa família, então deve-se clicar no botão **"Registrar condição"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![condição de saúde 01](../../static/img/modules/prontuary-suas/registrar_cond_saude_01.jpg)
+![condição de saúde 02](../../static/img/modules/prontuary-suas/registrar_cond_saude_02.jpg)
+![condição de saúde 03](../../static/img/modules/prontuary-suas/registrar_cond_saude_03.jpg)
+
+**A família possui algum integrante que, devido ao envelhecimento ou à doença, necessite de cuidados constantes de outra pessoa para realizar atividades básicas, tais como, tomar banho, alimentar-se, ficar só em casa, locomover-se dentro de casa etc.:** Nesse campo registe a situação em que a família usuária possua entre seus
+membros alguém que necessite de cuidados constantes em decorrência da idade (pessoa idosa) ou em virtude de alguma doença orgânica crônica, marque "Sim" ou "Não". 
+
+Caso sim, selecione o(s) nome(s) da(s) pessoa(s) e registre o responsável pelo cuidado
+
+:::danger Fique atento
+Nas situações em que a pessoa necessite de cuidados constantes, mas não possa contar com a presença de um(a) cuidador(a), a equipe responsável pelo acompanhamento familiar deve ficar mais atenta, pois esta circunstância pode indicar situações vulnerabilidade e risco pessoal.
+:::
+
+**A família declara, ou fornece indícios, de que vivencía situação de insegurança alimentar devido a insuficiência de alimentos:** 
+
+Nesse campo registre se família usuária apresenta indícios de situação de insegurança alimentar e nutricional devido à insuficiência de alimentos. A informação registrada nesse item também pode ser declarada pela própria família, selecione "Sim" ou "Não".
+
+:::caution Atenção
+[A Lei Orgânica de Segurança Alimentar e Nutricional – LOSAN (Lei nº 11.346 de 15
+de setembro de 2006)](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11346.htm) que institui o Sistema Nacional de Segurança Alimentar e Nutricional (SISAN) visando assegurar o direito humano à alimentação adequada, preconiza que o poder público adote políticas e ações intersetoriais que se façam necessárias para promover e garantir a segurança alimentar e nutricional da população, bem como a promoção da saúde, da nutrição e da alimentação saudável, priorizando grupos populacionais específicos e pessoas em situação de vulnerabilidade social.
+:::
+
+**Algum membro da família é portador de alguma doença grave:** Registe nesse campo a situação em que na família acompanhada pelo PAIF ou PAEFI exista a presença de algum membro familiar com alguma doença considerada grave ou crônica, marque "Sim" ou "Não".
+
+Caso sim, selecione o(s) nome(s) da(s) pessoa(s) e o(s) tipo(s) de doença(s).
+
+:::tip Importante
+De acordo com a [Lei nº 12.008, de 29 de julho de 2009](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/L12008.htm), são consideradas doenças graves: AIDS, Neoplasia Maligna (Câncer), Cardiopatia Grave, Cegueira, Contaminação por Radiação, Nefropatia Grave, Hepatopatia Grave, Fibrose Cística, Doença de Paget (em estados avançados), Doença de Parkinson, Espondiloartrose Anquilosante (tipo de artrose que causa uma série de alterações na coluna lombar, cervical ou dorsal, afetando os ossos, ligamentos, disco intervertebral e nervos, provocando), Esclerose Múltipla, Hanseníase, Paralisia Irreversível e Incapacitante e Tuberculose Ativa. Considere para este item também pessoas com doenças consideradas crônicas, como diabetes e doenças respiratórias (Doença Pulmonar Obstrutiva Crônica e Asma Crônica).
+:::
+
+**Algum membro da família faz uso de remédios controlados (tarja preta) para transtornos mentais:** Registe nesse campo se a pessoa com transtorno mental da família faz tratamento farmacológico utilizando medicamentos psicotrópicos para controle dos sintomas de depressão, ansiedade, ou esquizofrenia, por exemplo. 
+
+Caso sim, selecione o nome da(s) pessoa(s).
+
+:::danger Atenção
+Os "remédios controlados" são popularmente conhecidos como remédios "tarja preta". Esses remédios só podem ser vendidos em locais autorizados ou são distribuídos gratuitamente nas unidades de saúde do SUS ou com descontos nas Farmácias Populares mediante prescrição médica. A utilização desses medicamentos necessita de acompanhamento clínico/médico regular. 
+:::
+
+**Algum membro da família faz uso abusivo de álcool:** Registe nesse item a situação em que na família acompanhada pelo PAIF ou PAEFI exista a presença de algum membro familiar que faça uso abusivo de álcool ou apresente diagnóstico de dependência alcoólica, marque "Sim" ou "Não".
+
+Caso sim, selecione o(s) nome(s) da(s) pessoa(s).
+
+:::caution Atenção
+O abuso ou dependência do álcool se refere ao consumo excessivo de bebidas alcoólicas, independentemente da idade, que aumenta o risco de consequências prejudiciais a pessoa comprometendo suas relações familiares, sociais, educacionais ou profissionais. 
+:::
+
+**Algum membro da família faz uso abusivo de crack ou outras drogas (cocaína, maconha, etc):**  Registe nesse campo a situação em que na família acompanhada pelo PAIF ou PAEFI exista a presença de algum membro familiar que faça uso abusivo de crack ou outras drogas ou apresente diagnóstico de dependência de substância psicoativa.
+
+Caso sim, selecione o(s) nome(s) da(s) pessoa(s) e registre o(s) tipo(s) de substância(s).
+
+:::caution Atenção
+O abuso e dependência de drogas se referem ao consumo excessivo de drogas ilícitas, independentemente da idade, que resulta em dano físico ou mental, com consequências sociais, comprometendo as relações familiares, sociais, educacionais ou profissionais.
+:::
+
+**Data da anotação:** Nesse campo deve ser registrada a data da anotação referente às condições de saúde da família e deve constar o dia, o mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+Registrados todos os passos acima, basta clicar no botão "Registrar", assim o sistema irá exibir a seguinte tela.
+
+![bloco saúde topo](../../static/img/modules/prontuary-suas/bloco_saude_01.jpg)
+![bloco saúde rodapé](../../static/img/modules/prontuary-suas/bloco_saude_02.jpg)
+
+Perceba, que houve uma mudança no bloco de saúde, onde você poderá acompanhar o histórico de condições de saúde da família, como também foram liberadas 4 abas: 
+- Pessoa com deficiência 
+- Presença de gestante(s)
+- Descumprimento de condicionalidades
+- Observações
+
+##### Ver histórico de condições de saúde 
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico cond. saúde](../../static/img/modules/prontuary-suas/ver_historico_cond_saude.jpg)
+
+##### Editar histórico de condições de saúde 
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico cond. saúde](../../static/img/modules/prontuary-suas/editar_historico_ocond_saude_01.jpg)
+![editar histórico cond. saúde](../../static/img/modules/prontuary-suas/editar_historico_ocond_saude_02.jpg)
+![editar histórico cond. saúde](../../static/img/modules/prontuary-suas/editar_historico_ocond_saude_03.jpg)
+
+#### Pessoa com deficiência 
+
+Esta aba deverá ser usada apenas nas situações em que seja identificada a presença de pessoas com deficiência na família que está em acompanhamento no CRAS ou CREAS.
+
+:::tip Importante
+O Decreto [nº 7.612, de 17 de novembro de 2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7612.htm), que Institui o Plano Nacional dos Direitos da Pessoa com Deficiência – Plano Viver sem Limite, considera pessoas com deficiência “aquelas que têm impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdades de condições com as demais pessoas” (Art. 2º).
+:::
+
+Veja abaixo o passo a passo de como realizar o cadastramento de deficientes.
+
+Ir na aba Pessoa com deficiência -> clicar no botão "Registrar", será aberta uma nova janela modal, conforme a imagem abaixo.
+
+![registrar deficiência saúde](../../static/img/modules/prontuary-suas/registrar_deficiencia_saude.jpg)
+
+**Nº de ordem e nome da pessoa da família:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Data de registro:** Nesse campo deve ser registrada a data de registro referente à aba de pessoa com deficiência da família acompanhada e deve constar o dia, o mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+**Tipo(s) de deficiência(s):** Para registrar o tipo de deficiência no Prontuário, considere os seguintes códigos numéricos:
+
+1. `Cegueira`: É aquela pessoa que não enxerga nada ou quase nada, ou seja, os dois olhos não apresentam capacidade de perceber a luz, a forma e a cor dos objetos, havendo necessidade de aprender a leitura e a escrita por meio de sistema especial de comunicação, denominado Braille, e de ter um treinamento especial para a locomoção, geralmente com uso de bengala ou de cães adestrados.
+2. `Baixa Visão`: Deficiência visual parcial em ambos os olhos, ou seja, a pessoa percebe a luz, mas tem muita dificuldade para enxergar as formas, as cores dos objetos, mesmo com o uso de óculos.
+3. `Surdez severa/profunda`: As pessoas com surdez profunda têm dificuldades para ouvir por meio dos dois ouvidos, de forma que não escutam nada ou quase nada, não percebem os sons e, muitas vezes, não aprendem a falar espontaneamente.
+4. `Surdez leve/moderada`: A pessoa com surdez moderada pode ouvir com os dois ouvidos alguns sons, em geral os mais graves e fortes (por exemplo, o barulho de um trovão, som de avião), mas não ouve sons mais agudos ou fraco (como a fala humana, o som da TV ligada, o barulho de um carro passando na rua, entre outros).
+5. `Deficiência física`: A redação dada pelo [Decreto nº 5.296, de 2004](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm), considera a pessoa com deficiência física aquela que apresenta: “alteração completa ou parcial de um ou mais segmentos do corpo humano, acarretando o comprometimento da função física, apresentando-se sob a forma de paraplegia, paraparesia, monoplegia, monoparesia, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, ostomia, amputação ou ausência de membro, paralisia cerebral, nanismo, membros com deformidade congênita ou adquirida, exceto as deformidades estéticas e as que não produzam dificuldades para o desempenho de funções” (Art. 4º, inciso I).
+6. `Deficiência mental ou intelectual`: A deficiência mental/intelectual abrange vários níveis, entre leve e severo, em decorrência de distintas causas podendo ao não estar associada a outras deficiências. E é preciso ainda muito cuidado para não confundir a Deficiência Mental/Intelectual com o Transtorno/Doença Mental, uma vez que este último possivelmente demandará o encaminhamento para a rede de saúde.
+7. `Síndrome de Down`: A Síndrome de Down ou Trissomia do 21, é uma alteração cromossômica geneticamente determinada, causada pela presença de um cromossomo 21 extra. “As pessoas com essa síndrome apresentam dificuldade no processo de aprendizagem e na movimentação do corpo (hipotônicas) e são facilmente reconhecidas pelos sinais físicos: olhos “puxados” devido à prega nas pálpebras, prega única na palma da mão ao invés de duas, membros pequenos, pescoço grosso e curto”. (Cadastro Único para Programas Sociais - Manual do Entrevistador, MDS/SENARC, 2011).
+8. `Transtorno/doença mental`: Caracteriza-se pela situação de sofrimento psíquico/mental vivenciada pelo indivíduo e manifestada pela presença de sintomas e sinais de alterações psicopatológicas que podem afetar a linguagem, o pensamento, a afetividade, o humor, a atenção ou memória, por exemplo, podendo resultar em episódios psiquiátricos graves como: distúrbios psíquicos graves (psicoses: esquizofrenia, paranoia, melancolia), neuroses graves e suas complicações (depressão, síndrome do pânico, transtornos obsessivos compulsivos, anorexia, bulimia dentre outras);
+
+:::info Importante
+Para registrar o tipo de deficiência/transtorno/síndrome a equipe técnica deverá ter o cuidado de registrar essa informação considerando a declaração da família e, sempre que possível solicitar a cópia do diagnóstico clínico. Destaca-se ainda a importância das articulações com os demais serviços oferecidos pela rede de saúde aos quais a família possa estar vinculada, como forma de garantir continuidade e unicidade na direção do trabalho social com a família.
+:::
+
+**Necessita de cuidados constantes de outra pessoa:** Registre nesse campo as situações em que a pessoa com deficiência da família necessite da presença constante de uma ou mais pessoas para seus cuidados diários, marque "Sim" ou "Não".
+
+**Se sim, quem é o responsável pelo cuidado:** Caso tenha sido marcado como "Sim" no campo anterior, em decorrência da sua deficiência, informe quem é o responsável pelos cuidados.
+
+Após o registro da pessoa com deficiência, é exibido o histórico de pessoas com deficiência na família, conforme a imagem abaixo.
+
+![histórico saúde deficiência](../../static/img/modules/prontuary-suas/historico_saude_deficiencia.jpg)
+
+Perceba que agora ao clicar na aba "Pessoa com deficiência" é mostrado o histórico, onde em cada registro pode ser visualizado ou editado.
+
+##### Visualizando histórico de pessoas com deficiência
+
+Ao clicar no ícone do "olho" (visualizar) da pessoa correspondente, uma nova janela modal será aberta, com os dados do membro da família, veja abaixo.
+
+![histórico saúde deficiência](../../static/img/modules/prontuary-suas/visualizar_historico_saude_deficiencia.jpg)
+
+##### Editando histórico de pessoas com deficiência
+
+Ao clicar no ícone do "lápis" (editar) da pessoa correspondente, uma nova janela modal será aberta, com os dados do membro da família, veja abaixo.
+
+![histórico saúde deficiência](../../static/img/modules/prontuary-suas/editar_historico_saude_deficiencia.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Presença de gestante(s)
+
+As informações registradas nessa aba são fundamentais para a que equipe técnica possa acompanhar as gestantes do Programa Auxílio Brasil, principalmente no que se refere ao cumprimento da condicionalidade da saúde. 
+
+Abaixo segue a imagem e o passo a passo para as anotações referentes à presença de gestantes na família acompanhada pelo PAIF e PAEFI:
+
+![registrar gestante saúde](../../static/img/modules/prontuary-suas/registrar_gestante_saude.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Quantos meses de gestação:** Registe nesse campo o período de gestação em que a grávida se encontra.
+
+:::caution Atenção
+Caso a gestante não saiba informar com precisão com quantos meses de gestação está, solicite que a mesma informe um período aproximado e encaminhe imediatamente esta gestante para a rede de saúde para que a mesma possa iniciar o pré-natal
+:::
+
+**Já iniciou o pré-natal:** Registre nesse item se a gestante já iniciou o pré-natal.
+
+:::note Nota
+Caso a gestante ainda não tenha iniciado o pré-natal o profissional deverá encaminhar **imediatamente** esta gestante para a rede de serviços de saúde do município, independe da gestante ser contemplada pelo Programa Auxílio Brasil.
+:::
+
+**Data da anotação:** Informe a data em que as anotações foram feitas, devendo constar o dia, o mês e o
+ano em que essas informações foram registradas, seguindo o padrão dd/mm/aaaa.
+
+Feito todo o preenchimento dos campo, basta clicar no botão "Registrar", que o sistema vai exibir a seguinte tela.
+
+![histórico presença de gestantes](../../static/img/modules/prontuary-suas/historico_presenca_gestantes.jpg)
+
+Perceba que agora ao clicar na aba "Presença de gestante(s)" é mostrado o histórico, onde cada registro pode ser visualizado ou editado.
+
+##### Visualizando presença de gestantes
+
+Ao clicar no ícone do "olho" (visualizar) da pessoa correspondente, uma nova janela modal será aberta, com os dados do membro da família, veja abaixo.
+
+![histórico saúde deficiência](../../static/img/modules/prontuary-suas/visualizar_historico_saude_deficiencia.jpg)
+
+##### Editando presença de gestantes
+
+Ao clicar no ícone do "lápis" (editar) da pessoa correspondente, uma nova janela modal será aberta, com os dados do membro da família, veja abaixo.
+
+![visualizar presença de gestante](../../static/img/modules/prontuary-suas/visualizar_presenca_de_gestante.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+![editar presença de gestante](../../static/img/modules/prontuary-suas/editar_presenca_de_gestante.jpg)
+
+#### Descumprimento de condicionalidades
+
+As anotações neste campo irá contribuir efetivamente para o acompanhamento do descumprimento das condicionalidades da saúde do Programa Auxílio Brasil (PAB). O Protocolo de Gestão Integrada de Serviços, Benefícios e Transferências de Renda no âmbito do SUAS estabeleceu que o MDS instituísse diretrizes e parâmetrosmpara potencializar o acompanhamento das famílias beneficiárias de programas de transferência de renda nos serviços de PSB e PSE com o objetivo de assegurar o acompanhamento sistemático das condicionalidades do Programa Auxílio Brasil, pois o descumprimento das condicionalidades podem revelar situações que indiquem alto grau de vulnerabilidades das famílias.
+
+Para registrar um novo descumprimento, deve-se ir na aba descumprimento de condicionalidades -> clicar no botão "Registrar", assim será aberta uma nova janela modal, conforme a imagem a seguir.
+
+![registrar descumprimento saúde](../../static/img/modules/prontuary-suas/registrar_descumprimento_saude.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Semestre de ocorrência (Semestre/Ano):** Informe o semestre e o ano de ocorrência do descumprimento da condicionalidade da saúde do Programa Auxílio Brasil utilizando as seguintes orientações:
+
+- 1º semestre (meses de janeiro, fevereiro, março, abril, maio, junho e julho).
+- 2º semestre (meses de agosto, setembro, outubro, novembro e dezembro).
+
+:::info Importante
+As famílias que descumprem as condicionalidades do PAB recebem os efeitos gradativos do descumprimento (com validade de seis meses): os efeitos se iniciam com uma advertência; caso o descumprimento persista, se aplica o bloqueio (isto é, atrasa o recebimento do benefício em 30 dias) e, posteriormente, a suspensão (a
+família beneficiária passa dois meses sem sacar o benefício) – Instrução Operacional Conjunta SENARC e SNAS N° 19 de 07 de fevereiro de 2013.
+:::
+
+**Efeito:** Os códigos para os efeitos gerados pelo descumprimento de condicionalidades do Programa Auxílio Brasil são:
+
+1. Advertência: Não afeta ou altera o recebimento do benefício, uma vez que a família apenas é chamada a atenção sobre o descumprimento da condicionalidade.
+2. Bloqueio: O benefício é bloqueado por 30 (trinta) dias, mas a família recebe o valor retroativo no mês seguinte
+3. Suspensão: A suspensão do benefício ocorrerá por 60 (sessenta dias) e não haverá pagamento retroativo aos dois meses referentes ao período de suspensão.
+4. Cancelamento: Conforme a Instrução Operacional Conjunta SENARC e SNAS N° 19 de 07 de fevereiro de 2013, a atividade de cancelamento do benefício das famílias do PBF ocorrerá somente após o registro no Sistema de Condicionalidades − SICON.
+
+O cancelamento do benefício das famílias no Programa Auxílio Brasil será realizado pela SENARC, a partir de alterações cadastrais efetuadas pelos municípios no CADÚNICO baseadas em uma das seguintes ocorrências: falecimento da criança ou adolescente; criança ou adolescente não mais reside com a família; duplicidade cadastral ou idade igual ou superior a 16 (dezesseis) anos para adolescentes.
+
+**Solicitada suspensão do efeito:** Registe nesse campo as situações em que tenha sido solicitada suspensão do efeito gerado pelo não cumprimento das condicionalidades do PAB.
+
+**Data da anotação:** Informe a data em que as anotações foram feitas, devendo constar o dia, o mês e o
+ano em que essas informações foram registradas, seguindo o padrão dd/mm/aaaa.
+
+Feito todos os procedimentos, deve-se clicar no botão "Registrar".
+
+![hiistórico descumprimento saúde](../../static/img/modules/prontuary-suas/historico_descumprimentos_saude.jpg)
+
+Perceba que agora ao clicar na aba "Descumprimento de condicionalidades" é mostrado o histórico, onde cada registro pode ser visualizado ou editado.
+
+##### Visualizando descumprimento de condicionalidade
+
+Ao clicar no ícone do "olho" (visualizar) da pessoa correspondente, uma nova janela modal será aberta, com os dados do membro da família, veja abaixo.
+
+![visualizar descumprimento de condicionalidade](../../static/img/modules/prontuary-suas/ver_historico_descumprimento_condicionalidade_saude.jpg)
+
+##### Editando descumprimento de condicionalidade
+
+Ao clicar no ícone do "lápis" (editar) da pessoa correspondente, uma nova janela modal será aberta, veja abaixo.
+
+![editar descumprimento de condicionalidade](../../static/img/modules/prontuary-suas/editar_historico_descumprimento_condicionalidade_saude.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Outras observações referentes ao diagnóstico das condições de saúde da família
+
+Para registrar uma nova obervação, basta selecionar a aba, clicar no botão "Registrar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![registrar anotação saúde](../../static/img/modules/prontuary-suas/registrar_anotacao_saude_obs.jpg)
+
+**Unidade Básica de Saúde (UBS):** Sempre que possível, informar o nome da UBS que referencia esta família.
+
+:::info Importante
+Caso não exista nenhum UBS cadastrada no sistema, deve-se cadastrar clicando no link "nova UBS", o sistema irá abrir uma nova aba onde haverá uma listagem de todas as UBS já registradas, para cadastrar uma nova, basta clicar no botão "Cadastrar", preencher todos os campos e registrar.
+:::
+
+**Agente Comunitário de Saúde (ACS):** Sempre que possível, informar o nome do Agente Comunitário de Saúde que costuma visitá-la.
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre as Condições de Saúde da Família, que sejam relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas nesta aba.
+
+![histórico de observações saúde](../../static/img/modules/prontuary-suas/historico_obs_saude.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do "olho" do registro correspondente.
+
+![ver histórico observação saúde](../../static/img/modules/prontuary-suas/ver_historico_obs_saude.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do "lápis", e realizar toda a edição necessária.
+
+![editar histórico observação saúde](../../static/img/modules/prontuary-suas/editar_historico_obs_saude.jpg)
+
+Realizada todas as ações no bloco de Condições de saúde da família, basta clicar no botão "Continuar".
+
+### Acesso a benefícios eventuais
 
