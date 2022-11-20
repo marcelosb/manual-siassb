@@ -868,5 +868,100 @@ Preenchido todo os campos, o próximo passo é clicar no botão "Registrar".
 
 ![registrar trabalho e renda sucesso](../../static/img/modules/prontuary-suas/registrar_condicao_de_trabalho_sucesso.jpg)
 
-Perceba que o sistema agora exibiu os dados do histórico das condições de, e mais dois sub-blocos de outras fontes de renda e observações.
+Perceba que o sistema agora exibiu os dados do histórico das condições de trabalho, e mais dois sub-blocos de outras fontes de renda e observações.
+
+#### Histórico de condições de trabalho e renda da família
+
+Ao clicar no nome do usuário registrado, será aberto todo o seu histórico de atendimentos relacionados ao trabalho e renda, veja abaixo.
+
+![histórico trabalho e renda](../../static/img/modules/prontuary-suas/historico_trabalho_e_renda.jpg)
+
+##### Visualizar histórico de trabalho e renda
+
+Perceba que existe um ícone do "olho" onde poderemos visualizar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados.
+
+![visualizar histórico trabalho e renda](../../static/img/modules/prontuary-suas/visualizar_historico_trabalho_e_renda.jpg)
+
+##### Editar histórico de trabalho e renda
+
+Perceba que existe um ícone do "lápis" onde poderemos editar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico trabalho e renda](../../static/img/modules/prontuary-suas/editar_historico_trabalho.jpg)
+
+Após todos as alterações nos campos correspondentes, basta clicar no botão "Editar".
+
+#### Outras fontes de renda
+
+Para registrar outras fontes de renda, basta clicar no botão "Registrar outras fontes de renda", que será aberta uma janela modal, conforme a imagem abaixo.
+
+![outras fontes topo](../../static/img/modules/prontuary-suas/trabalho_outras_fontes_01.jpg)
+![outras fontes rodapé](../../static/img/modules/prontuary-suas/trabalho_outras_fontes_02.jpg)
+
+Por padrão a renda total da família e a renda per capita já automaticamente calculadas pelo sistema, assim não havendo a necessidade de preencher estes campos.
+
+**A família recebe dinheiro de algum programa social:** Marque neste item se a família ou algum dos seus membros recebem recursos financeiros provenientes de programas de transferência de renda.
+
+**Anote os valores recebidos pela família por meio de programas sociais:** Registe neste campo o Programa de Transferência de Renda e o valor recebido no qual a família está inscrita, caso tenha informado no item anterior que a família ou algum dos seus membros recebem recursos financeiros provenientes de programas de transferência de renda. 
+
+**Selecione as pessoas da família que são beneficiária(s) do BPC:** Caso seja registrado que a família tem
+como renda o Benefício de Prestação Continuada (BPC), marque no campo correspondente apenas o registro da pessoa da família que recebe este benefício.
+
+**Algum membro da família é aposentado ou pensionista:** Registre neste campo as situações em que algum membro da família for aposentado ou pensionista (Sim ou Não).
+
+:::tip Saiba mais
+`Aposentadoria:` A aposentadoria pode ser adquirida por idade, tempo de contribuição e invalidez.
+
+`Pensionista:` A pensão é um benefício (Pensão por Morte) da Previdência Social concedido aos dependentes do trabalhador falecido, através do INSS.
+:::
+
+**Se sim, selecione as pessoas que são aposentadas ou pensionistas:** Caso seja registrado que a família possui aposentados ou pensionistas, marque no campo correspondente apenas o registro do membro familiar que recebe este benefício.
+
+**Data da anotação:** Nesse campo deve ser registrada a data da anotação referente às outras fontes de renda da família e deve constar o dia, o mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+Registrados todos os passos acima, basta clicar no botão "Registrar", assim o sistema irá registrar outra fonte de renda.
+
+![histórico outras fontes](../../static/img/modules/prontuary-suas/historico_outras_fontes.jpg)
+
+Perceba que o sistema agora exibiu os dados do histórico das outras fontes de renda.
+
+Perceba que existe um ícone do "olho" onde poderemos ver o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados.
+
+![ver histórico outras fontes de renda](../../static/img/modules/prontuary-suas/ver_historico_outras_fontes.jpg)
+
+Perceba que também existe um ícone do "lápis" onde poderemos editar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico outras fontes](../../static/img/modules/prontuary-suas/editar_historico_outras_fontes_01.jpg)
+![editar histórico fontes](../../static/img/modules/prontuary-suas/editar_historico_outras_fontes_02.jpg)
+
+Após todos as alterações nos campos correspondentes, basta clicar no botão "Editar".
+
+#### Outras observações referentes ao diagnóstico das condições de trabalho e rendimentos da família
+
+Para registrar uma nova obervação, basta selecionar a aba e preencher os campo, veja na imagem abaixo.
+
+![registrar anotação trabalho](../../static/img/modules/prontuary-suas/registrar_anotacao_trabalho.jpg)
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre as Condições de Trabalho e Rendimento da Família, que sejam relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco.
+
+Além disso, este espaço deverá ser utilizado para registrar informações sobre os principais gastos e despesas da família como, por exemplo: aluguel (se for o caso), gastos com água e energia elétrica, alimentação, educação vestuário, higiene, lazer, saúde, medicamentos, entre outros.
+
+Feito todos os procedimentos, basta clicar no botão "Salvar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas neste bloco.
+
+![histórico de observações](../../static/img/modules/prontuary-suas/historico_observacoes_trabalho.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do "olho" do registro correspondente.
+
+![ver histórico observação trabalho](../../static/img/modules/prontuary-suas/ver_historico_observacao_trabalho.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do "lápis", e realizar toda a edição necessária.
+
+![editar histórico observação trabalho](../../static/img/modules/prontuary-suas/editar_historico_observacao_trabalho.jpg)
+
+Realizada todas as ações no bloco de Condições de trabalho e rendimentos da família, basta clicar no botão "Continuar".
+
+### Condições de saúde da família
 
