@@ -1250,3 +1250,88 @@ Realizada todas as ações no bloco de Condições de saúde da família, basta 
 
 ### Acesso a benefícios eventuais
 
+Garantido pela Lei Orgânica da Assistência Social – LOAS (Lei nº 8.742, de 1993 e Lei nº 12.435, de 2011) os Benefícios Eventuais da Assistência Social são aqueles benefícios, de caráter suplementar e provisório, concedidos aos cidadãos e as famílias em virtude de morte, nascimento, calamidade pública e situações de vulnerabilidade temporária.
+
+Os Benefícios Eventuais no âmbito do SUAS caracterizam-se como direitos sociais instituídos legalmente. Visam o atendimento das necessidades humanas básicas e devem ser integrados aos demais serviços, programas, projetos e benefícios de assistência social no município, contribuindo dessa forma, com o fortalecimento das potencialidades de indivíduos e familiares.
+
+Abaixo segue o passo a passo para o registro das informações, conforme a imagem abaixo:
+
+![bloco de benefícios eventuais](../../static/img/modules/prontuary-suas/bloco_beneficios_eventuais.jpg)
+
+Perceba que ainda não existem acesso a benefícios eventuais registrados para essa família, então deve-se clicar no botão **"Conceder benefício eventual"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar benefício eventual](../../static/img/modules/prontuary-suas/registrar_beneficio_eventual.jpg)
+
+**Data da concessão:** Registe a data em que a família ou membro familiar começou a receber os benefícios eventuais. A informação deve seguir o padrão dd/mm/aaaa.
+
+**Tipo de benefício:** Para selecionar o tipo de benefício eventual concedido à família, utilize os códigos numéricos seguido do tipo do benefício, assim distribuídos:
+
+1. Auxílio Natalidade;
+2. Auxílio Funeral;
+3. Item/Kit específico para enfrentamento de situações de Emergência ou Calamidade Pública;
+4. Cesta Básica;
+5. Aluguel social/pagamento de aluguel;
+6. Auxílio passagem;
+7. Ajuda financeira;
+8. Outros;
+
+**O benefício é do tipo auxílio natalidade:** O benefício natalidade é o benefício eventual para situações de nascimento e "constitui-se em uma prestação temporária, não contributiva da assistência social, em pecúnia ou em bens de consumo, para reduzir vulnerabilidade provocada por nascimento de membro da família" (Art. 4º da Resolução CNAS nº 212/2006). Marque "Sim" ou "Não".
+
+**Informe o Nº do registro de nascimento da criança:** Caso o benefício foi do tipo auxílio natalidade, Registre nesse campo o número do Registro Civil de Nascimento (RCN) que consta no documento emitido pelo Cartório de Registro Civil.
+
+**O benefício é do tipo auxílio funeral:** O benefício eventual por situação de morte constituise em uma prestação temporária, não contributiva da assistência social, em pecúnia ou em bens de consumo, para reduzir vulnerabilidade provocada por morte de membro da família. Marque "Sim" ou "Não".
+
+**Informe o Nº do CPF da pessoa falecida:** Caso o benefício foi do tipo auxílio funeral, Registre nesse item o número do CPF da pessoa que faleceu na família, cuja família recebeu o benefício funeral.
+
+**Observação:** Campo destinado às observações realizadas pelo profissional durante o atendimento ao usuário.
+
+Feito todos os procedimentos, deve-se clicar no botão "Registrar".
+
+![histórico benefício eventual](../../static/img/modules/prontuary-suas/historico_beneficios_eventuais.jpg)
+
+Perceba que agora é mostrado o histórico de todas as concessões de benefícios eventuais concedidos para essa família, onde cada registro pode ser visualizado ou editado.
+
+##### Visualizando histórico de benefícios eventuais
+
+Ao clicar no ícone do "olho" (visualizar) da concessão correspondente, uma nova janela modal será aberta, com os dados da concessão do benefício, veja abaixo.
+
+![visualizar histórico de benefícios eventuais](../../static/img/modules/prontuary-suas/ver_historico_beneficio_eventual.jpg)
+
+##### Editando histórico de benefícios eventuais
+
+Ao clicar no ícone do "lápis" (editar) da concessão correspondente, uma nova janela modal será aberta, veja abaixo.
+
+![editar histórico de benefícios eventuais](../../static/img/modules/prontuary-suas/editar_beneficio_eventual.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Outras observações referentes ao acesso a Benefícios Eventuais
+
+Para registrar uma nova obervação, basta selecionar a aba, clicar no botão "Registrar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![registrar observação](../../static/img/modules/prontuary-suas/registrar_observacao_beneficio_eventual.jpg)
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre os benefícios eventuais concedidos à família que não foram contempladas nos itens fechados do bloco, explicitando os motivos da concessão do benefício, por exemplo.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas nesta aba.
+
+![histórico de observações saúde](../../static/img/modules/prontuary-suas/historico_observacoes_beneficios_eventuaiss.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do "olho" do registro correspondente.
+
+![ver histórico observação](../../static/img/modules/prontuary-suas/ver_historico_observacao_beneficio_eventual.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do "lápis", e realizar toda a edição necessária.
+
+![editar histórico observação](../../static/img/modules/prontuary-suas/editar_historico_observacao_beneficio_eventual.jpg)
+
+Realizada todas as ações no bloco de acesso a benefícios eventuais, basta clicar no botão "Continuar".
+
+### Convivência familiar e comunitária
+
+
+
