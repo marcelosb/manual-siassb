@@ -1333,5 +1333,206 @@ Realizada todas as ações no bloco de acesso a benefícios eventuais, basta cli
 
 ### Convivência familiar e comunitária
 
+A Política Nacional de Assistência Social (2004) caracteriza-se por ser uma política de proteção social que deve garantir três tipos de segurança: 
+
+- I) Segurança de Sobrevivência; 
+- II) Segurança de Acolhida; 
+- III) Segurança de Convívio Familiar e Comunitário. 
+
+Para este momento as orientações aqui pontuadas abordarão apenas os aspectos da segurança de convívio. Cabe ressaltar ainda que a segurança de convívio é um direito reconhecido pelo Estatuto da Criança e do Adolescente, pelo Estatuto do Idoso e pela LOAS.
+
+Assim, em consonância com a PNAS, este bloco do Prontuário tem a finalidade de orientar técnicos do CRAS e CREAS no registro de informações sobre as relações familiares e comunitárias da família com o objetivo de qualificar o trabalho social com as famílias do PAIF e do PAEFI. 
+
+Abaixo segue o passo a passo para as anotações desse bloco no Prontuário, considerando a relação das famílias com as especificidades do seu território:
+
+![bloco convivência familiar](../../static/img/modules/prontuary-suas/bloco_convivencia_familiar.jpg)
+
+Perceba que ainda não existem ações de convivência familiar e comunitária registradas para essa família, então deve-se clicar no botão **"Registrar convivência"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar convivência topo](../../static/img/modules/prontuary-suas/registrar_convivencia_topo.jpg)
+![registrar convivência rodapé](../../static/img/modules/prontuary-suas/registrar_convivencia_rodape.jpg)
+
+**Há quantos anos a família mora neste estado:** Registre nesse item o tempo (em anos) que a família reside atualmente no Estado. 
+
+Para as famílias que sempre residiram no mesmo estado, marque na segunda opção, não sendo necessário registrar o tempo total de residência no estado.
+
+**Há quantos anos a família mora no município:** Registre nesse item o tempo (em anos) que a família reside atualmente no município. 
+
+Para as famílias que sempre residiram no mesmo município, marque na segunda opção, não sendo necessário registrar o tempo total de residência no município. 
+
+**Há quantos anos a família mora no bairro atual:** Registre nesse item o tempo (em anos) que a família reside atualmente no Bairro. 
+
+Para as famílias que sempre moraram no mesmo Município, marque na segunda opção, não sendo necessário registrar o tempo total de residência no bairro.
+
+**A família, ou algum de seus membros, é vítima de ameaças ou de discriminação na comunidade onde reside:** Registre nesse item a situação em que for identificada a presença de algum membro da família acompanhada que foi (ou seja) vítima de ameaças ou discriminações no território onde reside. Marque "Sim" ou "Não".
+
+:::info Atenção
+A [`Lei Nº 12.288, de 20 de julho de 2010, que institui o Estatuto da Igualdade Racial`](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm), define *"discriminação racial ou étnico-racial como toda distinção, exclusão, restrição ou preferência baseada em raça, cor, descendência ou origem nacional ou étnica que tenha por objeto anular ou restringir o reconhecimento, gozo ou exercício, em igualdade de condições, de direitos humanos e liberdades fundamentais nos campos político, econômico, social, cultural ou em qualquer outro campo da vida pública ou privada"* (Art. 1º, inciso I). Além de ratificar o caráter criminoso dos atos de discriminação racial. 
+:::
+
+Caso sim, utilize o bloco de observações para anotar as informações que sejam relevantes.
+
+**A família possui parentes que residam próximo ao seu local de moradia e que constituam rede de apoio e solidariedade:** Registre nesse item a situação em que a família acompanhada possua (ou não) parentes que, além de morar próximo ao seu local de domicílio, também façam parte da sua rede de apoio e de solidariedade. Marque "Sim" ou "Não".
+
+Caso sim, utilize o bloco de observações caso queira anotar o nome, parentesco e contato destes parentes mais próximos.
+
+:::caution Atenção
+O registro dessa informação permite a equipe de referência do CRAS e do CREAS identificar as famílias que necessitam constituir ou fortalecer redes sociais de apoio com parentes que residem no mesmo território. Acredita-se que o acompanhamento familiar em grupo nessa situação possibilita o fortalecimento ou a reconstrução dos vínculos familiares com o objetivo de constituir redes de apoio e solidariedade para o grupo familiar. 
+:::
+
+**A família possui vizinhos que constituam rede de apoio e solidariedade:** Registre nesse item a situação em que a família acompanhada possua (ou não) vizinhos que façam parte da sua rede de apoio e de solidariedade. Utilize para este item o mesmo conceito de rede de apoio social apresentado no campo anterior. Marque "Sim" ou "Não".
+
+Caso sim, utilize o bloco de observações caso queira anotar o nome e contato de algum vizinho mais próximo.
+
+:::note Nota
+O registro dessa informação permite a equipe de referência do CRAS e do CREAS identificar as famílias no território que necessitam constituir ou fortalecer redes sociais de apoio. Essas famílias podem ser inseridas no acompanhamento familiar em grupo com o objetivo de proporcionar trocas de vivências e experiências, possibilitando, desse modo, a identificação e constituição de redes de apoio e solidariedade.
+:::
+
+**A família, ou algum de seus membros, participa de grupos religiosos, comunitários ou outros grupos/instituições que constituam rede de apoio e solidariedade:** Registre nesse item a situação em que a família ou algum membro da família participe de algum grupo religioso, comunitário, ou outros grupos/instituições que constituam rede de apoio e solidariedade. Marque "Sim" ou "Não".
+
+Caso sim, utilize o bloco de observações para anotar as informações que sejam relevantes.
+
+**A família, ou algum de seus membros, participa de movimentos sociais, sindicatos, organizações comunitárias, Conselhos ou quaisquer outras ações ou instituições voltadas para organização política e defesa de interesses coletivos:** Registre nesse item se a família ou algum dos seus membros familiares participa de movimentos sociais, sindicatos, organizações comunitárias, conselhos ou quaisquer outras ações ou instituições voltada para organização política e defesa de interesses coletivos. Marque "Sim" ou "Não".
+
+Caso sim, utilize o bloco de observações para anotar as informações que sejam relevantes.
+
+**Existe alguma criança ou adolescente do grupo familiar que `não tem acesso` a atividades de lazer, recreação e convívio social:** Registre nesse item a situação em que as crianças e adolescentes da família acompanhada tenham (ou não) acesso a atividades de lazer, recreação e ou convívio social na comunidade. 
+
+Registre "não", para a situação em que as crianças e adolescentes da família participam de atividade de lazer,
+recreação e convívio social no território. Para as famílias que não tenham crianças nem adolescentes em seu núcleo, registre a opção "não se aplica".
+
+:::info Importante
+O Lazer é um direto social garantido pela [Constituição Federal (Art. 6º)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) e que por tanto deve ser assegurado pelo Estado. O lazer é fundamental para o desenvolvimento de crianças e adolescentes e para a qualidade de vida das pessoas.
+:::
+
+**Existe algum idoso do grupo familiar que `não tem acesso` a atividades de lazer, recreação e convívio social:** Registre "sim", para a situação em que as pessoas idosas da família acompanhada não tenha acesso a nenhuma atividade de lazer, recreação e ou convívio social na comunidade. 
+
+Registre "não", para a situação em que as pessoas idosas da família usuária participam de atividade de lazer recreação e convívio social no território.
+
+Para as famílias que não tenham pessoas idosas em seu núcleo familiar, registre a opção "não se aplica".
+
+**Há pessoas dependentes (crianças, idosos dependentes ou pessoas com deficiência) que permanecem períodos do dia em casa sem a companhia de um adulto:** Registre nesse item a situação em que exista na família acompanhada a presença de pessoas dependentes (crianças, pessoas idosas e ou pessoas com deficiência) que permanecem períodos do dia em casa sem a companhia de um adulto. Marque "Sim" ou "Não".
+
+Caso sim, utilize o bloco de anotações para anotar as informações que sejam relevantes.
+
+**Indique se há relações conflituosas envolvendo outros indivíduos que residam no domicílio:** Nesse item registre a percepção/avaliação técnica sobre as relações conflituosas de convivência familiar entre os demais membros da família que residam no domicílio, mas que não foram contempladas no quadro. Considere como relações conflituosas aquelas situações que produzem sofrimento:
+
+- **`Sim, com presença de violência`**: Entende-se por relação conflituosa as relações de convivência familiar, cujos conflitos são resolvidos com violência e resultam em sofrimento para algum membro familiar, configurando-se como uma vulnerabilidade relacional que pode provocar fragilidade ou rompimento dos vínculos familiares.
+
+Caso sim, utilize o bloco de observações para anotar as informações relevantes.
+
+- **`Sim, sem presença de violência`**: A partir dos parâmetros descritos acima acerca do que se considera uma "situação conflituosa", registre essa opção para as situações de convivência familiar onde sejam percebidas relações conflituosas que causam sofrimento, mas que não tenham indícios de qualquer tipo de violência.
+
+Caso sim, utilize o bloco de observações para anotar as informações relevantes.
+
+- **`Não há conflitos relevantes envolvendo outros indivíduos que residam no domicílio`**: Entende-se por relação sem conflitos relevantes àquela relação onde os conflitos familiares são solucionados pelo diálogo sem causar sofrimento nem rompimento dos vínculos familiares.
+
+**Data de registro**: Nesse campo deve ser registrada a data do atendimento referente às situações de convivência familiar e comunitária da família acompanhada e deve constar o dia, o mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+Feito todos os procedimentos, deve-se clicar no botão "Registrar".
+
+![bloco convivência familiar](../../static/img/modules/prontuary-suas/bloco_convivencia_familiar_sucesso.jpg)
+
+Perceba, que houve uma mudança no bloco, onde você poderá acompanhar o histórico de convivência familiar e comunitária da família, como também foram liberadas 2 novas abas: 
+
+- Relações de Convivência Intrafamiliares
+- Observações
+
+#### Ver histórico de convivência familiar e comunitária
+
+Para visualizar, basta clicar no ícone do olho (visualizar) do registro correspondente, será aberta uma janela modal.
+
+![ver histórico convivência familiar](../../static/img/modules/prontuary-suas/ver_historico_convivencia.jpg)
+
+#### Editar histórico de convivência familiar e comunitária
+
+Perceba que existe um ícone do "lápis" onde poderemos editar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico convivência topo](../../static/img/modules/prontuary-suas/editar_historico_convivencia.jpg)
+![editar histórico convivência meio](../../static/img/modules/prontuary-suas/editar_historico_convivencia_02.jpg)
+![editar histórico convivência rodapé](../../static/img/modules/prontuary-suas/editar_historico_convivencia_03.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Aba Relações de Convivência Intrafamiliares
+
+A equipe de referência do PAIF ou do PAEFI poderá utilizar o quadro abaixo para registrar informações sobre a avaliação técnica das relações de convivência familiar da família acompanhada, considerando as situações de conflito que possam produzir vulnerabilidades relacionais. Note que os profissionais podem ter percepções diferenciadas sobre os conflitos que perpassam as relações familiares, por isso mesmo todas as informações registradas nesse campo devem ser justificadas no bloco de observações.
+
+:::caution Atenção
+Importante destacar que para o registro dessas informações devem ser rejeitadas concepções valores e posturas preconceituosas e discriminatórias que reforcem as desigualdades no âmbito familiar.
+:::
+
+Abaixo segue o formulário para as anotações referentes às relações de convivência intrafamiliar:
+
+![registrar relação intrafamiliar](../../static/img/modules/prontuary-suas/registrar_relacao_intrafamiliar.jpg)
+
+**Percepção/Avaliação do técnico sobre as relações conjugais na família, se for o caso:** Considere relações conflituosas aquelas situações que produzem sofrimento, assim:
+
+- Conflituoso, com violência
+- Conflituoso, sem violência
+- Sem conflitos relevantes
+
+**Percepção/Avaliação do técnico sobre as relações entre pais/responsáveis e os filhos inclusive entre o padrasto ou madrasta com o(s) enteados(as), se for o caso:** Selecione uma das opções abaixo:
+
+- Conflituoso, com violência
+- Conflituoso, sem violência
+- Sem conflitos relevantes
+
+**Percepção/Avaliação do técnico sobre as relações entre os irmãos, se for o caso:** Selecione uma das opções abaixo:
+
+- Conflituoso, com violência
+- Conflituoso, sem violência
+- Sem conflitos relevantes
+
+**Nome do técnico:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar".
+
+![histórico relação intrafamiliar](../../static/img/modules/prontuary-suas/historico_relacao_intra.jpg)
+
+Perceba que agora é mostrado o histórico de todas as relações de convivência intrafamiliar, onde cada registro pode ser visualizado ou editado.
+
+##### Visualizando histórico de relações de convivência intrafamiliares
+
+Ao clicar no ícone do "olho" (visualizar) do registro correspondente, uma nova janela modal será aberta, com os dados da relação intrafamiliar, veja abaixo.
+
+![ver histórico relação intra](../../static/img/modules/prontuary-suas/ver_historico_relacao_intra.jpg)
+
+##### Editando histórico de relações de convivência intrafamiliares
+
+Ao clicar no ícone do "lápis" (editar) do registro correspondente, uma nova janela modal será aberta, veja abaixo.
+
+![editar histórico relação intra](../../static/img/modules/prontuary-suas/editar_historico_relacao_intra.jpg)
+
+#### Outras observações referentes ao diagnóstico das condições de convivência familiar e comunitária
+
+Para registrar uma nova obervação, basta selecionar a aba, clicar no botão "Registrar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![registrar relação intra observação](../../static/img/modules/prontuary-suas/registrar_relacao_intra_obs.jpg)
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre as situações de Convivência Familiar e Comunitária, que sejam relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco. 
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas nesta aba.
+
+![histórico de observações intra](../../static/img/modules/prontuary-suas/historico_observacoes_relacao_intra.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do "olho" do registro correspondente.
+
+![ver histórico observação intra](../../static/img/modules/prontuary-suas/ver_historico_obs_relacao_intra.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do "lápis", e realizar toda a edição necessária.
+
+![editar histórico observação intra](../../static/img/modules/prontuary-suas/editar_obs_historico_relacao_intra.jpg)
+
+Realizada todas as ações na aba de observações, basta clicar no botão "Continuar" para prosseguir para o próximo bloco.
+
+### Participação em Serviços, Programas ou Projetos que contribuam para o desenvolvimento da convivência comunitária e para o fortalecimento de vínculos
+
 
 
