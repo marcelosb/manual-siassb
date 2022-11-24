@@ -1534,5 +1534,103 @@ Realizada todas as ações na aba de observações, basta clicar no botão "Cont
 
 ### Participação em Serviços, Programas ou Projetos que contribuam para o desenvolvimento da convivência comunitária e para o fortalecimento de vínculos
 
+Esse bloco foi elaborado para que a equipe técnica de referência do CRAS e do CREAS responsáveis pelo acompanhamento familiar registre as participações dos membros familiares em serviços, programas e projetos da rede socioassistencial ou de outras políticas setoriais de forma a contribuir no planejamento do trabalho social a ser desenvolvido com famílias.
+
+:::info Importante
+A política de Assistência Social deve promover proteção social por meio da articulação entre transferência de renda, benefícios e serviços socioassistenciais, materializando a rede de proteção social nos territórios.
+:::
+
+Abaixo segue o passo a passo para as anotações nesse bloco, conforme a imagem abaixo:
+
+![bloco participação social](../../static/img/modules/prontuary-suas/bloco_participacao_social.jpg)
+
+Perceba que ainda não existem ações de ocndições de participação registradas para essa família, então deve-se clicar no botão **"Registrar participação"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar participação](../../static/img/modules/prontuary-suas/registrar_participacao.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Serviço, Programa ou Projeto:** Para o registro dessa informação devem ser utilizados os "Códigos para Serviços, Programas ou Projetos", assim distribuídos:
+
+1. Serviço de Convivência e Fortalecimento de Vínculo para crianças e/ou adolescentes
+2. Serviço de Convivência e Fortalecimento de Vínculos para pessoas idosas
+3. Grupo específico desenvolvido pelo PAIF
+4. Grupo específico desenvolvido pelo PAEFI
+5. Programas ou projetos específicos da Assistência Social que não configurem serviços continuados
+6. Programas ou projetos de outras políticas setoriais (Educação, Esporte, Cultura, etc.)
+99. Outros
+
+**Serviço, Programa ou Projeto:** Para o registro dessa informação deve ser utilizado o "Código para Unidade de Realização do respectivo Serviço, Programa ou Projeto", dispostos no final deste quadro no Prontuário SUAS, assim distribuídos:
+
+1. Nesta própria Unidade
+2. Em outra Unidade Pública da Rede Socioassistencial
+3. Em unidade/entidade privada da Rede Socioassistencial
+4. Em unidade de rede de educação
+9. Outra unidade vinculada a outras políticas
+
+:::info
+Se a oferta do serviço, programa ou projeto for na própria unidade de CRAS ou CREAS, a equipe técnica deve ser registrar a participação da família acompanhada ou membro do familiar no "Registro Simplificado de Atendimentos".
+:::
+
+**Data de ingresso:** Informe a data em que a pessoa da família iniciou sua participação nos serviços, programas ou projetos, considerando o dia, mês e o ano, seguindo o padrão dd/mm/aaaa. 
+
+**Data de desligamento:** Informe a data em que a pessoa da família deixou de participar dos serviços, programas ou projetos, considerando o dia, mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+**Data do atendimento:** Informe a data em que foi realizado o atendimento, considerando o dia, mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", o sistema irá mostra a seguinte página.
+
+![bloco participação sucesso](../../static/img/modules/prontuary-suas/bloco_participacao_social_sucesso.jpg)
+
+Perceba, que houve uma mudança no bloco, onde você poderá acompanhar o histórico de participação social da família, como também foi liberada a aba de "Observações".
+
+#### Ver histórico de participação social
+
+Para visualizar, basta clicar no ícone do olho (visualizar) do registro correspondente, será aberta uma janela modal.
+
+![ver histórico participação social](../../static/img/modules/prontuary-suas/visualizar_historico_participacao_social.jpg)
+
+#### Editar histórico de participação social
+
+Perceba que existe um ícone do "lápis" onde poderemos editar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico participação social](../../static/img/modules/prontuary-suas/editar_historico_participal_social.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Aba Outras observações referentes ao diagnóstico das condições de convivência familiar e comunitária
+
+Para registrar uma nova obervação, basta selecionar a aba, clicar no botão "Registrar observação", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![registrar observação participação social](../../static/img/modules/prontuary-suas/registrar_observacao_participacao_social.jpg)
+
+**A participação foi realizada na própria unidade:** Marque "Sim" ou "Não". Caso seja selecionado o valor "Sim", pule para o campo de profissional responsável.
+
+**Nome da unidade:** Informe o nome da unidade, caso a participação da família foi realizada em outra própria unidade.
+
+**Contato da unidade:** Informe o contato da unidade, caso o participação da família foi realizada em outra unidade.
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço profissional pode registrar outras informações sobre essa participação, que sejam
+relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco. 
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas nesta aba.
+
+![histórico de observações participação social](../../static/img/modules/prontuary-suas/historico_observacoes_participacao_social.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do "olho" do registro correspondente.
+
+![ver histórico observação participação social](../../static/img/modules/prontuary-suas/ver_historico_observacoes_participacao_social.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do "lápis", e realizar toda a edição necessária.
+
+![editar histórico observação participação social](../../static/img/modules/prontuary-suas/editar_historico_observacao_participacao_social.jpg)
+
+Realizada todas as ações na aba de observações, basta clicar no botão "Continuar" para prosseguir para o próximo bloco.
+
+### Situações de Violência e Violações de Direitos
 
 
