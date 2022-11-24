@@ -1633,4 +1633,134 @@ Realizada todas as ações na aba de observações, basta clicar no botão "Cont
 
 ### Situações de Violência e Violações de Direitos
 
+A PNAS, por meio de leis e normativas, assegura prestação de serviços a indivíduos e famílias que se encontram em situação de risco pessoal ou social, por violação de direitos ou contingência, que demandam intervenções especializadas de proteção social especial. 
+
+:::info Atenção
+De acordo com a Tipificação Nacional de Serviços Socioassistenciais, o Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos – PAEFI deve ser ofertado, com a finalidade de prestar apoio, orientação e acompanhamento a famílias e indivíduos em situação de ameaça ou violação de direitos.
+:::
+
+Abaixo segue o passo a passo para as anotações nesse bloco, conforme a imagem abaixo:
+
+![bloco violência](../../static/img/modules/prontuary-suas/bloco_violencia.jpg)
+
+Perceba que ainda não existem ações de situações de violência e violações de direitos registradas para essa família, então deve-se clicar no botão **"Registrar histórico"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar violência](../../static/img/modules/prontuary-suas/registrar_violencia.jpg)
+
+**Situação:** Selecione o tipo de violação de direito e violência que pode atingir a família, conforme as opções abaixo:
+
+1. **`Violência Física:`** A violência física se refere a toda e qualquer ação intencional (única ou repetida) cometida por um agente agressor, com a intenção de punir e castigar, provocando danos físicos que podem variar entre as lesões leves ou graves, podendo levar a morte.
+2. **`Violência Psicológica:`** Qualquer conduta, continuada e intencional que cause dano emocional e diminuição da autoestima, que prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar no outro suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, desqualificação, manipulação, intimidação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, ridicularização, exploração e limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação.
+3. **`Exploração Sexual:`** A Exploração Sexual infanto-juvenil é considerada pela Organização Internacional do Trabalho (OIT 1999) como uma das piores formas de exploração de trabalho infantil, sendo caracterizada como todo e qualquer uso de crianças e adolescentes para fins sexuais mediadas por lucro ou por outros elementos de troca.
+4. **`Abuso/Violência Sexual:`** É todo ato ou jogo sexual, que tem como intenção estimular sexualmente outra pessoa ou utilizá-la para obter satisfação sexual.
+5. **`Negligência ou Abandono:`** É identificada quando existe falta de cuidados na proteção da criança, adolescente, pessoa com deficiência, pessoa idosa e da pessoa que necessita de cuidados constantes por parte daqueles que tem o dever de cuidar e proteger: como a família, o Estado e a sociedade.
+6. **`Trabalho Infantil:`** O trabalho infantil provoca danos físicos e psicológicos nas crianças e adolescentes afetando seu processo de crescimento e desenvolvimento. O Estatuto da Criança e do Adolescente proíbe o trabalho para todas as crianças e adolescentes até os 16 anos, salvo na posição de aprendiz, a partir dos 14 anos.
+7. **`Trajetória de Rua:`** De acordo com a Política Nacional para a População em Situação de Rua, esse segmento consiste em um grupo populacional heterogêneo que possui em comum a pobreza extrema, os vínculos familiares interrompidos ou fragilizados e a inexistência de moradia convencional regular, utilizando, assim, os logradouros públicos e as áreas degradadas como espaço de moradia e de sustento, de forma temporária ou permanente, bem como as unidades de acolhimento para pernoite temporário ou moradia provisória (Decreto n.º 7.053, de 23 de dezembro de 2009).
+8. **`Tráfico de Pessoas:`** É definido como "o recrutamento, o transporte, a transferência, o alojamento ou o acolhimento de pessoas, recorrendo à ameaça ou uso da força ou a outras formas de coação, ao rapto, à fraude, ao engano, ao abuso de autoridade ou à situação de vulnerabilidade ou à entrega ou aceitação de pagamentos ou benefícios para obter o consentimento de uma pessoa que tenha autoridade sobre outra para fins de exploração. A exploração incluirá, no mínimo, a exploração da prostituição de outrem ou outras formas de exploração sexual, o trabalho ou serviços forçados, escravatura ou práticas similares à escravatura, a servidão ou a remoção de órgãos".
+9. **`Discriminação por orientação sexual:`** Refere-se à aversão ou à discriminação de uma pessoa ou grupo em razão de sua orientação sexual. Pode incluir formas explícitas ou sutis, silenciosas e insidiosas de discriminação. 
+10. **`Violência Patrimonial contra Idoso ou PCD:`** Configura-se como uma forma de reter, subtrair, destruir parcial ou totalmente, bens, objetos, documentos pessoais, valores e direitos de outra pessoa como forma de humilhar, impedir o direito de ir vir, de exercer plenamente sua cidadania, desejos e vontades.
+99. **`Outra:`** Registre esta opção, caso a família ou membro familiar seja vítima de outras formas de violações de  direitos e ou violência que não foram contempladas no quando. 
+
+É fundamental que o técnico responsável pelo registro dessa informação explicite a situação de violência ou violação de direitos vivenciada pela família ou indivíduo na aba de observações. 
+
+**A situação ainda persiste:** Caso a situação ainda persista marque "Sim", caso contrário marque "Não".
+
+**Data da anotação:** Nesse campo deve ser registrada a data da anotação referente às situações de violência e violação de direitos da família acompanhada e deve constar o dia, o mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+Feito todos os procedimentos, deve-se clicar no botão "Registrar".
+
+![histórico bloco violência](../../static/img/modules/prontuary-suas/historico_bloco_violencia.jpg)
+
+Perceba, que houve uma mudança no bloco, onde você poderá acompanhar o histórico de situações da família, como também foram liberadas 2 novas abas: 
+
+- Período de acompanhamento
+- Observações
+
+:::caution Atenção
+Caso o acompanhamento esteja sendo realizado pelo CREAS, será exibida a aba "Situações de violações identificadas no grupo familiar"
+
+Onde deve ser informado:
+- Pessoa vitimada
+- Tipo de violência e violações de direitos
+- Indício ou Confirmada
+- Data do Registro (dia/mês/ano)
+
+`Em caso de suspeita de situação de violação de direitos e ou violência envolvendo crianças e adolescentes a equipe técnica deverá notificar o caso ao Conselho Tutelar.`
+:::
+
+#### Ver histórico de Situações de Violência e Violações de Direitos
+
+Para visualizar, basta clicar no ícone do olho (visualizar) do registro correspondente, será aberta uma janela modal.
+
+![ver histórico violência](../../static/img/modules/prontuary-suas/ver_historico_violencia.jpg)
+
+#### Editar histórico de Situações de Violência e Violações de Direitos
+
+Perceba que existe um ícone do "lápis" onde poderemos editar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico violência](../../static/img/modules/prontuary-suas/editar_historico_violencia.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Aba período de acompanhamento
+
+A equipe técnica de referência do CRAS deve registrar se a família acompanhada pelo PAIF está ou esteve em acompanhamento familiar no âmbito do PAEFI em virtude da vivência de situações de violência e ou violações de direitos. Nele, devem ser registras as informações pontuais sobre o período que a família foi usuária do CREAS e a identificação do CREAS.
+
+Para realizar o registro, basta clicar na aba e depois clicar no botão "Regsitrar período", assim será aberta uma nova janela modal, conforme a imagem abaixo.
+
+![registrar período violência](../../static/img/modules/prontuary-suas/registrar_periodo_violencia.jpg)
+
+**Data Início (Dia/Mês/Ano):** Informar a data de inicío utilizando o formato dd/mm/aaaa.
+
+**Data Final (Dia/Mês/Ano):** Informar a data final utilizando o formato dd/mm/aaaa.
+
+**Identificação do CREAS:** Selecionar a unidade do CREAS, onde a família foi acompanhada.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar".
+
+![histórico período creas](../../static/img/modules/prontuary-suas/historico_periodo_creas_violencia.jpg)
+
+Perceba, que houve uma mudança na aba, onde você poderá acompanhar o histórico do período de acompanhamento, conforme a imagem abaixo.
+
+#### Ver histórico período de acompanhamento
+
+Para visualizar, basta clicar no ícone do olho (visualizar) do registro correspondente, será aberta uma janela modal.
+
+![ver histórico período violência](../../static/img/modules/prontuary-suas/ver_historico_periodo_violencia.jpg)
+
+#### Editar histórico período de acompanhamento
+
+Perceba que existe um ícone do "lápis" onde poderemos editar o registro selecionado. caso necessite, basta clicar no ícone, assim será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico período violência](../../static/img/modules/prontuary-suas/editar_historico_periodo_violencia.jpg)
+
+Realizada todas as alterações, basta clicar no botão "Editar".
+
+#### Aba observações (situação de violência e violação de direitos)
+
+Para registrar uma nova obervação, basta selecionar a aba e preencher os campos, veja na imagem abaixo.
+
+![registrar observações violência](../../static/img/modules/prontuary-suas/registrar_obs_violencia.jpg)
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre as Situações de Violência e Violações de Direitos, que sejam relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco. 
+
+Feito todo o procedimento, basta clicar no botão "Salvar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas neste bloco.
+
+![histórico observações violências](../../static/img/modules/prontuary-suas/historico_obs_violencia.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do olho do registro correspondente.
+
+![ver histórico observações violência](../../static/img/modules/prontuary-suas/ver_historico_obs_violencia.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do lápis, e realizar toda a edição necessária.
+
+![editar histórico observações violência](../../static/img/modules/prontuary-suas/editar_historico_obs_violencia.jpg)
+
+Realizada todas as ações no bloco da Situações de Violência e Violações de Direitos, basta clicar no botão "Continuar".
+
+### Histórico de Cumprimento de Medidas Socioeducativas
 
