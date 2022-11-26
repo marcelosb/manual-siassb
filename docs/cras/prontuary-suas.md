@@ -1764,3 +1764,114 @@ Realizada todas as ações no bloco da Situações de Violência e Violações d
 
 ### Histórico de Cumprimento de Medidas Socioeducativas
 
+Famílias com a presença de adolescentes que cumpriram ou estão em cumprimento de medidas socioeducativas demandam e requerem proteção da Assistência Social e devem ser inseridas com prioridade nos serviços ofertados nos CRAS e CREAS ou a eles referenciados. Sendo necessário também o registro documental das informações sobre o histórico de cumprimento de medidas socioeducativas para garantir proteção social integral ao adolescente e a sua família, com a finalidade de qualificar as ações do acompanhamento familiar no âmbito do SUAS.
+
+A PNAS estabelece como usuários da política de assistência social "cidadãos e grupos que se encontram em situações de vulnerabilidade e riscos", garantindo, nesse sentindo, proteção social a adolescentes, em conformidade com a Lei 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
+
+Abaixo segue o passo a passo para as anotações nesse bloco, conforme a imagem abaixo:
+
+![bloco medidas socioeducativas](../../static/img/modules/prontuary-suas/bloco_medidas_socioeducativas.jpg)
+
+Perceba que ainda não existem ações de situações de Cumprimento de Medidas Socioeducativas registradas para essa família, então deve-se clicar no botão **"Registrar histórico"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar medida socioeducativa](../../static/img/modules/prontuary-suas/registrar_medida_socioeducativa.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Tipo de medida:** Para o registro das informações neste campo deve ser utilizado os Códigos dos Tipos de Medidas Socioeducativas dispostos a seguir:
+
+1. **`Liberdade Assistida (LA):`** É uma medida socioeducativa aplicada pelo poder judiciário visando acompanhar, auxiliar e orientar o adolescente a partir de uma intervenção educativa centrada no atendimento personalizado, garantindo a promoção social do mesmo, por meio do fortalecimento dos vínculos familiares e comunitários, inserção no mercado de trabalho e/ou cursos profissionalizantes.
+2. **`Prestação de Serviços à Comunidade (PSC):`** A Prestação de Serviços Comunitários – PSC consiste na realização de tarefas gratuitas de interesse geral, por período não excedente a seis meses, junto a entidades assistenciais, hospitais, escolas e outros estabelecimentos congêneres, bem como em programas comunitários ou governamentais (Art. 117, ECA).
+3. **`Advertência:`** A advertência consistirá em admoestação verbal, que será reduzida a termo e assinada. (Art. 115, ECA).
+4. **`Obrigação de Reparar o Dano:`** Em se tratando de ato infracional com reflexos patrimoniais, a autoridade poderá determinar, se for o caso, que o adolescente restitua a coisa, promova o ressarcimento do dano, ou, por outra forma, compense o prejuízo da vítima (Art. 116, ECA).
+5. **`Semiliberdade:`** O regime de semiliberdade pode ser determinado desde o início, ou como forma de transição para o meio aberto, possibilitada a realização de atividades externas, independentemente de autorização judicial (Art. 120, ECA).
+6. **`Internação:`** A internação constitui medida privativa da liberdade, sujeita aos princípios de brevidade, excepcionalidade e respeito à condição peculiar de pessoa em desenvolvimento (Art. 121, ECA).
+
+**Número do processo:** É o número gerado pela Vara da Infância e Juventude para o acompanhamento do cumprimento da medida socioeducativa pelo adolescente que praticou ato infracional. A intenção da coleta desse dado consiste em aperfeiçoar a articulação das equipes de referência do CRAS e do CREAS com as instâncias jurídicas.
+
+**Data de início:** A data de início deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Data de fim:** A data de fim deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar".
+
+![bloco medida socioeducatiiva sucesso](../../static/img/modules/prontuary-suas/bloco_medida_socioeducativa_sucesso.jpg)
+
+Perceba, que houve uma mudança no bloco, onde você poderá acompanhar o histórico de Cumprimento de Medidas Socioeducativas da família, como também foram liberadas 2 novas abas: 
+
+- Medida socioeducativa de LA ou PSC
+- Observações
+
+##### Ver histórico de cumprimento de medidas socioeducativas
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico medida socioeducativa](../../static/img/modules/prontuary-suas/ver_historico_medidas.jpg)
+
+##### Editar histórico de cumprimento de medidas socioeducativas
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico medida socioeducativa](../../static/img/modules/prontuary-suas/editar_historico_medida.jpg)
+
+#### Aba medida socioeducativa de LA ou PSC
+
+Para registrar um novo acompanhamento de medida socioeducativa, basta selecionar a aba, clicar no botão "Registrar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![aba la ou psc registrar](../../static/img/modules/prontuary-suas/aba_la_psc_registrar.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Acompanhado pelo CREAS:** Registre neste item se houve (ou não) acompanhamento da medida socioeducativa
+do adolescente pelo CREAS.
+ 
+**Data da anotação:** Informe a data em que foi realizada a anotação sobre o cumprimento de medida socioeducativa, considerando o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Está cumprindo medida socioeducativa de PSC:** Marque "Sim" ou "Não". Caso Sim, informar Local de prestação do serviço e o Orientador responsável.
+
+**Observação:** Caso o adolescente esteja cumprindo medida socioeducativa de PSC, registre mais detalhes sobre os contatos relativos ao local de prestação do serviço e do orientador responsável pelo acompanhamento. Considere que esses são dados importantes para o acompanhamento da medida socioeducativa do adolescente e para o trabalho social desenvolvido com a sua família.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar".
+
+![histórico aba la ou psc registrar](../../static/img/modules/prontuary-suas/historico_medidas_la_psc.jpg)
+
+##### Ver histórico aba medida socioeducativa de LA ou PSC
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico aba la ou psc](../../static/img/modules/prontuary-suas/ver_historico_aba_la_psc.jpg)
+
+##### Editar histórico aba medida socioeducativa de LA ou PSC
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico la ou psc](../../static/img/modules/prontuary-suas/editar_historico_la_psc.jpg)
+
+#### Aba observações de Cumprimento de Medidas Socioeducativas
+
+Para registrar uma nova observação de medida socioeducativa, basta selecionar a aba, clicar no botão "Registrar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![editar histórico observação medida](../../static/img/modules/prontuary-suas/registrar_historico_observacao_medida.jpg)
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre os Cumprimento de Medidas Socioeducativas, que sejam relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco. 
+
+Feito todo o procedimento, basta clicar no botão "Salvar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas neste bloco.
+
+![histórico observações medidas](../../static/img/modules/prontuary-suas/historico_observacoes_medidas.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do olho do registro correspondente.
+
+![ver histórico observações medida](../../static/img/modules/prontuary-suas/ver_historico_observacao_medida.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do lápis, e realizar toda a edição necessária.
+
+![editar histórico observações medida](../../static/img/modules/prontuary-suas/editar_historico_obs_medida.jpg)
+
+Realizada todas as ações no bloco do Cumprimento de Medidas Socioeducativas, basta clicar no botão "Continuar".
+
+### Acolhimento Institucional ou Familiar
+
