@@ -1875,3 +1875,113 @@ Realizada todas as ações no bloco do Cumprimento de Medidas Socioeducativas, b
 
 ### Acolhimento Institucional ou Familiar
 
+Os Serviços de Acolhimento integram o Sistema Único de Assistência Social e estão normatizados na Tipificação Nacional de Serviços Socioassistenciais (Resolução CNAS nº 109/2009) integrando o rol de Serviços de Proteção Social Especial de Alta Complexidade, assim organizados:
+
+- Serviço de Acolhimento Institucional, nas seguintes modalidades:
+   - Abrigo Institucional;
+   - Casa-Lar;
+   - Casa de Passagem;
+   - Residência Inclusiva.
+- Serviço de Acolhimento em República;
+- Serviço de Acolhimento em Família Acolhedora;
+- Serviço de Proteção em Situações de Calamidades Públicas e de
+Emergências.
+
+:::caution Atenção
+Crianças, adolescentes, pessoas idosas e pessoas com deficiência em situação de acolhimento são consideradas público prioritário para inclusão nos Serviços de Convivência e Fortalecimento de Vínculos (SCFV), conforme a Resolução CIT nº 01/2013. Logo, caso seja identificado na família usuária à presença de crianças, adolescentes, pessoas idosas e ou pessoas com deficiência em situação de acolhimento, estas devem ser encaminhadas, imediatamente, para participação nos SCFV ofertados no território. 
+:::
+
+Abaixo segue o passo a passo para as anotações nesse bloco no Prontuário:
+
+![bloco acolhimento](../../static/img/modules/prontuary-suas/bloco_acolhimento.jpg)
+
+Perceba que ainda não existem ações de Acolhimento Institucional ou Familiar registradas para essa família, então deve-se clicar no botão **"Registrar acolhimento"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar acolhimento](../../static/img/modules/prontuary-suas/registrar_acolhimento.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Período de acolhimento (Início e Fim):** É importante que seja registrado nesse quadro a data em que a pessoa da família entrou e saiu da instituição de acolhimento, seguindo o padrão dia/mês/ano. Essa informação permite que a equipe de referência do CRAS ou CREAS saiba por quanto tempo a pessoa permaneceu afastada do convívio familiar e comunitário, ou se ainda estar em situação de acolhimento. 
+
+De posse dessa informação a equipe pode propor ações e atividades específicas para cada família, considerando as peculiaridades da dinâmica familiar e do seu contexto socioeconômico, como o objetivo de estimular a convivência familiar e social. 
+
+**Motivo:** Neste item deve ser registrado de forma sucinta o motivo da situação de acolhimento. Exemplo: Medida de Proteção. Entretanto, todas as informações que forem registras nesse quadro deverão ser justificadas e fundamentadas na aba de observações. É importante perceber ainda se o motivo do acolhimento é decorrente da situação de pobreza vivenciada pela família. "Essa situação exige o investimento imediato de estratégias para retorno da pessoa em situação de acolhimento ao convívio familiar" (Brasil, 2009, p. 36)
+
+Realizado todos os procedimentos, basta clicar no botão "Registrar".
+
+![bloco acolhimento sucesso](../../static/img/modules/prontuary-suas/bloco_acolhimento_sucesso.jpg)
+
+Perceba, que houve uma mudança no bloco, onde você poderá acompanhar o histórico Acolhimento Institucional ou Familiar, como também foram liberadas 2 novas abas: 
+
+- Acompanhamento familiar
+- Observações
+
+##### Ver histórico aba acolhimento institucional ou familiar
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico acolhimento](../../static/img/modules/prontuary-suas/ver_historico_acolhimento.jpg)
+
+##### Editar histórico aba acolhimento institucional ou familiar
+
+Ao clicar no ícone do "lápis" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico acolhimento](../../static/img/modules/prontuary-suas/editar_historico_acolhimento.jpg)
+
+#### Aba Acolhimento familiar
+
+Para registrar um novo Acolhimento familiar, basta selecionar a aba, clicar no botão "Registrar acolhimento familiar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![aba registrar acolhimento](../../static/img/modules/prontuary-suas/aba_registrar_acolhimento.jpg)
+
+**Caso o grupo familiar, em seu conjunto, já tenha vivenciado alguma situação de acolhimento institucional (abrigamento) decorrente da perda, temporária ou definitiva do domicílio, quer em função de catástrofe natural ou de fatalidade pessoal, registre o período em que o fato ocorreu e o motivo/fato que levou ao acolhimento:** A equipe de referência do CRAS ou do CREAS deve registrar o período em que essa situação ocorreu e o motivo que levou ao acolhimento. 
+
+**Caso alguma criança/adolescente da família esteja, ou já tenha estado, sob guarda (legal ou informal) de outra pessoa não residente no domicílio (família extensa, amigos, patrões etc), registre o período em que o fato ocorreu, a razão pela qual ocorreu, a pessoa que esteve com a guarda e o nome ou número de ordem da criança/adolescente:** Registre o período em que essa situação ocorreu, a razão/motivo pela qual ocorreu, o nome da pessoa que esteve com a guarda e ainda o nome ou Número de Ordem da criança ou adolescente, conforme definido no bloco da Composição Familiar.
+
+**Outras situações de afastamento do convívio familiar:** Registre também no Prontuário as situações de afastamento do convívio familiar e comunitário de algum membro da família acompanhada pelo PAIF ou PAEFI em consequência de estar cumprindo pena em uma instituição prisional ou cumprindo medida socioeducativa de internação, no caso dos(as) adolescentes.
+
+Feito todo o procedimento, basta clicar no botão "Registrar".
+
+![bloco acolhimento sucesso](../../static/img/modules/prontuary-suas/historico_acolhimento_aba.jpg)
+
+##### Ver histórico aba acolhimento institucional ou familiar
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico aba acolhimento](../../static/img/modules/prontuary-suas/ver_historico_aba_acolhimento.jpg)
+
+##### Editar histórico aba acolhimento institucional ou familiar
+
+Ao clicar no ícone do "lápis" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico acolhimento](../../static/img/modules/prontuary-suas/editar_historico_acolhimento_aba.jpg)
+
+##### Aba observações acolhimento
+
+Para registrar uma nova observação de Acolhimento Institucional ou Familiar, basta selecionar a aba, clicar no botão "Registrar observação", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![registrar observação acolhimento](../../static/img/modules/prontuary-suas/registrar_observacao_acolhimento_aba.jpg)
+
+**Profissional responsável:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação:** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Observações:** Neste espaço o profissional pode registrar outras informações sobre as situações acolhimento, que sejam relevantes para o acompanhamento da família, e que não foram contempladas nos itens fechados do bloco.
+
+Feito todo o procedimento, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todos as observações realizadas neste bloco.
+
+![histórico observações acolhimento](../../static/img/modules/prontuary-suas/historico_observacoes_acolhimento.jpg)
+
+Após a primeira anotação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do olho do registro correspondente.
+
+![ver histórico observações acolhimento](../../static/img/modules/prontuary-suas/ver_historico_observacao_acolhimento.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do lápis, e realizar toda a edição necessária.
+
+![editar histórico observações acolhimento](../../static/img/modules/prontuary-suas/editar_historico_obs_acolhimento.jpg)
+
+Realizada todas as ações no bloco do Acolhimento Institucional ou Familiar, basta clicar no botão "Continuar".
+
+### Planejamento e evolução do acompanhamento familiar
+
+
