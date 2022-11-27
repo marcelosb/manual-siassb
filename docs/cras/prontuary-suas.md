@@ -2136,4 +2136,113 @@ Realizada todas as ações no bloco de planejamento e evolução do acompanhamen
 
 ### Encaminhamentos
 
+Este bloco do Prontuário tem a intenção de possibilitar aos técnicos do PAIF e do PAEFI um modelo de formulário de encaminhamento que seja padrão nos serviços ofertados no âmbito do SUAS, além de possibilitar aos profissionais um espaço onde possa ser feito um controle sistemático dos encaminhamentos realizados no processo de acompanhamento
+familiar. 
+
+As Orientações Técnicas do PAIF definem ENCAMINHAMENTOS como: "Processos de orientação e direcionamento das famílias, ou algum de seus membros, para serviços e ou benefícios socioassistenciais ou de outros setores, cujo objetivo
+consiste em promover aos usuários o acesso aos seus direitos e a conquista da cidadani". 
+
+Abaixo segue o passo a passo para as informações sobre os encaminhamentos no Prontuário:
+
+![bloco encaminhamento](../../static/img/modules/prontuary-suas/bloco_encaminhamneto.jpg)
+
+Perceba que ainda não existem encaminhamentos registrados para essa família, então deve-se clicar no botão **"Registrar encaminhamento"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar encaminhamento 01](../../static/img/modules/prontuary-suas/registrar_encaminhamento_01.jpg)
+![registrar encaminhamento 02](../../static/img/modules/prontuary-suas/registrar_encaminhamento_02.jpg)
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Área para a qual está sendo realizado o encaminhamento:** Para registrar a área para a qual a família (ou algum de seus membros) está sendo encaminhada utilize a "Tabela de Códigos de Encaminhamento", veja a seguir:
+
+- **05** - Para Serviços de Convivência e Fortalecimento de Vínculos voltados a Crianças e Adolescentes
+- **06** - Para Serviços de Convivência e Fortalecimento de Vínculos voltados para idosos
+- **07** - Para atualização cadastral no CadÚnico (inclusive quando realizada nesta própria Unidade)
+- **08** - Para inclusão no CadÚnico (inclusive quando realizada nesta própria Unidade)
+- **09** - Para o INSS, visando acesso ao BPC
+- **10** - Para o INSS, visando acesso a outros direitos, que não o BPC
+- **11** - Para acesso a Benefícios Eventuais
+- **12** - Para acesso a Documentação Civil (Certidão de Nascimento, RG, Carteira de Trabalho, etc)
+- **13** - Encaminhamento do CRAS para o CREAS (marcação exclusiva para o CRAS)
+- **14** - Encaminhamento do CREAS para o CRAS (marcação exclusiva para o CREAS)
+- **15** - Encaminhamento para outras unidades/serviços de Proteção Social Especial
+- **30** - Para Serviços de Saúde Bucal (por exemplo: Brasil Sorridente)	
+- **31** - Para Serviços de Saúde Mental	
+- **32** - Para Serviços de Saúde voltados ao acesso de órteses e próteses para pessoas com deficiência
+- **33** - Para Unidades de Saúde da Família
+- **34** - Para outros serviços ou unidades do Sistema Único de Saúde
+- **40** - Para Educação – Creche e Pré-escola (ensino infantil)
+- **41** - Para Educação – Rede regular de ensino (ensino fundamental e ensino médio)
+- **42** - Para Educação de Jovens de Adultos (por exemplo: Brasil Alfabetizado)
+- **50** - Para Serviços, Programas ou Projetos voltados à capacitação profissional
+- **51** - Para Serviços, Programas ou Projetos voltados à geração de trabalho e renda
+- **52** - Para Serviços, Programas ou Projetos voltados à intermediação de mão-de-obra
+- **53** - Para acesso a microcrédito
+- **54** - Para o Programa BPC-Trabalho
+- **60** - Para programa da área de habitação
+- **61** - Para acesso à Tarifa Social de Energia Elétrica
+- **70** - Para Conselho Tutelar
+- **71** - Para Poder Judiciário
+- **72** - Para Ministério Público
+- **73** - Para Defensoria Pública
+- **74** - Para Delegacias (especializadas ou não)
+- **99** - Outros
+
+**A unidade para o qual está sendo feito este encaminhamento pertence a secretaria de assistência social:** O profissional deve marcar "Sim" ou "Não".
+
+Caso sim, o profissional deve selecionar a Unidade da secretaria de assistência social.
+
+**Localização do Órgão/Unidade:** Informar a localização do órgão/unidade.
+
+**Objetivo/Motivo:** Registre brevemente o motivo do encaminhamento.
+
+**Descrição do encaminhamento:** Nesse campo devem ser registradas anotações complementares sobre a situação da família acompanhada pelo serviço, que possam contribuir para o atendimento da família na rede socioassistencial ou na rede setorial de políticas públicas.
+
+**Data do encaminhamento** Informe a data em que foi realizado o encaminhamento, considerando o dia, mês e o ano, seguindo o padrão dd/mm/aaaa.
+
+**Telefone para contato:** Caso seja necessário, informar o telefone para contato do órgão que está encaminhando.
+
+**Nome do profissional:** É obrigatório registrar a identificação do profissional responsável pelo encaminhamento.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todas as observações realizadas neste sub-bloco.
+
+![bloco encaminhamento sucesso](../../static/img/modules/prontuary-suas/bloco_encaminhamneto_sucesso.jpg)
+
+Após o registro do primeiro encaminhamento, é exibido o histórico, com os botões de visualizar, editar, ralizar acompanhamento e imprimir.
+
+#### ver encaminhamento
+
+Caso queira visualizar os dados, basta clicar no ícone do olho do registro correspondente.
+
+![ver encaminhamento](../../static/img/modules/prontuary-suas/ver_encaminhamento.jpg)
+
+#### editar encaminhamento
+
+Caso haja a necessidade de alterar os dados do encaminhamento, basta clicar no ícone do "lápis", e realizar toda a edição necessária.
+
+![editar encaminhamento](../../static/img/modules/prontuary-suas/editar_encaminhamento_01.jpg)
+![editar encaminhamento](../../static/img/modules/prontuary-suas/editar_encaminhamento_02.jpg)
+
+#### imprimir encaminhamento
+
+Para imprimir o formulário de encaminhamento, basta clicar no ícone da "impressora", o sistema irá abrir uma nova aba, após isso basta imprimir o documento ou salvar como PDF, conforme a imagem abaixo.
+
+![imprimir encaminhamento](../../static/img/modules/prontuary-suas/imprimir_encaminhamento.jpg)
+
+:::caution Atenção
+O encaminhamento deve ser formalizado por meio de algum tipo de documento ou formulário que possa ser entregue ao usuário e/ou enviado para a outra unidade. Caso o encaminhamento seja realizado entre equipamentos da própria assistência social, a impressão do documento é opcional pois o sistema já notifica a equipe de destino através de alertas.
+:::
+
+#### Registrar acompanhamento do encaminhamento
+
+Para registrar uma observação do encaminhamento, basta clicar no ícone de "anotação", que irá ser aberta a seguinte janela modal.
+
+![registrar acompanhamento encaminhamento](../../static/img/modules/prontuary-suas/registrar_acompanhamento_encaminhamento.jpg)
+
+Nesse campo devem ser registradas anotações complementares sobre a situação da família acompanhada pelo serviço, que possam contribuir para o atendimento da família na rede socioassistencial ou na rede setorial de políticas públicas.
+
+Realizada todas as ações no bloco do encaminhamento, basta clicar no botão "Continuar".
+
+### Registro simplificado dos atendimentos
+
 
