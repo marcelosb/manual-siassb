@@ -1984,4 +1984,156 @@ Realizada todas as ações no bloco do Acolhimento Institucional ou Familiar, ba
 
 ### Planejamento e evolução do acompanhamento familiar
 
+Este bloco tem a intenção de fomentar e estimular a prática sistemática do registro das informações sobre as ações desenvolvidas com as famílias, do registro sobre os procedimentos adotados e abordagens metodológicas utilizadas no acompanhamento das famílias e também o registro da evolução do acompanhamento familiar, em um único instrumento. Note que o registro e consolidação dessas informações irão contribuir para o gerenciamento do trabalho social com famílias do PAIF e do PAEFI.
+
+Nesta seção do Prontuário os técnicos responsáveis pelo acompanhamento familiar podem registrar informações referentes à direção, planejamento, organização, monitoramento e avaliação do trabalho social com famílias no âmbito do PAIF e do PAEFI. 
+
+Abaixo segue o passo a passo para as anotações nesse bloco do Prontuário:
+
+![bloco planejamento](../../static/img/modules/prontuary-suas/bloco_planejamento.jpg)
+
+Perceba que ainda não existem ações de planejamento e evolução do acompanhamento familiar registradas para essa família, então deve-se clicar no botão **"Registrar planejamento inicial"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![registrar planejamento inicial](../../static/img/modules/prontuary-suas/registrar_planejamento_inicial.jpg)
+
+**Profissional responsável e função:** Selecionar o profissional que irá registrar a anotação.
+
+**Data da anotação** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Anotações** Nas anotações devem estar contidos os objetivos, estratégias, metas e atividades a serem desenvolvidas com a família ou membro familiar, que possam contribuir para nortear o trabalho social a ser desenvolvido com a família/indivíduo, a elaboração do Plano de Acompanhamento Familiar, contribuindo para a avaliação dos resultados e evolução do acompanhamento familiar.
+
+Feito o preenchimento de todos os campos, basta clicar no botão "Registrar", assim será exibida a seguinte imagem.
+
+![histórico planejamento](../../static/img/modules/prontuary-suas/historico_planejamento.jpg)
+
+Perceba, que houve uma mudança no bloco de planejamento, onde você poderá acompanhar o histórico de planejamento e evolução do acompanhamento familiar, como também foram liberadas 3 abas: 
+
+- Evolução do acompanhamento familiar
+- Avaliação do acompanhamento familiar
+- Desligamento da família
+
+:::info Atenção
+Caso a família seja desligada, será exibida uma nova aba chamada `"Reativação da família"`.
+:::
+
+##### Ver histórico aba planejamento
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico planejamento](../../static/img/modules/prontuary-suas/ver_historico_planejamento.jpg)
+
+##### Editar histórico aba planejamento
+
+Ao clicar no ícone do "lápis" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico planejamento](../../static/img/modules/prontuary-suas/editar_historico_planejamento.jpg)
+
+#### Aba evolução do acompanhamento familiar
+
+Para registrar uma nova evolução do acompanhamento familiar, basta selecionar a aba, clicar no botão "Registrar", será aberta uma nova janela modal, veja na imagem abaixo.
+
+![aba registrar evolução](../../static/img/modules/prontuary-suas/registrar_evolucao_planejamento.jpg)
+
+**Profissional responsável e função:** Selecionar o profissional que irá registrar a anotação..
+
+**Data da anotação** A data de anotação deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa.
+
+**Anotações** Este espaço no Prontuário é destinado às anotações qualitativas sobre aspectos importantes da dinâmica familiar que venham a ser identificados durante o processo de acompanhamento. Deve, também, ser utilizado para anotações pertinentes aos procedimentos e atividades desenvolvidas com a família e para avaliação dos resultados obtidos.
+
+Feito o preenchimento de todos os campos, basta clicar no botão "Registrar", assim será exibida a seguinte imagem.
+
+![histórico evolução planejamento](../../static/img/modules/prontuary-suas/historico_evolucao_planejamento.jpg)
+
+Após a primeira evolução registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do olho do registro correspondente.
+
+![ver histórico evolução](../../static/img/modules/prontuary-suas/ver_historico_evolucao_planejamento.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do lápis, e realizar toda a edição necessária.
+
+![editar histórico evolução](../../static/img/modules/prontuary-suas/editar_historico_evolucao_planejamento.jpg)
+
+#### Aba avaliação do acompanhamento familiar
+
+A avaliação de resultados do acompanhamento familiar pode ser realizada sempre que a equipe técnica julgar necessária, sendo fundamental para a adequação no Plano de Acompanhamento Familiar. A avaliação de resultados deve ser realizada com a participação da família acompanhada, devendo ser consideradas as opiniões e percepções da própria família. Para essa avaliação é importante considerar ainda os fatores que contribuem ou dificultam o alcance dos resultados.
+
+Abaixo segue o passo a passo para o registro da avaliação nessa aba do Prontuário:
+
+![registrar avaliação aba 01](../../static/img/modules/prontuary-suas/registrar_avaliacao_aba_01.jpg)
+![registrar avaliação aba 01](../../static/img/modules/prontuary-suas/registrar_avaliacao_aba_02.jpg)
+
+**Nome do profissional responsável:** Selecionar o profissional que realizou a avaliação dos resultados do acompanhamento da família do PAIF ou PAEFI.
+
+**Data da avaliação** Nesse item deve ser registrada a data da avaliação do resultado do acompanhamento familiar. A informação deve seguir o padrão dia/mês/ano.
+
+**Número de meses que a família está sendo acompanhada:** Registre nesse item o número de meses que a família foi ou está sendo acompanhada pelo PAIF ou PAEFI, o qual deve ser contado a partir do mês em que a família foi inserida no serviço até o mês em que foi desligada do acompanhamento familiar.
+
+**Foram efetivamente disponibilizadas para a família/indivíduo todas as ofertas de Assistência Social (em termos de serviços, benefícios, programas e projetos) cuja necessidade havia sido identificada pelo profissional:** Lembre-se que promover o acesso dos usuários do PAIF e do PAEFI aos serviços, benefícios, programas e projetos socioassistenciais, é objetivo dos serviços ofertados no âmbito do SUAS. Essa informação possibilita avaliar se o "Estado ofereceu respostas adequadas às demandas e necessidades apresentadas pelas famílias, conforme orientações técnicas do PAIF" (Brasil, 2012, p. 81).
+
+**Em relação aos encaminhamentos da família/indivíduo para as demais políticas, houve atendimento efetivo e resolutivo por parte da área que recebeu o(s) encaminhamento(s):** Dessa forma, selecione "Sim", caso tenha sido feito o encaminhamento da família ou membro familiar para serviços de outras políticas públicas (Educação, Saúde, Esporte, Cultura, Segurança, etc.) e se houve atendimento com resolutiva do problema. Selecione "Parcialmente", para as situações onde foi feito o encaminhamento da família ou indivíduo para serviços de outras políticas públicas (Educação, Saúde, Segurança, etc.), houve o atendimento, mas não houve resolutiva do problema. Selecione "Não", caso tenha sido feito o encaminhamento para serviços das políticas públicas setoriais (Educação, Saúde, Segurança, etc.), mas que não houve atendimento. Registre "Não se Aplica" para as situações onde não houve nenhum encaminhamento para serviços das demais políticas públicas setoriais.
+
+**A família reconhece o Serviço de Acompanhamento como algo que contribui para a superação ou enfrentamento dos seus problemas e dificuldades e deseja continuar recebendo atenções deste Serviço:** Importante lembrar que o registro desse item deve ser declarado pela família que foi ou está em acompanhamento familiar do PAIF ou PAEFI.
+
+**Como você classifica os resultados obtidos, até o presente momento, no que se refere à ampliação da capacidade de enfrentamento ou superação das condições de vulnerabilidade e/ou risco social e pessoal por parte da família/indivíduo:**
+
+- Houve um agravamento/piora em relação à situação inicial da família/indivíduo;
+- A situação atual é equivalente à situação inicial, sem avanços identificáveis;
+- Houve avanço/melhoria da capacidade de enfrentamento ou de superação dos riscos e vulnerabilidades;
+- Houve significativo avanço/melhoria da capacidade de enfrentamento ou de superação dos riscos e vulnerabilidades, justificando-se o desligamento do acompanhamento sistemático, sem prejuízo da eventual permanência da família ou indivíduo em outros programas, projetos, serviços ou benefícios da Assistência Social.
+
+Feito o preenchimento de todos os campos, basta clicar no botão "Registrar", assim será exibida a seguinte imagem.
+
+![histórico avaliação aba](../../static/img/modules/prontuary-suas/historico_avaliacao_aba.jpg)
+
+Após a primeira avaliação registrada, é exibido o histórico de alterações, com os botões de visualizar e editar, caso queira visualizar os dados, basta clicar no ícone do olho do registro correspondente.
+
+![ver histórico avaliação](../../static/img/modules/prontuary-suas/ver_historico_avaliacao_aba.jpg)
+
+Caso haja a necessidade de alterar os dados das anotações, basta clicar no ícone do lápis, e realizar toda a edição necessária.
+
+![editar histórico avaliação](../../static/img/modules/prontuary-suas/editar_historico_avaliacao_aba_01.jpg)
+![editar histórico avaliação](../../static/img/modules/prontuary-suas/editar_historico_avaliacao_aba_02.jpg)
+
+#### Aba desligamento da família
+
+Para desligar uma família, basta clicar na aba de desligamento, a imagem abaixo será exibida.
+
+![aba desligamento da família](../../static/img/modules/prontuary-suas/aba_desligamento_da_familia.jpg)
+
+Após isso, basta clicar no botão "Registrar desligamento", será mostrado o modal conforme a imagem abaixo.
+
+![modal desligamento da família](../../static/img/modules/prontuary-suas/modal_registrar_desligamento_aba.jpg)
+
+**Técnico responsável e função:** Selecionar o profissional que irá realizar o desligamento da família.
+
+**Data de desligamento:** Nesse item deve ser registrada a data do desligamento da família. A informação deve seguir o padrão dia/mês/ano.
+
+**Razão do desligamento:** A razão do desligamento deve ser selecione conforme os items abaixo:
+
+- Avaliação técnica
+- Evasão ou recusa da família
+- Mudança de município
+- Outros
+
+Feito o preenchimento de todos os campos, basta clicar no botão "Desligar", assim será exibida a seguinte imagem.
+
+![bloco desligamento sucesso](../../static/img/modules/prontuary-suas/bloco_desligamento_sucesso.jpg)
+
+Perceba que a situação cadastral da família foi modificada de "Família em acompanhamento" para "Família desligada". Além disso uma nova aba foi exibida chamada de "Reativação da família".
+
+Caso haja a necessidade de editar o registro de desligamento, basta clicar no ícone do "lápis" do registro correspondente.
+
+![editar histórico desligamento](../../static/img/modules/prontuary-suas/editar_historico_desligamento.jpg)
+
+#### Aba reativação da família
+
+Caso haja a necessidade de reativar a família, basta clicar na aba, que será exibida a seguinte aba.
+
+![aba reativação](../../static/img/modules/prontuary-suas/aba_reativacao.jpg)
+
+Após a abertura da aba, basta clicar no botão "Reativar", assim a família voltará para situação de acompanhamento familiar.
+
+Realizada todas as ações no bloco de planejamento e evolução do acompanhamento familiar, basta clicar no botão "Continuar".
+
+### Encaminhamentos
+
 
