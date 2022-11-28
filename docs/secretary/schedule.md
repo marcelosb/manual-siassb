@@ -119,9 +119,25 @@ Como anteriormente foi registrado um período de agendamento, logo o sistema con
 
 ![registrar agendamento usuário](../../static/img/secretary/schedule/registrar_agendamento_usuario.jpg)
 
-Primeiramente deve selecionar um horário disponível para agendamento (no exemplo acima 07:00 ou 08:00), informar o nome do usuário, CPF (não obrigatório, mas recomendado), e os serviços que serão prestados.
+**Hora do atendimento:** Selecione o horário em que o usuário será atendido.
 
-Feito o agendamento do usuário, haverá o redirecionamento para a tela de impressão do comprovante de agendamento.
+**Nome do usuário:** Informe o nome completo do usuário, conforme consta na Certidão de Nascimento, Documento de Identidade, CPF ou outro documento legal. O registro dessa informação é de grande relevância para estabelecer um contato personalizado com a família.
+
+**CPF:** Informe o número do Cadastro de Pessoa Física (CPF). O CPF é destinado a pessoas físicas e é emitido pela Receita Federal. O CPF contém um número identificador que não muda mesmo em caso de segunda via do cartão.
+
+**Serviços que serão prestados:** São todos os serviços que serão prestados no ato do atendimento, podem ser selecionados mais de um.
+
+:::note Atenção
+Todos os campos que possuem *(asterísco) são de preenchimento obrigatório!
+:::
+
+:::tip Muito importante
+Para que seja gerado o histórico de atendimentos do usuário, é necessário o preenchimento do campo CPF, caso contrário, o registro do usuário não vai para a linha do tempo dos atendimentos, e com isso não haverá a unificação dos dados do usuário.
+
+Para saber mais, leia: [**`como funciona o histórico de atendimentos`**](/manual-siassb/historic).
+:::
+
+Realizado todos os procedimentos, basta clicar no botão "Agendar", feito o agendamento do usuário, haverá o redirecionamento para a tela de impressão do comprovante de agendamento.
 
 ![usuário agendado](../../static/img/secretary/schedule/usuario_agendado.jpg)
 

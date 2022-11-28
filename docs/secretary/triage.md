@@ -11,24 +11,31 @@ O objetivo principal da triagem é agilizar o atendimento, fazendo com que os t�
 
 ## Registrando seu primerio atendimento diário
 
-Após o processo de login no sistema, para registrar um atendimento na recepção, basta clicar na **unidade da secretaria -> Atendimentos diários -> Registrar atendimento diário**, o sistema irá mostra a tela de registrar atendimento diário, conforme a imagem abaixo:
+Após o processo de login no sistema, para registrar um atendimento na recepção, basta clicar em **Secretaria -> Atendimentos diários -> Registrar atendimento diário**, o sistema irá mostra a tela de registro, conforme a imagem abaixo:
 
 ![cadastrar atendimento diário](../../static/img/secretary/triage/cadastrar.jpg)
 
-Os campos utilizados para registrar o usuário são:
-- **Nome do usuário** (é recomendado não incluir acentuação)
-- **CPF** do usuário
-- **Serviços prestados** (podem ser selecionados mais de um)
-- **Unidade de atendimento** (geralmente o ponto de atendimento da recepção)
-- **Data do atendimento** (o sistema exibe a data atual, mas pode ser alterada para fins de atendimento tardio, ou seja, se o atendimento foi realizado ontem e o sistema estava indisponível por algum motivo, o atendimento pode ser registrado no papel e no dia seguinte pode ser registrado no sistema como um atendimento tardio).
+**Nome do usuário:** Informe o nome completo do usuário, conforme consta na Certidão de Nascimento, Documento de Identidade, CPF ou outro documento legal. O registro dessa informação é de grande relevância para estabelecer um contato personalizado com a família. 
 
-:::info Importante
-Todos os campos que possuem * são de preenchimento obrigatório
+**CPF:** Informe o número do Cadastro de Pessoa Física (CPF). O CPF é destinado a pessoas físicas e é emitido pela Receita Federal. O CPF contém um número identificador que não muda mesmo em caso de segunda via do cartão.
+
+**Serviços prestados:** São todos os serviços que serão prestados no ato do atendimento, podem ser selecionados mais de um.
+
+**Unidade de atendimento:** O ponto onde está sendo realizado o atendimento.
+
+**Data do atendimento:** O sistema exibe a data atual, mas pode ser alterada para fins de atendimento tardio, ou seja, se o atendimento foi realizado ontem e o sistema estava indisponível por algum motivo, o atendimento pode ser registrado no papel e no dia seguinte pode ser registrado no sistema como um atendimento tardio.
+
+:::note Atenção
+Todos os campos que possuem *(asterísco) são de preenchimento obrigatório!
 :::
 
-É recomendado o preenchimento do campo CPF, caso o CPF não seja informado, o registro do usuário não vai para a linha do tempo dos atendimentos, e com isso não haverá a unificação dos dados do usuário.
+:::tip Muito importante
+Para que seja gerado o histórico de atendimentos do usuário, é necessário o preenchimento do campo CPF, caso contrário, o registro do usuário não vai para a linha do tempo dos atendimentos, e com isso não haverá a unificação dos dados do usuário.
 
-Para saber mais, leia: [`como funciona o histórico de atendimentos`](/manual-siassb/historic).
+Para saber mais, leia: [**`como funciona o histórico de atendimentos`**](/manual-siassb/historic).
+:::
+
+Feito todos os procedimentos, basta clicar no botão "Registrar".
 
 ## Buscar atendimento diário
 

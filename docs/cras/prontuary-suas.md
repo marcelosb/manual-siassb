@@ -252,7 +252,6 @@ Agora ao retornar para a tela do prontuário SUAS no bloco de Forma de Ingresso 
 
 Por fim, basta clicat no botão "Atualizar", feito a atualização. basta clicar no botão "Continuar", que o sistema irá redirionar para o bloco da Composição Familiar.
 
-
 ### Composição Familiar
 
 Foi fundamentado no conceito de matricialidade sociofamiliar proposto pela PNAS (Política Nacional de Assistência Social) que o bloco da Composição Familiar no Prontuário SUAS foi pensado e elaborado. Sendo essencial que a equipe de referência do CRAS e do CREAS registre nesse item todas as informações pessoais de cada membro da família usuária do serviço, o que contribui para o planejamento da oferta qualificada do PAIF e do PAEFI.
@@ -381,7 +380,6 @@ O perfil etário é gerado automaticamente após a inclusão dos membros da fam�
 :::
 
 ![faixa etária](../../static/img/modules/prontuary-suas/perfil_etario.jpg)
-
 
 #### Especificidades sociais, étnicas ou culturais da família
 
@@ -2208,7 +2206,7 @@ Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema 
 
 ![bloco encaminhamento sucesso](../../static/img/modules/prontuary-suas/bloco_encaminhamneto_sucesso.jpg)
 
-Após o registro do primeiro encaminhamento, é exibido o histórico, com os botões de visualizar, editar, ralizar acompanhamento e imprimir.
+Após o registro do primeiro encaminhamento, é exibido o histórico, com os botões de visualizar, editar, realizar acompanhamento e imprimir.
 
 #### ver encaminhamento
 
@@ -2245,4 +2243,53 @@ Realizada todas as ações no bloco do encaminhamento, basta clicar no botão "C
 
 ### Registro simplificado dos atendimentos
 
+Este campo do Prontuário possibilita que o técnico registre, de forma breve e sucinta, todos os atendimentos realizados com a família (ou membro familiar) durante o período em que estiver sendo acompanhada pelo PAIF ou PAEFI. Logo, a organização resumida das informações referentes ao acompanhamento familiar permite que a equipe técnica do CRAS e CREAS consolide de forma concisa os principais dados sobre esse atendimento, colaborando para a avalição e aprimoramento do trabalho social com as famílias, servindo também, para alimentar a vigilância socioassistencial do município. 
 
+Abaixo segue o passo a passo para as ações sobre o registro simplificado dos atendimentos:
+
+![bloco registro simplificado](../../static/img/modules/prontuary-suas/bloco_registro_simplificado.jpg)
+
+Perceba que ainda não existem registros simplificados para essa família, então deve-se clicar no botão **"Criar registro simplificado de atendimento"**, assim será exibida uma janela modal, conforme a imagem abaixo.
+
+![criar registro simplificado](../../static/img/modules/prontuary-suas/criar_registro_simplificado.jpg)
+
+**Data da atendimento:** Para qualificar a informação é necessário registrar nesse campo o dia, o mês e o ano em que o atendimento foi realizado seguindo o padrão dd/mm/aaaa. 
+
+**Nº de ordem e nome da pessoa:** Nesse campo deve-se selecionar o número de ordem seguido do nome da pessoa, onde esses dados foram registrados anteriormente no bloco da Composição Familiar, não necessita, portanto, ser solicitado à família novamente, bastando ser selecionado pelo profissional responsável. 
+
+**Descrição sumária do atendimento:** A Descrição Sumária do Atendimento é o resumo das ações e atividades desenvolvidas com a família/indivíduo. 
+
+EXEMPLO: Acolhida, Acompanhamento Particularizado, Oficinas com Famílias, Ações Comunitárias, Grupo de SCFV para pessoas idosas.
+
+**Código auxiliar:** Para o registro das informações neste campo do Prontuário devem ser utilizados os "Códigos Auxiliares para Descrição Sumária dos Atendimentos", assim distribuídos:
+
+1. Atendimento Socioassistencial Individualizado
+2. Atendimento em Atividade Coletiva de Caráter Continuado:
+3. Participação em Atividade Coletiva de Caráter não Continuado:
+4. Cadastramento/Atualização Cadastral:
+5. Acompanhamento de MSE (Medidas Socioeducativas):
+6. Solicitação/Concessão de Benefício Eventual:
+7. Visita Domiciliar
+9. Outros
+
+**Nome do técnico responsável:** Selecionar o técnico responsável pelo atendimento.
+
+Feito todos os procedimentos, basta clicar no botão "Registrar", que o sistema irá redirecionar e mostrar a listagem de todas os registros realizados neste bloco.
+
+![histórico registro simplificado](../../static/img/modules/prontuary-suas/historico_registro_simplificado.jpg)
+
+Após o registro do primeiro encaminhamento, é exibido o histórico, com os botões de visualizar e editar.
+
+##### Ver histórico aba planejamento
+
+Ao clicar no ícone do "olho" do registro correspondente, será exibida uma janela modal com os seguintes dados.
+
+![ver histórico registro simplificado](../../static/img/modules/prontuary-suas/ver_historico_registro_simplificado.jpg)
+
+##### Editar histórico aba planejamento
+
+Ao clicar no ícone do "lápis" do registro correspondente, será exibida uma janela modal com os seguintes dados para atualização.
+
+![editar histórico registro simplificado](../../static/img/modules/prontuary-suas/editar_historico_registro_simplificado.jpg)
+
+## Buscar prontuário

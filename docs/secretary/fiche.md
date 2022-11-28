@@ -17,9 +17,19 @@ Para configurar a impressão de senhas, basta clicar em **Secretaria -> Fichas -
 
 ![configurar impressão de senhas](../../static/img/secretary/fiche/configurar_impressao_de_senha.jpg)
 
-No campo nome da unidade pode ser inserido o nome da prefeitura ou o nome da unidade de atendimento, conforme as necessidades do município, o mesmo vale para o campo de cabeçalho, já no campo habilitar impressão de senha, caso o mesmo esteja marcado como sim, o município vai necessitar de uma impressora, de preferência do tipo térmica (não fiscal - 80mm), caso esteja marcado como não, não haverá a necessidade de impressão do papel.
+**Nome da unidade:** Pode ser inserido o nome da prefeitura ou o nome da unidade de atendimento, conforme as necessidades do município.
 
-No campo rodapé pode ser inserida uma frase conforme as necessidades do município, e os campos de exibir prioridade, exibir nome do serviço, data e hora não são campos com marcação obrigatória, ficando a disposição de mostrar esses campos ou não no ato da impressão da senha.
+**Habilitar impressão de senha:** Caso esteja marcado como "sim", o município vai necessitar de uma impressora, de preferência do tipo térmica (não fiscal - 80mm), caso esteja marcado como "não", não haverá a necessidade de impressão do papel.
+
+**Cabeçalho:** Pode ser inserido o nome da prefeitura ou o nome da unidade de atendimento, conforme as necessidades do orgão gestor.
+
+**Cabeçalho:** Pode ser inserida uma frase conforme as necessidades do orgão gestor.
+
+**Exibir prioridade:** Marque caso queira exibir o nome da prioridade na senha.
+
+**Exibir nome do serviço:** Marque caso queira exibir o nome do serviço na senha.
+
+**Exibir data e hora:** Marque caso queira exibir o carimbo de data e hora nome na senha.
 
 :::caution Atenção
 A imagem destacada no lado direito da página é apenas uma prévia de como será a impressão, é uma imagem **meramente ilustrativa!**
@@ -89,7 +99,7 @@ Para listar ou cadastrar novos tipos de prioridade, vá em **Secretaria -> Ficha
 
 ![lista de prioridades](../../static/img/secretary/fiche/prioridades.jpg)
 
-Por padrão o sistema já vem com algumas prioridades:
+Por padrão o sistema já vem com algumas prioridades, dentre elas podemos citar:
 
 - **DEFICIENTE**
 - **GESTANTE**
@@ -138,7 +148,38 @@ Para gerar uma senha de atendimento via recepção, vá em **Secretaria -> Ficha
 
 ![gerar nova senha](../../static/img/secretary/fiche/cadastrar_senha.jpg)
 
-Informe o nome do usuário, CPF (não obrigatório) mas é recomendado [`(saiba mais)`](/manual-siassb/historic/), unidade de atendimento por onde o usuário está passando (geralmente é a recepção), serviços que serão prestados (podem ser selecionados mais de um). Serviço principal, Tipo de senha que será gerada (convencional ou prioritária) conforme [a lei federal Nº 10.048, de 8 de Novembro de 2000](https://www.planalto.gov.br/ccivil_03/leis/l10048.htm), se o tipo da senha selecionada for prioritária, selecionar a prioridade e depois clicar no botão "Gerar senha".
+**Nome do usuário:** Informe o nome completo do usuário, conforme consta na Certidão de Nascimento, Documento de Identidade, CPF ou outro documento legal. O registro dessa informação é de grande relevância para estabelecer um contato personalizado com a família.
+
+**CPF:** Informe o número do Cadastro de Pessoa Física (CPF). O CPF é destinado a pessoas físicas e é emitido pela Receita Federal. O CPF contém um número identificador que não muda mesmo em caso de segunda via do cartão.
+
+**Unidade de atendimento:** O ponto onde está sendo realizado o atendimento.
+
+**Serviços que serão prestados:** São todos os serviços que serão prestados no ato do atendimento, podem ser selecionados mais de um.
+
+**Serviço principal:** Selecione o serviço principal que será exibido na senha impressa.
+
+**Tipo de senha:** Marque se a senha é do tipo convencional ou prioritária, é importante que o profissional da recepção observe a situação e sempre pergunte ao usuário se o mesmo possui alguma deficiência dentre outras limitações, para que a senha seja gerada da forma correta e atenda aos requisitos da lei.
+
+**Prioridade:** Por padrão os tipos de prioridades são:
+
+- Deficiente
+- Gestante
+- Idoso(a) com 60 anos ou mais
+- Lactante
+- Obeso
+- Pessoa com criança de colo
+
+:::danger Reforçando
+É importante que o profissional da recepção observe sempre a situação do usuário que será atendido, se o mesmo possui alguma deficiência dentre outras limitações, para que a senha seja gerada da forma correta e atenda aos requisitos conforme [`a lei federal Nº 10.048, de 8 de Novembro de 2000`](https://www.planalto.gov.br/ccivil_03/leis/l10048.htm).
+:::
+
+:::tip Muito importante
+Para que seja gerado o histórico de atendimentos do usuário, é necessário o preenchimento do campo CPF, caso contrário, o registro do usuário não vai para a linha do tempo dos atendimentos, e com isso não haverá a unificação dos dados do usuário.
+
+Para saber mais, leia: [`como funciona o histórico de atendimentos`](/manual-siassb/historic).
+:::
+
+Realizado todos os procedimentos, basta clicar no botão "Gerar senha".
 
 ### Imprimindo a senha de atendimento
 
