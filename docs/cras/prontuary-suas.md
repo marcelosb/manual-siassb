@@ -82,8 +82,8 @@ O Prontuário SUAS é subdividido em blocos que organizam o registro de informa�
 11. Situações de Violência e Violação de Direitos;
 12. Histórico de Cumprimento de Medidas Socioeducativas;
 13. Histórico de Acolhimento Institucional;
-14. Planejamento e Evolução do Acompanhamento Familiar; e
-15. Formulário de Controle de Encaminhamentos
+14. Planejamento e Evolução do Acompanhamento Familiar;
+15. Formulário de Controle de Encaminhamentos;
 16. Registro Simplificado dos Atendimentos;
 
 ### Identificação da Pessoa de Referência e Endereço da Família
@@ -93,8 +93,7 @@ Neste bloco, é necessário registrar os dados de identificação da pessoa de r
 ![bloco de identificação](../../static/img/modules/prontuary-suas/bloco_identificacao_endereco.jpg)
 ![bloco de identificação endereço](../../static/img/modules/prontuary-suas/bloco_identificacao_endereco_02.jpg)
 
-**Nome completo da pessoa de referência:** Escrever o nome completo da pessoa de referência conforme consta no seu
-registro de identidade. O nome da pessoa de referência deve constar na capa do Prontuário SUAS. 
+**Nome completo da pessoa de referência:** Escrever o nome completo da pessoa de referência conforme consta no seu registro de identidade. O nome da pessoa de referência deve constar na capa do Prontuário SUAS. 
 
 **Apelido (caso seja relevante):** O apelido se refere à forma como a pessoa de referência é conhecida socialmente ou como prefere ser chamada.
 
@@ -284,8 +283,7 @@ sobrenomes. Cada membro da família terá um número de ordem atribuído de form
 **Data de nascimento:** A data de nascimento de cada pessoa da família deve constar o dia, mês e ano, seguindo o padrão dd/mm/aaaa, conforme consta no Registro Civil de Nascimento, Carteira de Identidade ou outros documentos
 legais.
 
-**Parentesco:** O parentesco com a pessoa de referência deve ser marcado conforme a lista de códigos de parentescos
-contida na lista seguinte:
+**Parentesco:** O parentesco com a pessoa de referência deve ser marcado conforme a lista de códigos de parentescos contida na lista seguinte:
 
 **1.** Pessoa de Referência  
 **2.** Cônjuge/companheiro(a)  
